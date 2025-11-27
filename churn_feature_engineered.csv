@@ -1,0 +1,901 @@
+Names,Age,Total_Purchase,Account_Manager,Years,Num_Sites,Onboard_date,Location,Company,Churn,State,City,Tenure,Agegroup,Spendperyear,Siteperyear,HasAccountManager,Onboard_year,OnboardQuarter,CompanyRisk,EngagementScore,LoyaltyScore
+Cameron Williams,42,11066.8,0,7.22,8,2013-08-30 07:00:00,"10265 Elizabeth Mission Barkerburgh, AK 89518",Harvey LLC,1,AK,Barkerburgh,5-10years,35-45,1532.8,1.1,No,2013,3,1.0,57.76,1346.33
+Kevin Mueller,41,11916.22,0,6.5,11,2013-08-13 00:38:00,"6157 Frank Gardens Suite 019 Carloshaven, RI 17756",Wilson PLC,1,RI,Carloshaven,5-10years,35-45,1833.26,1.7,No,2013,3,0.33,71.5,1588.83
+Eric Lozano,38,12884.75,0,6.67,12,2016-06-29 06:20:00,"1331 Keith Court Alyssahaven, DE 90114","Miller, Johnson and Wallace",1,DE,Alyssahaven,5-10years,35-45,1931.75,1.8,No,2016,2,1.0,80.03999999999999,1679.89
+Phillip White,42,8010.76,0,6.71,10,2014-04-22 12:43:00,"13120 Daniel Mount Angelabury, WY 30645-4695",Smith Inc,1,WY,Angelabury,5-10years,35-45,1193.85,1.5,No,2014,2,1.0,67.1,1039.01
+Cynthia Norton,37,9191.58,0,5.56,9,2016-01-19 15:31:00,"765 Tricia Row Karenshire, MH 71730",Love-Jones,1,MH,Karenshire,5-10years,35-45,1653.16,1.6,No,2016,1,1.0,50.04,1401.16
+Jessica Williams,48,10356.02,0,5.12,8,2009-03-03 23:13:00,"6187 Olson Mountains East Vincentborough, PR 74359",Kelly-Warren,1,PR,Vincentborough,5-10years,45-55,2022.66,1.6,No,2009,1,1.0,40.96,1692.16
+Eric Butler,44,11331.58,1,5.23,11,2016-12-05 03:35:00,"4846 Savannah Road West Justin, IA 87713-3460",Reynolds-Sheppard,1,IA,Justin,5-10years,35-45,2166.65,2.1,Yes,2016,4,1.0,57.53,1818.87
+Zachary Walsh,32,9885.12,1,6.92,9,2006-03-09 14:50:00,"25271 Roy Expressway Suite 147 Brownport, FM 59852-6150",Singh-Cole,1,FM,Brownport,5-10years,25-35,1428.49,1.3,Yes,2006,1,1.0,62.28,1248.12
+Ashlee Carr,43,14062.6,1,5.46,11,2011-09-29 05:47:00,"3725 Caroline Stravenue South Christineview, MA 82059",Lopez PLC,1,MA,Christineview,5-10years,35-45,2575.57,2.0,Yes,2011,3,1.0,60.06,2176.87
+Jennifer Lynch,40,8066.94,1,7.11,11,2006-03-28 15:42:00,"363 Sandra Lodge Suite 144 South Ann, WI 51655-7561",Reed-Martinez,1,WI,Ann,5-10years,35-45,1134.59,1.5,Yes,2006,1,1.0,78.21000000000001,994.69
+Paula Harris,30,11575.37,1,5.22,8,2016-11-13 13:13:00,Unit 8120 Box 9160 DPO AA 43432,"Briggs, Lamb and Mathews",1,,43432,5-10years,25-35,2217.5,1.5,Yes,2016,4,1.0,41.76,1860.99
+Bruce Phillips,45,8771.02,1,6.64,11,2015-05-28 12:14:00,Unit 1895 Box 0949 DPO AA 40249,Figueroa-Maynard,1,,40249,5-10years,45-55,1320.94,1.7,Yes,2015,2,1.0,73.03999999999999,1148.04
+Craig Garner,45,8988.67,1,4.84,11,2011-02-16 08:10:00,"897 Kelley Overpass Suite 349 West Rebekahport, AZ 44793",Abbott-Thompson,1,AZ,Rebekahport,3-5years,45-55,1857.16,2.3,Yes,2011,1,1.0,53.239999999999995,1539.16
+Nicole Olson,40,8283.32,1,5.1,13,2012-11-22 05:35:00,"11488 Weaver Cape Hernandezberg, WI 63417-8544","Smith, Kim and Marshall",1,WI,Hernandezberg,5-10years,35-45,1624.18,2.5,Yes,2012,4,1.0,66.3,1357.92
+Harold Griffin,41,6569.87,1,4.3,11,2015-03-28 02:13:00,"1774 Peter Row Apt. 712 New Autumn, MT 18782","Snyder, Lee and Morris",1,MT,Autumn,3-5years,35-45,1527.88,2.6,Yes,2015,1,1.0,47.3,1239.6
+James Wright,38,10494.82,1,6.81,12,2015-07-22 08:38:00,"45408 David Path East Kimberlyshire, HI 54903-6698",Sanders-Pierce,1,HI,Kimberlyshire,5-10years,35-45,1541.09,1.8,Yes,2015,3,1.0,81.72,1343.77
+Doris Wilkins,45,8213.41,1,7.35,11,2006-09-03 06:13:00,"28216 Wright Mount Apt. 356 Alichester, DE 40999-2369","Andrews, Adams and Davis",1,DE,Alichester,5-10years,45-55,1117.47,1.5,Yes,2006,3,1.0,80.85,983.64
+Katherine Carpenter,43,11226.88,0,8.08,12,2006-10-22 04:42:00,Unit 4948 Box 4814 DPO AP 42669,"Morgan, Phillips and Harrell",1,,42669,5-10years,35-45,1389.47,1.5,No,2006,4,1.0,96.96000000000001,1236.44
+Lindsay Martin,53,5515.09,0,6.85,8,2015-10-07 00:27:00,"69203 Crosby Divide Apt. 878 Parkerview, CO 87064",Villanueva LLC,1,CO,Parkerview,5-10years,45-55,805.12,1.2,No,2015,4,1.0,54.8,702.56
+Kathy Curry,46,8046.4,1,5.69,8,2014-11-06 23:47:00,"9569 Caldwell Crescent Tanyaborough, RI 30637","Berry, Orr and Cabrera",1,RI,Tanyaborough,5-10years,45-55,1414.13,1.4,Yes,2014,4,1.0,45.52,1202.75
+Dean Miller,41,9771.22,0,5.81,11,2013-05-30 00:42:00,"803 Kelli Crossing Apt. 169 Jimenezberg, WV 56530-4240",Parks-Bradley,1,WV,Jimenezberg,5-10years,35-45,1681.79,1.9,No,2013,2,1.0,63.91,1434.83
+Kevin Ramos,56,12217.95,1,5.79,11,2016-11-17 14:37:00,"5775 Jared Stream Apt. 881 Port Jenniferfort, CO 63506-4063",Olsen LLC,1,CO,Jenniferfort,5-10years,55-65,2110.18,1.9,Yes,2016,4,1.0,63.69,1799.4
+Jennifer Wood,35,9381.12,1,6.78,11,2006-03-27 20:52:00,"1493 Phillips Haven Lake William, FM 00995-2870","Clark, Campbell and Armstrong",1,FM,William,5-10years,35-45,1383.65,1.6,Yes,2006,1,1.0,74.58,1205.8
+Paul Walker,41,10474.94,0,6.4,12,2012-01-02 05:08:00,"73006 Patty Avenue Apt. 646 New Sarahburgh, NV 24826",Dalton LLC,1,NV,Sarahburgh,5-10years,35-45,1636.71,1.9,No,2012,1,1.0,76.80000000000001,1415.53
+Lindsey Day,55,11158.5,1,4.86,10,2007-01-07 01:21:00,"85934 Dakota Mall Timothyville, MI 72421","Thompson, Hansen and Sanchez",1,MI,Timothyville,3-5years,55-65,2295.99,2.1,Yes,2007,1,1.0,48.6,1904.18
+Steven Hernandez,54,8207.1,0,4.26,11,2015-04-05 15:57:00,"14609 Perez Turnpike Bradleyberg, DE 99755","Yates, Martinez and Cox",1,DE,Bradleyberg,3-5years,45-55,1926.55,2.6,No,2015,2,1.0,46.86,1560.29
+Danielle Kirk,35,12403.81,0,4.42,11,2007-07-31 06:39:00,"20117 Johnson Ports Apt. 914 Jenniferfort, DC 40595",Reeves-Curtis,1,DC,Jenniferfort,3-5years,35-45,2806.29,2.5,No,2007,3,1.0,48.62,2288.53
+Troy Oliver,40,10041.13,0,7.61,11,2006-07-30 15:27:00,USCGC Blake FPO AA 66377-6894,Gates Ltd,1,,66377-6894,5-10years,35-45,1319.47,1.4,No,2006,3,0.5,83.71000000000001,1166.22
+Darlene Evans,44,12721.55,0,5.18,11,2011-04-25 02:53:00,"950 Christina Viaduct Anastad, IL 03324-2274",Dunlap and Sons,1,IL,Anastad,5-10years,35-45,2455.9,2.1,No,2011,2,1.0,56.98,2058.5
+Mrs. Sarah Morales,37,8284.89,1,5.6,10,2009-03-25 06:10:00,"8807 Young Village Joneston, AR 56462","Taylor, Allen and Gardner",1,AR,Joneston,5-10years,35-45,1479.44,1.8,Yes,2009,1,1.0,56.0,1255.29
+Laura Pierce,54,10661.48,1,5.16,8,2011-12-26 22:06:00,"PSC 3912, Box 7208 APO AA 23623",Charles-Branch,1,Box,3912,5-10years,45-55,2066.18,1.6,Yes,2011,4,1.0,41.28,1730.76
+Carla Ball,45,10793.11,1,4.65,10,2016-12-28 04:07:00,"754 Shannon Mall South Shawn, AS 29886-0448",Barton Inc,1,AS,Shawn,3-5years,45-55,2321.1,2.2,Yes,2016,4,1.0,46.5,1910.28
+Robert Hill,46,9322.44,1,2.69,11,2010-11-16 13:22:00,"2088 Kelli Way Millertown, MT 37058","Stevens, Harris and Greene",1,MT,Millertown,1-3years,45-55,3465.59,4.1,Yes,2010,4,1.0,29.59,2526.41
+Joseph Harrell,44,9814.22,1,5.45,12,2010-01-23 07:15:00,USCGC Bell FPO AE 94532,"Fitzgerald, Sherman and Lowe",1,,94532,5-10years,35-45,1800.77,2.2,Yes,2010,1,1.0,65.4,1521.58
+Tammy Shepherd,48,11740.0,1,4.97,11,2011-03-06 01:34:00,"234 Gonzalez Terrace Santiagohaven, CO 28918-5500",Martin Ltd,1,CO,Santiagohaven,3-5years,45-55,2362.17,2.2,Yes,2011,1,1.0,54.669999999999995,1966.5
+Kelly Carroll,37,14383.36,0,7.84,10,2011-04-05 00:21:00,"8268 Baker Rapid Suite 712 Alexiston, TN 05207-2057","Juarez, Pugh and Vargas",1,TN,Alexiston,5-10years,35-45,1834.61,1.3,No,2011,2,1.0,78.4,1627.08
+Heidi Munoz,38,11887.39,0,5.83,12,2009-10-15 17:14:00,USCGC Mason FPO AA 96632-5067,Mckinney-Rogers,1,,96632-5067,5-10years,35-45,2039.0,2.1,No,2009,4,1.0,69.96000000000001,1740.47
+Thomas Sawyer,48,10367.08,1,6.45,12,2008-10-06 17:15:00,"8113 Rodriguez Court Sheribury, SC 88474","Lopez, Kelly and Armstrong",1,SC,Sheribury,5-10years,45-55,1607.3,1.9,Yes,2008,4,1.0,77.4,1391.55
+Erin Rivera,37,8198.06,1,5.04,12,2016-11-06 01:13:00,"34727 Randy Prairie Apt. 275 South Pamelashire, AS 63214-4216","Wilkins, White and Martin",1,AS,Pamelashire,5-10years,35-45,1626.6,2.4,Yes,2016,4,1.0,60.480000000000004,1357.29
+Raymond Berry,41,7777.37,0,4.81,12,2014-01-20 08:53:00,"75210 Mark Mill Apt. 397 Donnamouth, MA 40404-7466","Evans, Logan and Wilson",1,MA,Donnamouth,3-5years,35-45,1616.92,2.5,No,2014,1,1.0,57.72,1338.62
+Patrick Bell,41,11699.26,0,6.99,12,2010-03-31 14:45:00,"93345 Monique Tunnel Apt. 431 North Chase, NJ 30518",Clark-Kramer,1,NJ,Chase,5-10years,35-45,1673.71,1.7,No,2010,1,1.0,83.88,1464.24
+Jason Jones MD,55,16838.94,1,6.66,8,2007-10-05 15:48:00,"52454 Jessica Passage Apt. 097 Mitchellburgh, AS 30584-9004",Brown-Richardson,1,AS,Mitchellburgh,5-10years,55-65,2528.37,1.2,Yes,2007,4,1.0,53.28,2198.3
+Jermaine Johnson,36,10484.33,1,8.84,10,2008-04-29 09:07:00,"4102 Griffin Courts Middletonton, FM 48608","Dunlap, Hughes and Taylor",1,FM,Middletonton,5-10years,35-45,1186.01,1.1,Yes,2008,2,1.0,88.4,1065.48
+George Archer,37,8736.06,1,5.51,12,2014-12-23 19:38:00,"5645 Henderson Streets Brandystad, CA 92343",Smith Inc,1,CA,Brandystad,5-10years,35-45,1585.49,2.2,Yes,2014,4,1.0,66.12,1341.94
+Richard Fields,50,10850.78,1,5.63,9,2010-06-18 07:10:00,"451 Flynn Streets Morenobury, NE 64722-7132",Brown-Bishop,1,NE,Morenobury,5-10years,45-55,1927.31,1.6,Yes,2010,2,1.0,50.67,1636.62
+Amanda Roberts,43,8601.01,0,5.65,12,2007-02-03 17:52:00,"PSC 9561, Box 4071 APO AA 92200-5783",Evans LLC,1,Box,9561,5-10years,35-45,1522.3,2.1,No,2007,1,1.0,67.80000000000001,1293.38
+David Kennedy,45,11170.06,1,7.76,10,2011-01-26 19:05:00,"56990 Laurie Gardens Suite 145 West Tara, OH 24389",Williams-Hoffman,1,OH,Tara,5-10years,45-55,1439.44,1.3,Yes,2011,1,1.0,77.6,1275.12
+Adam Waters,40,11185.62,0,6.26,12,2006-03-06 18:36:00,"6040 Juan Forge Parrishville, NJ 27948",Reed Ltd,1,NJ,Parrishville,5-10years,35-45,1786.84,1.9,No,2006,1,1.0,75.12,1540.72
+Patricia Elliott,36,9793.42,0,5.98,9,2007-11-27 12:24:00,"9072 Martinez Squares Suite 404 New Emilystad, NH 26441-4895",Ortiz Ltd,1,NH,Emilystad,5-10years,35-45,1637.7,1.5,No,2007,4,0.5,53.82000000000001,1403.07
+Summer Haley,43,12524.68,0,5.98,10,2010-05-27 04:46:00,"312 Wilson Oval Suite 872 East Michaeltown, MN 40127-6212","White, Vargas and Moore",1,MN,Michaeltown,5-10years,35-45,2094.43,1.7,No,2010,2,1.0,59.800000000000004,1794.37
+Brittany Jackson,50,12682.9,0,4.58,10,2006-09-11 07:07:00,"082 Roth Island Daniellefurt, DE 69027-7185",Mcdonald-Cooper,1,DE,Daniellefurt,3-5years,45-55,2769.19,2.2,No,2006,3,1.0,45.8,2272.92
+Shawn Chavez,44,14036.28,1,7.25,10,2009-01-30 01:58:00,"42028 Hampton Flat Apt. 206 North Samuelburgh, ME 73072","Carter, Murphy and Valenzuela",1,ME,Samuelburgh,5-10years,35-45,1936.04,1.4,Yes,2009,1,1.0,72.5,1701.37
+Laura Fleming,41,10179.92,1,5.97,10,2010-02-25 00:17:00,"7023 Courtney Lodge Suite 935 Coxtown, NE 89508","Knight, Hammond and Mccoy",1,NE,Coxtown,5-10years,35-45,1705.18,1.7,Yes,2010,1,1.0,59.699999999999996,1460.53
+Marcus Garza,46,12772.72,1,6.46,9,2010-07-03 18:56:00,"06806 Lyons Drive Apt. 864 Port Michaelview, MH 56506","Holland, Jones and Schmidt",1,MH,Michaelview,5-10years,45-55,1977.2,1.4,Yes,2010,3,1.0,58.14,1712.16
+Heather Murphy,46,12122.19,0,7.53,11,2015-12-30 18:49:00,"1264 Williams Views Suite 114 Port Isaac, VI 31105-1539","Petersen, Howard and Bowen",1,VI,Isaac,5-10years,45-55,1609.85,1.5,No,2015,4,1.0,82.83,1421.12
+Jeffrey Hill,40,9922.3,1,5.07,11,2006-09-22 20:58:00,"97907 Jensen Forge Brianmouth, MH 69993-8000","Williams, Bautista and Carr",1,MH,Brianmouth,5-10years,35-45,1957.06,2.2,Yes,2006,3,1.0,55.77,1634.65
+Amy Griffin,48,4771.65,0,3.77,12,2007-06-19 04:30:00,"062 Trevor Falls Suite 665 North Mathewchester, MH 93744",Larson-Hall,1,MH,Mathewchester,3-5years,45-55,1265.69,3.2,No,2007,2,1.0,45.24,1000.35
+Michelle Hill,42,10827.96,1,4.2,10,2008-11-10 19:35:00,"45946 Day Springs Mendozastad, NJ 46404","Pierce, Peterson and Maldonado",1,NJ,Mendozastad,3-5years,35-45,2578.09,2.4,Yes,2008,4,1.0,42.0,2082.3
+David Rodriguez,38,8642.01,1,4.76,11,2014-08-13 17:14:00,"7318 Graham Ville Apt. 633 Gibsonview, MI 04337-6720",Walker-Baker,1,MI,Gibsonview,3-5years,35-45,1815.55,2.3,Yes,2014,3,1.0,52.36,1500.35
+Daniel Bartlett,45,6749.49,0,5.88,14,2006-08-19 17:13:00,"353 Gregory Spur Mariaburgh, KY 66125",Owens Group,1,KY,Mariaburgh,5-10years,45-55,1147.87,2.4,No,2006,3,1.0,82.32,981.03
+Cheyenne Rogers,36,6447.99,1,5.52,11,2009-05-07 22:19:00,"58379 Amber Knoll Blackburgh, MH 69646-4368",Evans LLC,1,MH,Blackburgh,5-10years,35-45,1168.11,2.0,Yes,2009,2,1.0,60.72,988.96
+Seth Lopez,44,11091.21,0,5.9,10,2007-07-10 15:33:00,Unit 2311 Box 4695 DPO AA 98374,Hodges LLC,1,,98374,5-10years,35-45,1879.87,1.7,No,2007,3,1.0,59.0,1607.42
+Brittany Hopkins,55,5024.52,0,8.11,9,2010-02-10 10:22:00,"2529 King Knoll Apt. 210 Michelleshire, NH 14266",Dixon-Love,1,NH,Michelleshire,5-10years,55-65,619.55,1.1,No,2010,1,1.0,72.99,551.54
+Carla Patterson,58,12376.37,0,6.01,12,2007-12-08 08:05:00,"350 Gregory Isle South Tinaland, WI 44398","Pittman, Watts and Fitzgerald",1,WI,Tinaland,5-10years,55-65,2059.3,2.0,No,2007,4,1.0,72.12,1765.53
+Michelle Holloway,49,12458.8,0,5.04,9,2013-01-21 13:44:00,"6431 Kimberly Harbors South Dylan, MS 05388-2846","Martinez, Clark and Jackson",1,MS,Dylan,5-10years,45-55,2471.98,1.8,No,2013,1,1.0,45.36,2062.72
+Kenneth Bryant,47,7222.35,0,6.41,11,2015-06-27 10:57:00,"274 Randy Ports Apt. 228 Gomezside, KY 96667-1028",Davis and Sons,1,KY,Gomezside,5-10years,45-55,1126.73,1.7,No,2015,2,0.5,70.51,974.68
+Cody Williams,38,11758.69,0,6.97,11,2016-08-14 18:04:00,USNS Lewis FPO AE 38853,"Farley, Clark and Peterson",1,,38853,5-10years,35-45,1687.04,1.6,No,2016,3,1.0,76.67,1475.37
+Lori Ross,55,8772.0,1,6.43,10,2006-03-01 20:57:00,"65806 Dean Plaza Apt. 089 West Jacobfort, AR 83049","Butler, Harrison and Hall",1,AR,Jacobfort,5-10years,55-65,1364.23,1.6,Yes,2006,1,1.0,64.3,1180.62
+David Montes,45,7351.38,0,5.76,11,2016-10-06 23:11:00,"666 Julie Ports Apt. 094 South Johntown, MO 10168-2804",Watson-Hall,1,MO,Johntown,5-10years,45-55,1276.28,1.9,No,2016,4,1.0,63.36,1087.48
+Robin Rowe,30,7960.64,1,2.72,10,2016-04-15 12:08:00,"87953 Fuller Turnpike Apt. 510 Russellstad, MH 32784-9434","Bradley, Mejia and Williams",1,MH,Russellstad,1-3years,25-35,2926.71,3.7,Yes,2016,2,1.0,27.200000000000003,2139.96
+Amber Spears,41,13365.66,1,8.36,9,2008-07-26 03:00:00,"455 Garcia Via Suite 177 Lake Jefferyside, MN 81187",Gray Inc,1,MN,Jefferyside,5-10years,35-45,1598.76,1.1,Yes,2008,3,1.0,75.24,1427.96
+Kathy Johnson,32,8617.98,1,6.2,10,2008-05-14 16:07:00,"570 Smith Mountains Hunterview, OK 46533",Jordan-Murphy,1,OK,Hunterview,5-10years,25-35,1390.0,1.6,Yes,2008,2,1.0,62.0,1196.94
+Thomas Rose,52,11849.13,0,6.8,11,2012-08-18 09:16:00,"9928 Lawson Court Andersonborough, KS 54353-7605","Lynch, Padilla and Myers",1,KS,Andersonborough,5-10years,45-55,1742.52,1.6,No,2012,3,1.0,74.8,1519.12
+Sandra Williams,37,11145.95,1,5.87,11,2013-01-10 10:11:00,"0728 Melton Avenue Robertville, KY 71675-3667",Baker Ltd,1,KY,Robertville,5-10years,35-45,1898.8,1.9,Yes,2013,1,1.0,64.57000000000001,1622.41
+Nathan Murphy,42,9577.42,0,5.86,11,2012-01-18 00:52:00,"34489 Andrew Wells North Charlesport, RI 48537",Deleon Ltd,1,RI,Charlesport,5-10years,35-45,1634.37,1.9,No,2012,1,1.0,64.46000000000001,1396.13
+Ryan Weaver,39,10110.4,1,5.78,13,2009-03-10 21:58:00,"8306 Nicole Lane Moranmouth, PR 36299","Keith, Richardson and Thomas",1,PR,Moranmouth,5-10years,35-45,1749.2,2.2,Yes,2009,1,1.0,75.14,1491.21
+Jennifer King,43,8024.08,0,4.08,12,2016-02-20 07:00:00,"44850 Dennis Meadows Suite 044 Dariusland, IL 05918","Hunter, Reyes and Rivera",1,IL,Dariusland,3-5years,35-45,1966.69,2.9,No,2016,1,1.0,48.96,1579.54
+Theresa Berry,52,8563.24,0,5.29,11,2010-03-24 16:20:00,"1733 Theresa Port North Jason, WY 15864",Jones LLC,1,WY,Jason,5-10years,45-55,1618.76,2.1,No,2010,1,0.5,58.19,1361.41
+Robin Burke,40,9403.58,1,6.01,9,2014-07-31 01:07:00,"7225 James Corners Christopherville, OH 19625-4299",Patel PLC,1,OH,Christopherville,5-10years,35-45,1564.66,1.5,Yes,2014,3,1.0,54.089999999999996,1341.45
+Todd Thompson,38,12520.53,1,6.3,11,2008-10-19 09:18:00,"2779 Dalton Ports New James, AS 59322-0419","Guzman, Johnson and Berry",1,AS,James,5-10years,35-45,1987.39,1.7,Yes,2008,4,1.0,69.3,1715.14
+John Thomas,53,13655.59,1,2.05,10,2013-12-24 14:28:00,"342 Jensen Dam West Kylehaven, PW 89702-0398","Sanchez, Carter and Gross",1,PW,Kylehaven,1-3years,45-55,6661.26,4.9,Yes,2013,4,1.0,20.5,4477.24
+Timothy Johnston,41,12680.46,0,5.92,11,2010-03-29 17:41:00,"44906 Walker Plaza Sanchezshire, AK 41013-8944","Cole, Shelton and Atkinson",1,AK,Sanchezshire,5-10years,35-45,2141.97,1.9,No,2010,1,1.0,65.12,1832.44
+Sarah Holloway,45,8429.65,1,7.1,10,2006-08-26 16:40:00,"099 Lopez Crescent Jamesport, OK 31273",Harrison-Ferrell,1,OK,Jamesport,5-10years,45-55,1187.27,1.4,Yes,2006,3,1.0,71.0,1040.7
+Scott Chambers,44,11424.0,1,5.98,10,2011-11-16 06:51:00,"9525 Allen Camp Apt. 362 West Dawnmouth, GA 04347","Davis, Cole and Thompson",1,GA,Dawnmouth,5-10years,35-45,1910.37,1.7,Yes,2011,4,1.0,59.800000000000004,1636.68
+Kathryn Ponce,46,13725.55,0,5.09,9,2006-03-04 00:11:00,"43798 Jones Garden Apt. 027 Monicashire, ND 82344","Cochran, Molina and Higgins",1,ND,Monicashire,5-10years,45-55,2696.57,1.8,No,2006,1,1.0,45.81,2253.78
+Patrick Robinson,47,7396.1,0,4.11,11,2014-03-10 06:51:00,"753 Sara Fall Lake Erinmouth, OK 02340-4525",Tran-Rodriguez,1,OK,Erinmouth,3-5years,45-55,1799.54,2.7,No,2014,1,1.0,45.21,1447.38
+Laurie Green,51,8100.43,1,4.92,13,2006-01-14 01:47:00,"74631 Kyle Mountain Apt. 268 Andrewmouth, MI 55255","Callahan, Hinton and Murray",1,MI,Andrewmouth,3-5years,45-55,1646.43,2.6,Yes,2006,1,1.0,63.96,1368.32
+Amber Hobbs,43,10400.88,0,5.84,10,2013-03-28 20:04:00,"8044 Bates Spring Jonesborough, LA 63728","Nelson, Ray and Johnson",1,LA,Jonesborough,5-10years,35-45,1780.97,1.7,No,2013,1,1.0,58.4,1520.6
+Tina King,40,8625.96,1,6.27,13,2008-08-07 01:50:00,"80203 Brandon Hill Apt. 353 New Luisport, VA 65076",Franco-Jones,1,VA,Luisport,5-10years,35-45,1375.75,2.1,Yes,2008,3,1.0,81.50999999999999,1186.51
+David Hess,41,5192.38,1,4.86,11,2015-11-06 03:12:00,"PSC 1062, Box 1827 APO AA 46087-7414",Johnson-Walker,1,Box,1062,3-5years,35-45,1068.39,2.3,Yes,2015,4,1.0,53.46,886.07
+Jose Lee,45,12455.38,0,3.26,11,2015-02-24 14:54:00,"036 Hunter Heights Suite 701 New Rickey, HI 95539-9622",Nelson LLC,1,HI,Rickey,3-5years,45-55,3820.67,3.4,No,2015,1,0.5,35.86,2923.8
+Brian Young,49,10522.21,0,7.25,14,2014-11-08 00:40:00,Unit 6711 Box 7964 DPO AA 27820,Munoz Ltd,1,,27820,5-10years,45-55,1451.34,1.9,No,2014,4,1.0,101.5,1275.42
+Erica Flores,38,9624.18,0,5.53,12,2008-12-22 06:09:00,"421 Kevin Shoal Grahamport, RI 11504",Carey Ltd,1,RI,Grahamport,5-10years,35-45,1740.36,2.2,No,2008,4,1.0,66.36,1473.84
+Brenda Hall,37,11628.1,1,6.83,10,2010-02-20 16:08:00,"1877 Tara Streets West Sarah, MN 39500",Rosales Inc,1,MN,Sarah,5-10years,35-45,1702.5,1.5,Yes,2010,1,1.0,68.3,1485.07
+Dakota Williams,41,13190.3,1,7.38,10,2012-09-12 14:15:00,"22194 Hernandez Roads Hubbardville, MH 97331-5191","Hughes, Evans and Richardson",1,MH,Hubbardville,5-10years,35-45,1787.3,1.4,Yes,2012,3,1.0,73.8,1574.02
+Tammy Reed,49,13173.8,1,6.36,12,2007-10-09 18:07:00,"3067 Lindsay Road Apt. 683 Port Jonathan, NY 84626-8850",Russo-Rivas,1,NY,Jonathan,5-10years,45-55,2071.35,1.9,Yes,2007,4,1.0,76.32000000000001,1789.92
+Devin Cook,29,8688.17,1,5.7,9,2015-02-05 11:35:00,"237 Antonio Lock Lake Christianville, IN 42022",Fleming LLC,1,IN,Christianville,5-10years,25-35,1524.24,1.6,Yes,2015,1,1.0,51.300000000000004,1296.74
+Joseph Mitchell,40,11434.61,1,8.51,10,2009-11-17 23:38:00,"3422 Zhang View Estradabury, SC 66970-2923",Lee LLC,1,SC,Estradabury,5-10years,35-45,1343.67,1.2,Yes,2009,4,1.0,85.1,1202.38
+Brett Allen MD,45,12309.39,1,4.57,11,2008-02-07 15:42:00,"03559 Rodriguez Prairie Apt. 826 Rachelfurt, ND 85441",Brown-Rangel,1,ND,Rachelfurt,3-5years,45-55,2693.52,2.4,Yes,2008,1,1.0,50.27,2209.94
+Daniel Bates,30,10744.14,1,7.16,9,2008-09-13 11:53:00,"488 Lewis Village Crawfordborough, WY 43563",Hunt PLC,1,WY,Crawfordborough,5-10years,25-35,1500.58,1.3,Yes,2008,3,1.0,64.44,1316.68
+Chelsea Ward,43,12104.25,0,5.86,7,2009-09-27 04:12:00,"5279 Grace Mountain Loriland, IL 83900","Hatfield, Johnson and George",1,IL,Loriland,5-10years,35-45,2065.57,1.2,No,2009,3,1.0,41.02,1764.47
+Ryan Richardson,45,11599.27,1,4.78,11,2006-11-22 21:46:00,"31574 Sarah Pine Apt. 359 Harryside, NJ 02405-8870",Cross-Jones,1,NJ,Harryside,3-5years,45-55,2426.63,2.3,Yes,2006,4,1.0,52.580000000000005,2006.79
+Stephen Callahan,42,6635.19,0,6.68,11,2006-07-24 18:29:00,USS Booth FPO AP 73462,Shaw-Rivera,1,,73462,5-10years,35-45,993.29,1.6,No,2006,3,1.0,73.47999999999999,863.96
+Mrs. Melinda Davila,51,10978.16,1,6.95,11,2013-08-10 02:49:00,"5843 Byrd Corner Monicaport, SC 44357",Perry and Sons,1,SC,Monicaport,5-10years,45-55,1579.59,1.6,Yes,2013,3,0.5,76.45,1380.9
+Carla Howell,44,13743.27,0,7.8,11,2011-06-11 00:48:00,"55353 Barker Burg East Willietown, HI 30805","Edwards, Webster and Gross",1,HI,Willietown,5-10years,35-45,1761.96,1.4,No,2011,2,1.0,85.8,1561.74
+Eric Kelley,43,10271.19,1,5.31,14,2011-07-19 10:28:00,"98472 Meghan Mall Port Lauren, LA 49472","Santos, Hoffman and Harper",1,LA,Lauren,5-10years,35-45,1934.31,2.6,Yes,2011,3,1.0,74.33999999999999,1627.76
+Randy Hayes,43,6715.23,0,4.16,8,2007-02-17 15:33:00,"PSC 1001, Box 5072 APO AP 43490",Taylor-Vaughn,1,Box,1001,3-5years,35-45,1614.24,1.9,No,2007,1,1.0,33.28,1301.4
+Jeffrey Glenn,50,10199.44,0,5.79,9,2012-10-09 17:29:00,"6431 Caldwell Spring Port Gregorymouth, VI 76545-9829",Medina-Dominguez,1,VI,Gregorymouth,5-10years,45-55,1761.56,1.6,No,2012,4,1.0,52.11,1502.13
+Megan Tucker,38,11386.56,0,8.82,9,2011-11-20 17:11:00,"63080 Christopher Fork Suite 353 Jacobshire, TN 98279-1399",Taylor-Guerrero,1,TN,Jacobshire,5-10years,35-45,1290.99,1.0,No,2011,4,1.0,79.38,1159.53
+Michael Acosta,49,12112.53,0,7.31,9,2012-03-03 18:57:00,"73511 James Skyway Apt. 750 Port Scott, FM 96780",Ward-Bennett,1,FM,Scott,5-10years,45-55,1656.98,1.2,No,2012,1,1.0,65.78999999999999,1457.58
+Eileen Reyes,34,9228.84,1,5.29,12,2006-11-25 12:38:00,"0235 Taylor Lakes Suite 365 East Michaelfort, AL 61409-7098",Curtis PLC,1,AL,Michaelfort,5-10years,25-35,1744.58,2.3,Yes,2006,4,1.0,63.480000000000004,1467.22
+Mr. Jerome Dawson,36,6330.43,1,5.43,7,2010-08-24 00:52:00,"675 Jones Viaduct Samanthastad, MT 88716-7510",Oconnell LLC,1,MT,Samanthastad,5-10years,35-45,1165.83,1.3,Yes,2010,3,1.0,38.01,984.51
+Katie Sutton,40,11611.51,1,5.64,14,2010-06-19 16:02:00,"564 Amanda Park Apt. 388 Watsonport, NJ 61471-7559",Patrick Inc,1,NJ,Watsonport,5-10years,35-45,2058.78,2.5,Yes,2010,2,1.0,78.96,1748.72
+Dr. Kylie Mccann,37,8397.41,0,5.59,12,2008-06-07 21:35:00,"150 Steven Center Port Randallshire, SC 42333-2817",Shepherd LLC,1,SC,Randallshire,5-10years,35-45,1502.22,2.1,No,2008,2,1.0,67.08,1274.27
+Jose Kelly,49,9714.47,0,5.7,9,2014-11-04 04:05:00,"205 Lewis Ports Suite 146 New Lukehaven, NE 61616","Fisher, Torres and Ramsey",1,NE,Lukehaven,5-10years,45-55,1704.29,1.6,No,2014,4,1.0,51.300000000000004,1449.92
+Nicholas Levy,51,11602.11,1,5.3,10,2012-04-06 10:12:00,"668 Walker Trace Apt. 580 Samanthaside, FL 56884",Pruitt-Thompson,1,FL,Samanthaside,5-10years,45-55,2189.08,1.9,Yes,2012,2,1.0,53.0,1841.6
+Jennifer Carrillo,35,12871.79,0,4.64,12,2006-03-25 01:04:00,"659 Robertson Lake Lake Peggy, CT 28993",Ingram-Swanson,1,CT,Peggy,3-5years,35-45,2774.09,2.6,No,2006,1,1.0,55.67999999999999,2282.23
+April Freeman,41,9923.79,1,4.75,13,2011-08-28 03:41:00,"16914 Oconnell Forge Apt. 477 Atkinsonmouth, MD 32666","Larson, Ross and Ward",1,MD,Atkinsonmouth,3-5years,35-45,2089.22,2.7,Yes,2011,3,1.0,61.75,1725.88
+Hunter Rivera,26,8787.39,1,5.42,11,2014-12-18 19:58:00,"233 Mark Vista New Russellbury, FL 08810","Tate, Hall and Moreno",1,FL,Russellbury,5-10years,25-35,1621.29,2.0,Yes,2014,4,1.0,59.62,1368.75
+Travis Ellis,46,12200.31,0,6.62,10,2010-10-20 00:12:00,"730 Doris Drive Suite 569 Port Adam, KY 42352",Ramirez-Mendoza,1,KY,Adam,5-10years,45-55,1842.95,1.5,No,2010,4,1.0,66.2,1601.09
+Tommy Frey,38,8825.87,1,8.97,10,2008-01-06 09:57:00,"200 Craig Spur Suite 465 Wadeton, NC 47363",Garcia-Owens,1,NC,Wadeton,5-10years,35-45,983.93,1.1,Yes,2008,1,1.0,89.7,885.24
+Nicole Friedman,44,8615.52,0,7.39,9,2006-10-19 23:02:00,"77755 John River Kendrafurt, MP 02175-9994","Miranda, Summers and Moran",1,MP,Kendrafurt,5-10years,35-45,1165.83,1.2,No,2006,4,1.0,66.50999999999999,1026.88
+James Newman,35,9766.95,1,4.59,13,2008-02-29 14:17:00,"1317 Dillon Gardens Michaelville, ME 91569-7889","Griffin, Tucker and Lee",1,ME,Michaelville,3-5years,35-45,2127.88,2.8,Yes,2008,1,1.0,59.67,1747.22
+Stephanie Gonzales,36,11550.29,0,6.46,13,2014-01-13 05:18:00,"437 Alex Glens Melindaburgh, ID 78010-8240",Young-Dunn,1,ID,Melindaburgh,5-10years,35-45,1787.97,2.0,No,2014,1,1.0,83.98,1548.3
+Mary Aguilar,50,6244.75,0,4.64,11,2015-12-18 13:28:00,Unit 6345 Box 0137 DPO AP 41134-6292,Lee-Aguilar,1,,41134-6292,3-5years,45-55,1345.85,2.4,No,2015,4,1.0,51.04,1107.23
+Jordan Owens,45,9459.52,0,5.72,9,2015-07-30 02:34:00,"018 Kristy Mountain Lindseymouth, LA 51400",Reyes PLC,1,LA,Lindseymouth,5-10years,45-55,1653.76,1.6,No,2015,3,1.0,51.48,1407.67
+Devin Wilson,46,11222.48,0,4.92,9,2011-02-18 18:11:00,"97426 Carrie Stravenue East Cassandrafort, WV 23196",Cooke Ltd,1,WV,Cassandrafort,3-5years,45-55,2280.99,1.8,No,2011,1,1.0,44.28,1895.69
+Samantha Fisher,38,14693.45,1,7.01,10,2011-11-02 16:47:00,"961 Wright Plains Kimberlyborough, AL 59809","Morris, Owens and Sullivan",1,AL,Kimberlyborough,5-10years,35-45,2096.07,1.4,Yes,2011,4,1.0,70.1,1834.39
+Monique Medina,49,15005.43,1,5.27,12,2012-07-27 00:30:00,"22013 Matthew Square Johnsonland, LA 27505-9242",Martin-Harris,1,LA,Johnsonland,5-10years,45-55,2847.33,2.3,Yes,2012,3,1.0,63.239999999999995,2393.21
+Nathan Gross,42,10276.33,1,6.54,11,2007-07-01 05:53:00,"1136 Beasley Mountains Apt. 622 Smithton, UT 09411-9465","Robinson, Brown and Stephens",1,UT,Smithton,5-10years,35-45,1571.3,1.7,Yes,2007,3,1.0,71.94,1362.91
+Douglas Joseph,44,8474.11,0,6.61,14,2012-10-01 08:10:00,Unit 9630 Box 8710 DPO AP 69319,Clark PLC,1,,69319,5-10years,35-45,1282.01,2.1,No,2012,4,1.0,92.54,1113.55
+Elizabeth Moore,47,8235.74,1,6.2,10,2007-10-23 05:18:00,"582 Kimberly Lodge Apt. 082 East Victoriastad, NH 73555","Young, Porter and Hill",1,NH,Victoriastad,5-10years,45-55,1328.35,1.6,Yes,2007,4,1.0,62.0,1143.85
+Adam Gomez,48,6495.01,1,5.57,12,2013-02-06 05:15:00,"2889 Coffey Parks Browningmouth, VT 14924-9744",Thompson Group,1,VT,Browningmouth,5-10years,45-55,1166.07,2.2,Yes,2013,1,1.0,66.84,988.59
+Timothy Harvey,45,8099.29,1,5.66,10,2008-06-10 14:07:00,"6596 Ronald Union West Courtney, ND 47185","Scott, Ward and Brown",1,ND,Courtney,5-10years,45-55,1430.97,1.8,Yes,2008,2,1.0,56.6,1216.11
+Adam Strong,50,11775.75,1,4.83,10,2011-02-06 15:02:00,"33071 Melody Isle East Matthew, WV 08980-8853",Harvey-Mcdowell,1,WV,Matthew,3-5years,45-55,2438.04,2.1,Yes,2011,1,1.0,48.3,2019.85
+Charles Whitney,39,8667.02,0,6.82,10,2009-10-23 10:27:00,"8006 Erin Pass Apt. 415 South Karen, LA 27331-0907",Christensen-Mccann,1,LA,Karen,5-10years,35-45,1270.82,1.5,No,2009,4,1.0,68.2,1108.31
+Lisa Davis,55,9000.31,1,6.78,10,2008-05-23 01:04:00,"PSC 5306, Box 1682 APO AP 03229",Obrien PLC,1,Box,5306,5-10years,55-65,1327.48,1.5,Yes,2008,2,1.0,67.8,1156.85
+Jacob Escobar,50,14398.89,1,5.54,12,2007-11-13 17:10:00,"4182 Mercer Plains Apt. 624 New Lindsey, WA 84468",White-Dennis,1,WA,Lindsey,5-10years,45-55,2599.08,2.2,Yes,2007,4,1.0,66.48,2201.67
+Douglas Padilla,38,10863.05,1,5.59,11,2008-04-28 01:11:00,"063 Andrew Harbor New Kathleenbury, AR 48898",Martinez Ltd,1,AR,Kathleenbury,5-10years,35-45,1943.3,2.0,Yes,2008,2,1.0,61.489999999999995,1648.41
+Russell Bauer,38,7287.57,1,7.39,11,2007-04-22 06:22:00,"83221 Hendricks Highway Garciastad, OR 20046-4343",Chambers-Simmons,1,OR,Garciastad,5-10years,35-45,986.14,1.5,Yes,2007,2,1.0,81.28999999999999,868.6
+Jessica Horton,43,6992.09,1,6.84,11,2010-04-21 18:41:00,Unit 7652 Box 7117 DPO AP 06955-1878,Jackson Group,1,,06955-1878,5-10years,35-45,1022.24,1.6,Yes,2010,2,1.0,75.24,891.85
+Alexis Hill,39,6351.79,0,5.86,6,2012-03-24 16:13:00,"335 Dyer Shoals Port Patricia, PR 84461-1647",Campbell and Sons,1,PR,Patricia,5-10years,35-45,1083.92,1.0,No,2012,1,1.0,35.160000000000004,925.92
+Heather Hickman,31,11297.57,1,6.23,10,2015-03-17 22:32:00,"7259 Brown Street Apt. 385 Monicaport, GU 05916-8374",Moore LLC,1,GU,Monicaport,5-10years,25-35,1813.41,1.6,Yes,2015,1,1.0,62.300000000000004,1562.6
+Steven Stevenson,52,7460.05,0,5.39,12,2013-10-17 21:48:00,"61756 Walls Ridges East James, IA 34568",George Inc,1,IA,James,5-10years,45-55,1384.05,2.2,No,2013,4,1.0,64.67999999999999,1167.46
+Hailey Sanchez,41,14429.41,1,5.51,11,2007-09-29 00:43:00,"78018 Ariana Crest Suite 467 North Tamara, IA 84527",Evans-Wagner,1,IA,Tamara,5-10years,35-45,2618.77,2.0,Yes,2007,3,1.0,60.61,2216.5
+Randall Weber,34,12983.26,1,6.53,13,2007-10-14 20:54:00,"447 Lane Street Apt. 689 East Christopher, MI 80796","Torres, Villanueva and Velasquez",1,MI,Christopher,5-10years,25-35,1988.25,2.0,Yes,2007,4,1.0,84.89,1724.2
+Anna Bryant,39,8801.86,1,4.43,10,2007-03-18 11:14:00,"30668 Isabella Freeway Suite 428 Lake Kellyhaven, MP 89074-5017",Bennett Inc,1,MP,Kellyhaven,3-5years,35-45,1986.88,2.3,Yes,2007,1,1.0,44.3,1620.97
+Robert Russo,58,9703.93,0,5.16,11,2010-03-02 16:11:00,"976 Thomas Garden Lake Chad, DC 12638-0139",Hanna-Leonard,1,DC,Chad,5-10years,55-65,1880.61,2.1,No,2010,1,1.0,56.760000000000005,1575.31
+Tara Burton,49,11177.08,0,4.44,12,2008-01-07 05:11:00,"713 William Loaf New Christopher, DC 71560-8742",Reed-Fields,1,DC,Christopher,3-5years,45-55,2517.36,2.7,No,2008,1,1.0,53.28,2054.61
+Yvette Perry,41,8560.76,1,3.99,12,2015-05-09 18:48:00,"83457 Davis Flats Morachester, GU 52752",Moore and Sons,1,GU,Morachester,3-5years,35-45,2145.55,3.0,Yes,2015,2,1.0,47.88,1715.58
+Michael Williams,35,15571.26,0,6.45,9,2011-12-02 20:13:00,"5728 Michael Rue Riosland, NY 38804-1415",Petty and Sons,0,NY,Riosland,5-10years,35-45,2414.15,1.4,No,2011,4,0.0,58.050000000000004,2090.1
+Connie Golden,39,10268.87,1,3.68,6,2009-08-19 18:52:00,"3324 Gomez Knolls Suite 591 Farmerchester, LA 37647",Brown-Wagner,0,LA,Farmerchester,3-5years,35-45,2790.45,1.6,Yes,2009,3,0.0,22.080000000000002,2194.2
+Seth Griffin,44,12328.03,1,4.6,9,2006-08-29 02:24:00,"9436 Warner Mill Suite 265 Port Kenneth, OH 00175-5756",Williams PLC,0,OH,Kenneth,3-5years,35-45,2680.01,2.0,Yes,2006,3,0.0,41.4,2201.43
+Rachel Cherry,52,9782.83,0,3.96,7,2012-04-17 10:47:00,"3479 Stewart Way Sandersside, ID 69317-8759","Bishop, Tran and Pope",0,ID,Sandersside,3-5years,45-55,2470.41,1.8,No,2012,2,0.0,27.72,1972.34
+Robert Sanders,29,9378.24,0,4.93,8,2015-08-06 22:29:00,"8199 Christopher Tunnel Suite 537 Warnerside, IN 29023-3624","White, Jones and Nelson",0,IN,Warnerside,3-5years,25-35,1902.28,1.6,No,2015,3,0.0,39.44,1581.49
+Chris Sutton,37,10314.67,1,5.86,8,2016-06-22 19:20:00,"858 Booth Points South Davidside, AZ 92136-1145",Collins Ltd,0,AZ,Davidside,5-10years,35-45,1760.18,1.4,Yes,2016,2,0.0,46.88,1503.6
+Kenneth Alexander,30,8403.78,1,4.13,7,2006-06-28 09:26:00,"032 Jorge Trail Apt. 091 Brianmouth, ID 23964",Torres Inc,0,ID,Brianmouth,3-5years,25-35,2034.81,1.7,Yes,2006,2,0.0,28.91,1638.16
+Jason Taylor,46,5570.45,0,2.23,7,2012-05-01 06:20:00,"693 Kevin Groves Apt. 158 Debramouth, NV 73809","Moore, Nichols and Miller",0,NV,Debramouth,1-3years,45-55,2497.96,3.1,No,2012,2,0.0,15.61,1724.6
+Dennis Morgan,43,8042.76,0,4.95,8,2006-04-29 20:25:00,"00103 Jeffrey Crest Apt. 205 Padillaville, IA 90755","Barry, Jordan and Hall",0,IA,Padillaville,3-5years,35-45,1624.8,1.6,No,2006,2,0.0,39.6,1351.72
+Penny Perez,44,10309.15,1,6.35,9,2006-01-10 18:04:00,"725 Stephanie Springs Apt. 350 South Brianbury, MP 98006",Davis-Travis,0,MP,Brianbury,5-10years,35-45,1623.49,1.4,Yes,2006,1,0.0,57.15,1402.61
+Erin Gilbert,35,12357.31,0,5.03,10,2014-08-06 19:11:00,"7098 Vicki Lane Suite 339 South Dominic, NM 43022-5425","Ware, Williams and Hill",0,NM,Dominic,5-10years,35-45,2456.72,2.0,No,2014,3,0.0,50.300000000000004,2049.31
+Sean Macias,47,11306.1,0,6.01,7,2006-07-02 23:47:00,"911 Kent Point Anthonytown, KS 47499",Jimenez Group,0,KS,Anthonytown,5-10years,45-55,1881.21,1.2,No,2006,3,0.0,42.07,1612.85
+Christina Lewis,32,13630.93,0,4.38,10,2014-01-03 00:55:00,"273 Alexander Burg Suite 754 New Alexandrachester, DE 41261-1457","Thompson, Shelton and Pena",0,DE,Alexandrachester,3-5years,25-35,3112.08,2.3,No,2014,1,0.0,43.8,2533.63
+Lori Jackson,36,12284.58,1,5.7,9,2015-12-07 10:18:00,"19131 Robinson Mission Apt. 384 Smithview, AS 99303",Webb PLC,0,AS,Smithview,5-10years,35-45,2155.19,1.6,Yes,2015,4,0.0,51.300000000000004,1833.52
+Mark Murray,39,8930.49,1,5.71,10,2014-12-10 09:22:00,"3444 Delgado Squares Apt. 967 Pageville, MI 59677",Lawson Inc,0,MI,Pageville,5-10years,35-45,1564.01,1.8,Yes,2014,4,0.0,57.1,1330.92
+Dana Lewis,43,10578.14,0,1.87,10,2008-05-28 08:06:00,USNV Soto FPO AA 90235-3866,"Murphy, Park and Boyer",0,,90235-3866,1-3years,35-45,5656.76,5.3,No,2008,2,0.0,18.700000000000003,3685.76
+Dr. Michael Contreras,45,10364.82,0,5.93,5,2016-08-22 05:47:00,"53891 Paula Corners Apt. 946 West Michael, ME 42796-1668",Holt-Rogers,0,ME,Michael,5-10years,45-55,1747.86,0.8,No,2016,3,0.0,29.65,1495.65
+Rebecca Rasmussen,33,7750.54,1,4.57,8,2012-07-19 13:34:00,"PSC 2978, Box 1358 APO AP 49912-3876",Rodriguez-Flynn,0,Box,2978,3-5years,25-35,1695.96,1.8,Yes,2012,3,0.0,36.56,1391.48
+Melanie Turner,48,10963.5,1,5.89,9,2008-03-07 10:48:00,"3987 Douglas Garden South Amanda, LA 99160-1676",Gates Ltd,0,LA,Amanda,5-10years,45-55,1861.38,1.5,Yes,2008,1,0.5,53.01,1591.22
+Jeffery Ferguson,32,12547.91,0,7.78,10,2011-12-22 17:51:00,"1599 Rush Crescent Apt. 982 Bowmanchester, TX 33118-6129",Watts Ltd,0,TX,Bowmanchester,5-10years,25-35,1612.84,1.3,No,2011,4,0.0,77.8,1429.15
+Brenda Haley,41,14069.41,1,1.62,10,2010-10-14 07:46:00,USS Barr FPO AE 09092,Forbes LLC,0,,09092,1-3years,35-45,8684.82,6.2,Yes,2010,4,0.0,16.200000000000003,5370.0
+William Taylor,44,9723.71,0,4.34,9,2012-06-30 10:01:00,"499 Contreras Estates Suite 640 Tylertown, NY 97261",Stewart Inc,0,NY,Tylertown,3-5years,35-45,2240.49,2.1,No,2012,2,0.0,39.06,1820.92
+William Lyons,43,6298.75,1,4.51,9,2015-03-26 00:41:00,"2758 Williams Heights Apt. 571 Colleenton, AK 36124-5765","Brown, Conner and Torres",0,AK,Colleenton,3-5years,35-45,1396.62,2.0,Yes,2015,1,0.0,40.589999999999996,1143.15
+Bobby Christian,35,12107.03,0,5.82,9,2011-03-12 07:37:00,"PSC 8568, Box 1611 APO AA 56585-0874","Freeman, Lam and Jenkins",0,Box,8568,5-10years,35-45,2080.25,1.5,No,2011,1,0.0,52.38,1775.22
+Victoria Medina,43,11674.12,0,2.88,8,2012-10-24 02:46:00,"816 Jeremy Bridge Apt. 543 New Michelleville, VI 50678",Walters-Sanders,0,VI,Michelleville,1-3years,35-45,4053.51,2.8,No,2012,4,0.0,23.04,3008.79
+William Haney,56,12502.81,0,5.47,8,2007-08-09 17:54:00,"143 Andrea Flat Lake Michael, ID 33149","Powell, Erickson and Rush",0,ID,Michael,5-10years,55-65,2285.71,1.5,No,2007,3,0.0,43.76,1932.43
+Alan Gray,29,9617.59,0,5.49,8,2013-02-19 03:23:00,"9278 Jenna Ways Apt. 628 West Ryan, AZ 06819-5978",Mendoza Inc,0,AZ,Ryan,5-10years,25-35,1751.84,1.5,No,2013,1,0.0,43.92,1481.91
+Jessica Johnson,36,13472.79,1,4.77,8,2006-02-14 22:16:00,"PSC 8132, Box 3379 APO AA 45232-2030",Young and Sons,0,Box,8132,3-5years,35-45,2824.48,1.7,Yes,2006,1,0.0,38.16,2334.97
+Joshua Tran,49,9805.7,0,4.86,9,2011-04-29 16:53:00,"7774 Gonzalez Camp Suite 326 Lake Nathan, CA 46393-3674",Harris Group,0,CA,Nathan,3-5years,45-55,2017.63,1.9,No,2011,2,0.0,43.74,1673.33
+Lisa Harmon,31,11743.24,0,5.3,6,2010-06-06 05:12:00,"2190 Fox Mountains North Jennifer, WV 75027-6097",Le LLC,0,WV,Jennifer,5-10years,25-35,2215.71,1.1,No,2010,2,0.0,31.799999999999997,1864.01
+Stephen Jenkins,30,12788.37,0,4.31,10,2009-08-22 20:21:00,USNV Perry FPO AE 07826-0914,Everett-Taylor,0,,07826-0914,3-5years,25-35,2967.14,2.3,No,2009,3,0.0,43.099999999999994,2408.36
+Misty Tate,40,5218.49,0,3.8,10,2006-11-16 04:13:00,"12915 Jeffrey Canyon Blackshire, AS 18084",Soto PLC,0,AS,Blackshire,3-5years,35-45,1373.29,2.6,No,2006,4,0.0,38.0,1087.19
+Isaiah Noble,44,10526.18,0,7.67,9,2009-09-21 12:50:00,"08820 Foster Via Suite 564 Barkerview, ME 82495-3527",Taylor-Bradley,0,ME,Barkerview,5-10years,35-45,1372.38,1.2,No,2009,3,0.0,69.03,1214.09
+Jeff Davis,43,8583.5,1,4.39,10,2014-08-23 03:44:00,"115 Andrews Vista South Kristinchester, SD 82774-5194","Klein, Dalton and Doyle",0,SD,Kristinchester,3-5years,35-45,1955.24,2.3,Yes,2014,3,0.0,43.9,1592.49
+Stacey Harding,39,11008.0,0,4.42,8,2007-12-22 13:07:00,"454 Sara Ways New Brandistad, AL 82361",Robinson-Koch,0,AL,Brandistad,3-5years,35-45,2490.5,1.8,No,2007,4,0.0,35.36,2031.0
+William Perkins,42,9625.89,1,5.84,9,2014-02-03 00:37:00,"54740 Jeffrey Place Apt. 914 Amandaland, MI 87447",Mills-Howe,0,MI,Amandaland,5-10years,35-45,1648.27,1.5,Yes,2014,1,0.0,52.56,1407.29
+James Contreras,46,11119.11,1,3.51,14,2008-12-08 09:23:00,"10454 David Greens South Jenniferbury, FM 87283-5336",Taylor-Robbins,0,FM,Jenniferbury,3-5years,45-55,3167.84,4.0,Yes,2008,4,0.0,49.14,2465.43
+Brian Morse,46,9982.55,1,4.75,7,2009-05-05 04:56:00,"7865 Gutierrez Expressway Suite 948 Tiffanyside, AR 59662-2367",Robinson Inc,0,AR,Tiffanyside,3-5years,45-55,2101.59,1.5,Yes,2009,2,0.0,33.25,1736.1
+Jennifer Hernandez,39,11159.46,0,3.95,11,2010-08-23 13:43:00,"1526 Jessica Corner Suite 592 Lindsayshire, OH 56989-0550","Howe, Carpenter and Washington",0,OH,Lindsayshire,3-5years,35-45,2825.18,2.8,No,2010,3,0.0,43.45,2254.44
+Heather Figueroa,36,12668.26,0,4.54,12,2007-06-27 02:09:00,"945 Blankenship Plain Suite 062 East Christopherville, MI 15647-1190",Martin and Sons,0,MI,Christopherville,3-5years,35-45,2790.37,2.6,No,2007,2,0.0,54.480000000000004,2286.69
+Russell Marks,38,9087.9,0,2.7,10,2015-02-10 10:17:00,"310 Taylor Walks Apt. 649 Lake Shane, MD 23982",Mcknight and Sons,0,MD,Shane,1-3years,35-45,3365.89,3.7,No,2015,1,0.0,27.0,2456.19
+Riley Gill,41,9091.21,0,4.55,11,2007-10-20 08:11:00,"30353 Amber Extension Apt. 202 Austinberg, VA 89084","Robertson, Young and Mcfarland",0,VA,Austinberg,3-5years,35-45,1998.07,2.4,No,2007,4,0.0,50.05,1638.06
+Brian Love,44,8755.02,1,5.71,8,2010-06-15 02:58:00,"43677 Smith Mission Meganview, VA 54055",Quinn and Sons,0,VA,Meganview,5-10years,35-45,1533.28,1.4,Yes,2010,2,0.0,45.68,1304.77
+Lauren Walker,37,6362.93,1,6.8,7,2007-08-02 02:34:00,"599 Graham Courts North Katherine, WI 92642",Young-Newman,0,WI,Katherine,5-10years,35-45,935.72,1.0,Yes,2007,3,0.0,47.6,815.76
+Melanie Bender,48,13189.35,0,3.25,7,2006-01-18 03:29:00,"007 Shaw Trafficway Patrickstad, PA 29094-0827",Richardson-Keller,0,PA,Patrickstad,3-5years,45-55,4058.26,2.2,No,2006,1,0.0,22.75,3103.38
+Samuel Castillo,47,10584.71,0,6.05,8,2006-04-14 04:20:00,"63139 Kristin Locks Suite 522 Lambton, WI 60723-5177",Jimenez-Thompson,0,WI,Lambton,5-10years,45-55,1749.54,1.3,No,2006,2,0.0,48.4,1501.38
+Ashley Soto,49,9853.64,1,6.95,6,2012-01-01 21:48:00,"275 Thompson Street Lake Nathan, AS 67338-1025",Brown Inc,0,AS,Nathan,5-10years,45-55,1417.79,0.9,Yes,2012,1,0.0,41.7,1239.45
+Adriana James,36,10448.09,0,4.13,8,2016-04-09 09:02:00,USNV Ferguson FPO AP 58507,"Doyle, Butler and Coleman",0,,58507,3-5years,35-45,2529.8,1.9,No,2016,2,0.0,33.04,2036.66
+Andrea Salas,42,11473.38,1,2.87,10,2015-03-19 22:32:00,"308 Graham Corners Valeriehaven, SC 12062",Blackwell PLC,0,SC,Valeriehaven,1-3years,35-45,3997.69,3.5,Yes,2015,1,0.0,28.700000000000003,2964.7
+Erik Johnson,39,8986.28,0,4.36,8,2007-12-12 11:10:00,"6987 Weiss Flats Apt. 770 North Maria, MS 98836-9686",Lewis Group,0,MS,Maria,3-5years,35-45,2061.07,1.8,No,2007,4,0.0,34.88,1676.54
+Christopher Whitehead,33,13314.19,0,5.45,9,2007-01-10 01:47:00,"323 Farmer Cape Apt. 744 Jonathanfort, NJ 29387-2732",Harvey-Mckay,0,NJ,Jonathanfort,5-10years,25-35,2442.97,1.7,No,2007,1,0.0,49.050000000000004,2064.22
+Casey Mcdaniel,41,9918.77,0,4.02,10,2016-03-04 04:04:00,Unit 5523 Box 7609 DPO AA 77484-6339,Bishop and Sons,0,,77484-6339,3-5years,35-45,2467.36,2.5,No,2016,1,0.0,40.199999999999996,1975.85
+Jeremiah Lee,45,12783.21,1,4.47,10,2015-12-02 08:14:00,"03538 Gonzalez Forges Hamiltonbury, CA 87284",Snyder PLC,0,CA,Hamiltonbury,3-5years,45-55,2859.78,2.2,Yes,2015,4,0.0,44.699999999999996,2336.97
+Jennifer Patterson,46,7026.18,0,6.3,8,2012-01-31 23:08:00,"01546 Jared Key Justinview, OR 04118-6027","Carlson, King and Murray",0,OR,Justinview,5-10years,45-55,1115.27,1.3,No,2012,1,0.0,50.4,962.49
+Lawrence Morton,48,9706.88,0,6.45,8,2006-08-24 18:32:00,"0434 Douglas Ridge Suite 884 Raychester, DE 82008",Clark LLC,0,DE,Raychester,5-10years,45-55,1504.94,1.2,No,2006,3,0.0,51.6,1302.94
+Jeffrey Hunt,42,10236.95,1,5.71,8,2013-12-11 11:20:00,"479 Samantha Groves Suite 505 Morrowshire, CA 94582-2855",Garcia Group,0,CA,Morrowshire,5-10years,35-45,1792.81,1.4,Yes,2013,4,0.0,45.68,1525.63
+Gina Richardson,33,13157.08,1,5.04,10,2006-08-14 09:24:00,"44577 John Keys Robertview, FL 73433-8410",Murphy Inc,0,FL,Robertview,5-10years,25-35,2610.53,2.0,Yes,2006,3,0.0,50.4,2178.32
+Richard Farmer,44,8588.46,1,7.77,8,2012-05-07 09:58:00,"115 Courtney Springs Suite 396 Jenniferland, IL 43853-4718","Schroeder, Hines and Thompson",0,IL,Jenniferland,5-10years,35-45,1105.34,1.0,Yes,2012,2,0.0,62.16,979.3
+Brian White,48,7778.73,1,4.18,8,2013-01-09 06:06:00,"PSC 1209, Box 3739 APO AE 03896","Martinez, Ochoa and Jennings",0,Box,1209,3-5years,45-55,1860.94,1.9,Yes,2013,1,0.0,33.44,1501.69
+Richard Meadows,42,10268.0,0,5.33,6,2007-09-14 04:40:00,"64425 Brittany Common Joycechester, NE 85166-7648","Thompson, Rojas and Moore",0,NE,Joycechester,5-10years,35-45,1926.45,1.1,No,2007,3,0.0,31.98,1622.12
+Omar Moore,34,9845.35,0,4.82,7,2008-12-04 20:34:00,"960 Joseph Landing South Philip, MH 88524-5021",Ortiz-Nixon,0,MH,Philip,3-5years,25-35,2042.6,1.5,No,2008,4,0.0,33.74,1691.64
+Tasha Reed,37,11912.13,0,5.67,10,2011-02-19 18:04:00,"575 Kara Shores Anthonyburgh, VT 30056",Price Group,0,VT,Anthonyburgh,5-10years,35-45,2100.9,1.8,No,2011,1,0.0,56.7,1785.93
+Albert Clayton,33,12115.91,1,5.5,9,2010-08-09 00:14:00,Unit 6274 Box 5329 DPO AA 54598,"Mann, Roberts and Hoffman",0,,54598,5-10years,25-35,2202.89,1.6,Yes,2010,3,0.0,49.5,1863.99
+John Mejia,35,10801.37,1,5.64,11,2014-12-04 07:09:00,"1159 Charles Mountain Elainechester, ND 45109",Adams-Crawford,0,ND,Elainechester,5-10years,35-45,1915.14,2.0,Yes,2014,4,0.0,62.04,1626.71
+Diane Terry,53,13173.82,0,5.26,7,2007-10-15 03:45:00,"543 Bell Ranch Apt. 002 Kevinfurt, ID 14051-9447","Walton, Barnes and Simon",0,ID,Kevinfurt,5-10years,45-55,2504.53,1.3,No,2007,4,0.0,36.82,2104.44
+Christina Maldonado,49,9940.76,0,5.72,11,2006-08-28 11:16:00,"483 Douglas Club Apt. 632 Port Valerie, PW 88649-6413","Moreno, Green and Moreno",0,PW,Valerie,5-10years,45-55,1737.9,1.9,No,2006,3,0.0,62.919999999999995,1479.28
+Kathryn Malone,46,12261.79,1,3.72,10,2010-02-17 15:02:00,"52750 Roberts Via Stephenstad, ME 82199-5372",Stewart-Nichols,0,ME,Stephenstad,3-5years,45-55,3296.18,2.7,Yes,2010,1,0.0,37.2,2597.84
+Cynthia Burns,47,12987.28,0,5.86,10,2007-08-30 07:15:00,USCGC Gould FPO AP 18053-9165,"Perez, Miller and Mcdowell",0,,18053-9165,5-10years,45-55,2216.26,1.7,No,2007,3,0.0,58.6,1893.19
+Christina Reed,51,4523.91,0,3.98,8,2013-03-06 01:02:00,"53000 Mary Bypass New Markbury, IL 60012-4197",Atkins Group,0,IL,Markbury,3-5years,45-55,1136.66,2.0,No,2013,1,0.0,31.84,908.42
+Brittney Stokes,41,6172.23,0,4.28,8,2013-11-11 04:06:00,"1045 Kimberly Avenue South John, AR 19601",Hood-Webb,0,AR,John,3-5years,35-45,1442.11,1.9,No,2013,4,0.0,34.24,1168.98
+Mary Griffin,49,6283.67,0,6.35,11,2007-01-07 04:15:00,"91062 Michelle Underpass Lloydmouth, ND 88737",Mathews-Clark,0,ND,Lloydmouth,5-10years,45-55,989.55,1.7,No,2007,1,0.0,69.85,854.92
+Carla Wolfe,48,7232.06,1,4.9,6,2009-11-21 12:47:00,"67507 Brittany Prairie Apt. 279 Solisborough, VA 81388-7017",Ross Group,0,VA,Solisborough,3-5years,45-55,1475.93,1.2,Yes,2009,4,0.0,29.400000000000002,1225.77
+Emily Little,35,6683.82,1,7.82,7,2015-05-06 23:55:00,"1779 Jessica Glen West Tylerport, VT 62988-2923",Moore PLC,0,VT,Tylerport,5-10years,35-45,854.71,0.9,Yes,2015,2,0.0,54.74,757.8
+Jason Santana,39,9408.96,1,3.83,4,2011-09-30 06:15:00,"8072 Kathy Harbors Apt. 845 Normanburgh, MA 46572-1532",Gonzalez LLC,0,MA,Normanburgh,3-5years,35-45,2456.65,1.0,Yes,2011,3,0.0,15.32,1948.02
+Willie Proctor,47,8291.93,0,4.47,7,2012-04-28 20:15:00,"62726 Tracey Passage Apt. 685 South Brittany, RI 28461",Schmidt Group,0,RI,Brittany,3-5years,45-55,1855.02,1.6,No,2012,2,0.0,31.29,1515.89
+Todd Harris,41,10017.82,0,6.0,8,2012-09-10 22:22:00,"28501 Shawn Village Apt. 894 New Jasonhaven, WY 35010-3731","Henry, Warren and Lyons",0,WY,Jasonhaven,5-10years,35-45,1669.64,1.3,No,2012,3,0.0,48.0,1431.12
+Kimberly Nichols,38,7320.49,0,1.58,10,2008-01-16 23:56:00,"4920 Byrd Ford Danielbury, VI 04457",King-Rodriguez,0,VI,Danielbury,1-3years,35-45,4633.22,6.3,No,2008,1,0.0,15.8,2837.4
+Derek Russell,43,8817.29,0,3.19,8,2010-05-28 12:49:00,"2445 Jean Row Vasquezbury, RI 25867-8317",Hartman-Smith,0,RI,Vasquezbury,3-5years,35-45,2764.04,2.5,No,2010,2,0.0,25.52,2104.37
+Robert Huff,36,8948.86,0,7.37,10,2010-12-05 10:46:00,"36802 Wallace Parkways Jacquelineland, IL 81451","Carlson, Guerra and Daniel",0,IL,Jacquelineland,5-10years,35-45,1214.23,1.4,No,2010,4,0.0,73.7,1069.16
+Kelly Terry,45,3689.95,1,5.01,11,2014-10-09 10:05:00,"3798 Johnson Gardens Hughesside, PR 65467","Ellis, Johnston and Sullivan",0,PR,Hughesside,5-10years,45-55,736.52,2.2,Yes,2014,4,0.0,55.11,613.97
+Francisco Martinez,52,8185.22,1,5.76,8,2016-10-12 21:52:00,"842 Hebert Wells Suite 823 North Tina, WI 75284-1996","Washington, Watson and Jarvis",0,WI,Tina,5-10years,45-55,1421.05,1.4,Yes,2016,4,0.0,46.08,1210.83
+Jason Garcia,43,9347.89,1,4.17,8,2009-01-19 11:50:00,"751 Robert Lock Suite 515 Smithmouth, KS 83199-2220",Reid and Sons,0,KS,Smithmouth,3-5years,35-45,2241.7,1.9,Yes,2009,1,0.0,33.36,1808.1
+Daniel Johnson,42,12888.85,1,4.79,8,2010-03-30 04:37:00,"01614 Parker Garden New Patricia, SD 99014",Turner and Sons,0,SD,Patricia,3-5years,35-45,2690.78,1.7,Yes,2010,1,0.0,38.32,2226.05
+Gregory Blake,41,5387.41,1,4.17,8,2013-03-26 16:02:00,"25024 Rasmussen Haven Port Brendantown, UT 25626-9953","Brooks, Sutton and Castro",0,UT,Brendantown,3-5years,35-45,1291.94,1.9,Yes,2013,1,0.0,33.36,1042.05
+Richard Odonnell,38,7605.49,0,6.99,10,2014-03-13 19:27:00,"0297 Mendoza Motorway Lisastad, IN 31184-3807","Lewis, West and Snyder",0,IN,Lisastad,5-10years,35-45,1088.05,1.4,No,2014,1,0.0,69.9,951.88
+Monica Espinoza,45,8480.93,0,4.57,9,2009-06-26 10:22:00,"602 Jennifer Brook Suite 753 North Alison, NJ 24477","Pratt, Carter and Lopez",0,NJ,Alison,3-5years,45-55,1855.78,2.0,No,2009,2,0.0,41.13,1522.61
+David Hansen,29,11274.46,1,4.43,8,2014-03-31 07:43:00,"742 Ortiz Street Apt. 568 Robertland, AS 94732-7050","Crawford, Scott and Smith",0,AS,Robertland,3-5years,25-35,2545.02,1.8,Yes,2014,1,0.0,35.44,2076.33
+Elizabeth Chandler,43,13116.73,0,3.57,9,2006-04-15 03:59:00,USNS Garcia FPO AA 23264-4875,Morris Inc,0,,23264-4875,3-5years,35-45,3674.15,2.5,No,2006,2,0.0,32.129999999999995,2870.18
+Michael White,32,7896.65,0,7.12,8,2015-10-17 17:47:00,"48465 Susan Summit Suite 561 Hawkinston, WY 60818",Hawkins-Mckay,0,WY,Hawkinston,5-10years,25-35,1109.08,1.1,No,2015,4,0.0,56.96,972.49
+William Pacheco,36,12086.92,1,5.52,6,2008-03-11 20:48:00,"PSC 6149, Box 2267 APO AA 69767-2977",Wilkerson-Miller,0,Box,6149,5-10years,35-45,2189.66,1.1,Yes,2008,1,0.0,33.12,1853.82
+Dr. Brandon Adams,42,10500.77,0,5.68,6,2013-06-22 06:20:00,"93971 Jacob Flats Port Shannonton, IN 95823-2039",Friedman-Carroll,0,IN,Shannonton,5-10years,35-45,1848.73,1.1,No,2013,2,0.0,34.08,1571.97
+William Burns,38,7673.0,1,7.42,7,2006-02-25 19:40:00,"432 Allen Station North Rebecca, MA 78424-2850","Santos, Hughes and Miller",0,MA,Rebecca,5-10years,35-45,1034.1,0.9,Yes,2006,1,0.0,51.94,911.28
+Jack Ortega,42,14242.7,0,5.79,10,2009-06-09 07:44:00,"49625 Joseph Mountain West Brandon, AL 19037-8797",Anderson-Evans,0,AL,Brandon,5-10years,35-45,2459.88,1.7,No,2009,2,0.0,57.9,2097.6
+Jonathan Cooley,40,6590.63,1,4.52,7,2012-03-12 14:56:00,"3012 Kimberly Lights West Teresa, CA 83239",Larsen-Johnson,0,CA,Teresa,3-5years,35-45,1458.1,1.5,Yes,2012,1,0.0,31.639999999999997,1193.95
+Erin Norris,37,15070.32,0,6.91,6,2016-01-02 16:43:00,"081 Randy Crest Apt. 821 South James, LA 27688-1775",Garcia LLC,0,LA,James,5-10years,35-45,2180.94,0.9,No,2016,1,0.0,41.46,1905.22
+Michael Grant,37,13717.41,1,6.5,7,2014-03-31 08:16:00,"2978 Luke Cape Tracyfort, NJ 87595-8510","Flores, Davis and Duncan",0,NJ,Tracyfort,5-10years,35-45,2110.37,1.1,Yes,2014,1,0.0,45.5,1828.99
+Connor Knapp,41,9219.95,1,5.21,10,2015-09-21 16:18:00,"7805 Kerri Route Marystad, UT 08020","Smith, Simpson and Wolf",0,UT,Marystad,5-10years,35-45,1769.66,1.9,Yes,2015,3,0.0,52.1,1484.69
+Megan Jenkins,65,10430.5,0,6.5,6,2013-03-10 14:36:00,"3462 Teresa Falls Apt. 035 Charlesview, MS 09689-7606",Bates-Ramos,0,MS,Charlesview,5-10years,65+,1604.69,0.9,No,2013,1,0.0,39.0,1390.73
+Sarah Hall,45,5200.06,1,6.33,8,2014-05-05 13:36:00,"3930 Baker Square North Michaelside, PR 98680",Sanchez-Brown,0,PR,Michaelside,5-10years,45-55,821.49,1.3,Yes,2014,2,0.0,50.64,709.42
+Tony Schneider,43,11197.42,1,3.48,9,2009-04-30 13:55:00,"329 Pierce Place Apt. 176 North Tammybury, WV 17594",Harper-Noble,0,WV,Tammybury,3-5years,35-45,3217.65,2.6,Yes,2009,2,0.0,31.32,2499.42
+Karen Peterson,45,13650.64,0,4.96,8,2010-04-05 02:15:00,"1721 Diana Canyon Suite 811 Dukemouth, NC 04129-3149","Moore, Donaldson and Stevens",0,NC,Dukemouth,3-5years,45-55,2752.15,1.6,No,2010,2,0.0,39.68,2290.38
+Tiffany Case,42,7351.72,0,5.26,9,2015-09-26 01:05:00,"0792 Denise Lodge Apt. 903 Jenniferchester, HI 96154-9657",Clark Inc,0,HI,Jenniferchester,5-10years,35-45,1397.67,1.7,No,2015,3,0.0,47.339999999999996,1174.4
+Mary Sanchez,33,10306.21,1,6.36,9,2011-12-20 17:01:00,"073 Joseph Knolls Apt. 112 West Mary, NV 59877","Smith, Wright and Price",0,NV,Mary,5-10years,25-35,1620.47,1.4,Yes,2011,4,0.0,57.24,1400.3
+David Moran,37,10147.22,0,6.63,8,2014-07-02 06:46:00,"278 Barbara Divide Suite 780 North Elizabeth, SC 44587-8722","Harris, Mcdonald and Johnson",0,SC,Elizabeth,5-10years,35-45,1530.5,1.2,No,2014,3,0.0,53.04,1329.91
+David Lopez,48,10528.71,0,5.0,9,2007-09-17 05:36:00,"1630 Robert Points Apt. 793 East Jonathonberg, NH 78592-4122",Good Inc,0,NH,Jonathonberg,5-10years,45-55,2105.74,1.8,No,2007,3,0.0,45.0,1754.78
+Cynthia Nguyen,41,10054.6,1,4.93,6,2015-04-28 16:20:00,"PSC 5666, Box 1288 APO AE 26505",Sullivan-Weaver,0,Box,5666,3-5years,35-45,2039.47,1.2,Yes,2015,2,0.0,29.58,1695.55
+Brittany Smith,45,8595.24,0,6.4,10,2012-11-08 06:43:00,"151 Sara Springs Lake Davidside, AK 46384-8806",Patrick-Walker,0,AK,Davidside,5-10years,45-55,1343.01,1.6,No,2012,4,0.0,64.0,1161.52
+Laura Smith,45,6681.61,1,5.6,8,2010-06-16 21:05:00,"1723 Galloway Groves Apt. 026 Timothystad, PR 36052-9128","West, Gonzales and Shields",0,PR,Timothystad,5-10years,45-55,1193.14,1.4,Yes,2010,2,0.0,44.8,1012.37
+Michael Dominguez,29,10203.18,1,5.82,8,2014-01-03 23:18:00,"3043 Walters Loaf Suite 575 Christophermouth, TN 25692",Guzman-Hunter,0,TN,Christophermouth,5-10years,25-35,1753.12,1.4,Yes,2014,1,0.0,46.56,1496.07
+Paul Wagner,42,10427.12,0,6.64,10,2011-06-04 23:57:00,"49936 Colleen Stream Port Elizabeth, MN 80287-5385","Santos, Jackson and Guerrero",0,MN,Elizabeth,5-10years,35-45,1570.35,1.5,No,2011,2,0.0,66.39999999999999,1364.81
+Calvin Coleman,39,10388.38,0,5.1,7,2013-07-09 16:29:00,Unit 9127 Box 5819 DPO AE 24161,Stark-Clarke,0,,24161,5-10years,35-45,2036.94,1.4,No,2013,3,0.0,35.699999999999996,1703.01
+Lisa Burton,39,9353.38,0,4.06,7,2014-02-04 02:19:00,Unit 9800 Box 2878 DPO AA 75157,Smith-Alexander,0,,75157,3-5years,35-45,2303.79,1.7,No,2014,1,0.0,28.419999999999998,1848.49
+John Gonzales,42,11756.06,0,4.88,8,2014-07-31 14:15:00,"3880 Denise Curve South Christopher, NC 79432","Martin, White and Hernandez",0,NC,Christopher,3-5years,35-45,2409.03,1.6,No,2014,3,0.0,39.04,1999.33
+Linda Hubbard,40,12295.95,1,5.69,11,2010-01-08 23:22:00,"8983 Benjamin Run South Kelseytown, AZ 03915",Vincent Group,0,AZ,Kelseytown,5-10years,35-45,2160.98,1.9,Yes,2010,1,0.0,62.59,1837.96
+Rachel Hull,40,7819.46,1,4.77,9,2014-07-03 11:47:00,"02794 Edward Summit Suite 660 Victoriahaven, TN 44165",Taylor LLC,0,TN,Victoriahaven,3-5years,35-45,1639.3,1.9,Yes,2014,3,0.0,42.92999999999999,1355.19
+Tracy Ray,34,10674.92,1,3.09,9,2006-08-15 20:48:00,Unit 3715 Box 1153 DPO AA 36768-7501,Wise Inc,0,,36768-7501,3-5years,25-35,3454.67,2.9,Yes,2006,3,0.0,27.81,2610.0
+Sarah Bailey,37,10989.43,0,6.62,10,2013-07-14 15:25:00,"56493 Becker Stravenue Suite 006 West Anna, MS 49275",Spencer and Sons,0,MS,Anna,5-10years,35-45,1660.03,1.5,No,2013,3,0.0,66.2,1442.18
+Aaron King,46,7504.79,0,5.98,8,2007-05-13 20:42:00,"38346 Smith Prairie Arnoldside, MD 33861-4885",Hernandez PLC,0,MD,Arnoldside,5-10years,45-55,1254.98,1.3,No,2007,2,0.0,47.84,1075.18
+Bradley Washington,46,9306.05,0,5.35,7,2016-01-01 18:31:00,"149 Paula Divide Vazquezfurt, MN 57597-1890",Smith and Sons,0,MN,Vazquezfurt,5-10years,45-55,1739.45,1.3,No,2016,1,0.0,37.449999999999996,1465.52
+Holly Caldwell,37,11523.63,1,3.56,7,2014-10-29 11:21:00,"020 Amy Groves Suite 845 Phillipsport, AL 40594","Spencer, Young and Shaw",0,AL,Phillipsport,3-5years,35-45,3236.97,2.0,Yes,2014,4,0.0,24.92,2527.11
+Cheryl Bruce,44,9613.84,1,4.38,8,2014-06-18 19:25:00,"PSC 5054, Box 2004 APO AP 20629","Oconnor, Hernandez and Bailey",0,Box,5054,3-5years,35-45,2194.94,1.8,Yes,2014,2,0.0,35.04,1786.96
+Megan Flynn,48,13298.38,0,2.99,8,2015-12-06 16:55:00,"86354 Brenda Manor Port Stevenmouth, NC 39915","Smith, Shelton and Williams",0,NC,Stevenmouth,1-3years,45-55,4447.62,2.7,No,2015,4,0.0,23.92,3332.93
+Amanda Williams,37,8614.75,0,5.03,9,2011-07-07 15:43:00,"79676 Johnson Villages Apt. 089 Reyesstad, DC 78510",Jones-Fisher,0,DC,Reyesstad,5-10years,35-45,1712.67,1.8,No,2011,3,0.0,45.27,1428.65
+Amy Morris,45,9951.97,1,4.4,6,2015-04-01 19:58:00,"017 Gutierrez Fork New Benjamin, VA 99400","Patel, Smith and Campos",0,VA,Benjamin,3-5years,45-55,2261.81,1.4,Yes,2015,2,0.0,26.400000000000002,1842.96
+Teresa Garcia,46,11343.33,1,3.69,8,2012-09-20 05:52:00,"2374 Jackson Walks Larryberg, PW 89438-7588",Ibarra and Sons,0,PW,Larryberg,3-5years,45-55,3074.07,2.2,Yes,2012,3,0.0,29.52,2418.62
+Thomas Mcintosh,38,10026.44,1,6.85,9,2014-01-12 02:04:00,"510 Alexander Pike New Scottfort, NV 46217-8559",Garrett Ltd,0,NV,Scottfort,5-10years,35-45,1463.71,1.3,Yes,2014,1,0.0,61.65,1277.25
+Justin Friedman,38,8473.65,1,4.78,7,2010-11-29 19:37:00,"9195 Erin Terrace Suite 818 Lake Feliciaberg, NV 64016-8747",Garcia-Johnson,0,NV,Feliciaberg,3-5years,35-45,1772.73,1.5,Yes,2010,4,0.0,33.46,1466.03
+Whitney Beasley,42,12989.06,0,5.0,10,2010-03-15 16:50:00,"PSC 3448, Box 5424 APO AE 92778-0504",Knight Inc,0,Box,3448,5-10years,35-45,2597.81,2.0,No,2010,1,0.0,50.0,2164.84
+Beverly Perry,38,12893.47,1,5.69,5,2012-11-20 05:53:00,"3145 Cruz Mill North Deborahstad, AR 02085",Mathis Ltd,0,AR,Deborahstad,5-10years,35-45,2265.99,0.9,Yes,2012,4,0.0,28.450000000000003,1927.28
+David Sweeney,34,7324.32,0,6.69,10,2014-12-16 02:23:00,"755 Ashley Motorway Suite 227 West Rachel, NH 67933-7552","Adams, Dominguez and Vasquez",0,NH,Rachel,5-10years,25-35,1094.82,1.5,No,2014,4,0.0,66.9,952.45
+Amber Williams,40,8530.23,1,3.66,10,2012-03-02 18:33:00,"2896 Diana Spur Suite 985 New Tami, IN 56915","Lee, Daniels and Ryan",0,IN,Tami,3-5years,35-45,2330.66,2.7,Yes,2012,1,0.0,36.6,1830.52
+Lisa Murray,46,10675.86,0,3.33,7,2014-12-06 22:07:00,"943 Briana Circles Lake Joseph, UT 22842-6913","Herring, Lee and Taylor",0,UT,Joseph,3-5years,45-55,3205.96,2.1,No,2014,4,0.0,23.310000000000002,2465.56
+Jose Hoffman,43,10300.24,0,6.44,8,2008-06-15 13:51:00,"244 Johnson Court Lake Justin, MD 66889-8251",Rice PLC,0,MD,Justin,5-10years,35-45,1599.42,1.2,No,2008,2,0.0,51.52,1384.44
+Regina Kirby,41,10921.54,0,5.07,3,2015-09-04 11:32:00,"310 Amy Underpass Suite 089 Lake Kevin, DC 23138-4553",Schaefer-Berry,0,DC,Kevin,5-10years,35-45,2154.15,0.6,No,2015,3,0.0,15.21,1799.27
+Shawn Ramirez,42,10527.52,1,8.42,8,2008-02-03 02:07:00,"7873 Trevino Tunnel Angelamouth, AZ 84280","Gilbert, Bennett and Lindsey",0,AZ,Angelamouth,5-10years,35-45,1250.3,1.0,Yes,2008,1,0.0,67.36,1117.57
+Ruben Thomas,44,8338.05,0,6.57,11,2008-02-15 18:36:00,"919 Bennett Gateway Russochester, SC 57606",Cohen-Rodriguez,0,SC,Russochester,5-10years,35-45,1269.11,1.7,No,2008,1,0.0,72.27000000000001,1101.46
+Austin Palmer,36,9593.71,0,3.98,6,2009-03-21 00:05:00,"85112 Raymond Ridge Suite 934 East Christinachester, CO 33248",Lynch-Davies,0,CO,Christinachester,3-5years,35-45,2410.48,1.5,No,2009,1,0.0,23.88,1926.45
+Anthony Hall,46,11537.69,1,6.37,7,2011-01-24 07:40:00,"0910 Bell Mount West Lindseyview, MS 35802",Kelly Group,0,MS,Lindseyview,5-10years,45-55,1811.25,1.1,Yes,2011,1,0.0,44.59,1565.49
+Richard Gardner,35,12936.64,1,3.73,6,2010-07-31 02:11:00,"617 Diane River Lake Jillianton, TX 91296-2338",Alexander-Reed,0,TX,Jillianton,3-5years,35-45,3468.27,1.6,Yes,2010,3,0.0,22.38,2735.02
+Destiny Morales,40,8815.24,0,5.63,9,2012-11-15 04:23:00,"108 Oscar Rapids Port Vanessa, KY 23348-6290","Martin, Flores and Graham",0,KY,Vanessa,5-10years,35-45,1565.76,1.6,No,2012,4,0.0,50.67,1329.6
+Brittany Murphy,42,12300.94,1,6.89,10,2007-06-19 09:53:00,"892 Elizabeth Mission Apt. 511 West Leslieville, WA 98000-6023","Schmidt, Johnston and Kaufman",0,WA,Leslieville,5-10years,35-45,1785.33,1.5,Yes,2007,2,0.0,68.89999999999999,1559.05
+Tony Soto,35,11830.36,1,4.41,6,2006-10-01 16:57:00,"227 Jennifer Park Smithbury, TN 22659-9788",Nichols-Wade,0,TN,Smithbury,3-5years,35-45,2682.62,1.4,Yes,2006,4,0.0,26.46,2186.76
+Sharon Torres,36,14715.53,1,5.73,9,2014-01-31 00:05:00,"983 Carl Run Apt. 446 West Christina, NM 45895","Blanchard, Hawkins and Torres",0,NM,Christina,5-10years,35-45,2568.16,1.6,Yes,2014,1,0.0,51.57000000000001,2186.56
+Brenda Fuentes,44,9214.98,1,6.44,7,2016-03-04 14:24:00,"443 Shari Plains Apt. 479 Tiffanyside, TN 88122","Boyd, Jennings and Gutierrez",0,TN,Tiffanyside,5-10years,35-45,1430.9,1.1,Yes,2016,1,0.0,45.080000000000005,1238.57
+Rodney Evans,49,8092.13,0,6.32,5,2011-10-22 19:12:00,"025 Ricky Ford East John, AS 71101-1423",Simmons Inc,0,AS,John,5-10years,45-55,1280.4,0.8,No,2011,4,0.0,31.6,1105.48
+Robin Woods,41,12008.34,1,4.94,7,2009-12-24 12:36:00,"404 Joshua Estate Apt. 074 Jacobsonside, CT 88758-3164",Bright PLC,0,CT,Jacobsonside,3-5years,35-45,2430.84,1.4,Yes,2009,4,0.0,34.580000000000005,2021.61
+Jennifer Anderson,38,11803.58,1,6.97,6,2015-12-15 11:48:00,"521 Charles Lakes Lake Michaelland, NE 42708","Stewart, Sanchez and Valentine",0,NE,Michaelland,5-10years,35-45,1693.48,0.9,Yes,2015,4,0.0,41.82,1481.0
+Tabitha Love,37,13498.28,1,7.06,9,2007-11-23 13:38:00,"8308 Rhodes Crest Apt. 745 Beckyfurt, KS 20974-1928",Stein PLC,0,KS,Beckyfurt,5-10years,35-45,1911.94,1.3,Yes,2007,4,0.0,63.54,1674.72
+Diana Carroll,46,9601.95,0,5.9,9,2011-08-10 04:56:00,"3270 Barnes Station Suite 780 Lake Blake, TN 43554-9146",Rubio-Humphrey,0,TN,Blake,5-10years,45-55,1627.45,1.5,No,2011,3,0.0,53.1,1391.59
+Matthew Jacobs,54,13184.51,0,6.04,8,2013-03-20 17:57:00,"507 Harris Summit East Kevin, WY 06036-0197","Nichols, Carter and Goodman",0,WY,Kevin,5-10years,45-55,2182.87,1.3,No,2013,1,0.0,48.32,1872.8
+Rebecca Prince,36,4690.57,1,5.41,8,2012-01-25 00:45:00,"209 Daniel Springs Suite 388 Port Courtneybury, PW 27640-7474",Sandoval-Mcgrath,0,PW,Courtneybury,5-10years,35-45,867.02,1.5,Yes,2012,1,0.0,43.28,731.76
+Eric Smith,37,11416.56,0,6.06,6,2006-04-03 04:29:00,"166 Julie Vista Apt. 132 Lake Sarahborough, HI 29875",Thomas-Curtis,0,HI,Sarahborough,5-10years,35-45,1883.92,1.0,No,2006,2,0.0,36.36,1617.08
+Jeffrey Hernandez,56,9940.54,1,6.57,7,2014-03-04 07:00:00,"2739 Jackson Mission Rojashaven, WI 86960",Thompson-Elliott,0,WI,Rojashaven,5-10years,55-65,1513.02,1.1,Yes,2014,1,0.0,45.99,1313.15
+William Newman,35,13680.25,1,5.79,9,2011-10-07 15:43:00,"3785 Duran Lodge Port Nicholashaven, MH 08892-1815",Williams-Charles,0,MH,Nicholashaven,5-10years,35-45,2362.74,1.6,Yes,2011,4,0.0,52.11,2014.76
+Ashley Smith,29,5900.78,1,5.56,8,2007-09-19 06:55:00,"663 White Tunnel Suite 995 Port Joseph, PR 93959-2444","Jones, Reyes and Cross",0,PR,Joseph,5-10years,25-35,1061.29,1.4,Yes,2007,3,0.0,44.48,899.51
+Sandra Mcintyre,36,10339.05,1,6.88,7,2010-08-02 09:34:00,"10676 Ferguson Ranch Suite 380 Lake Parker, OH 23498",Cowan Inc,0,OH,Parker,5-10years,35-45,1502.77,1.0,Yes,2010,3,0.0,48.16,1312.06
+Robert Joseph,46,11538.57,1,7.93,10,2015-04-03 16:15:00,"95222 Lisa Turnpike South Laurenburgh, NC 33273-8443",Cortez Inc,0,NC,Laurenburgh,5-10years,45-55,1455.05,1.3,Yes,2015,2,0.0,79.3,1292.11
+George Chavez,43,7178.92,1,5.32,8,2007-12-15 00:13:00,"63837 Jessica Valleys Apt. 645 East Jasmine, WV 26260-6871","Rodriguez, Moore and Cunningham",0,WV,Jasmine,5-10years,35-45,1349.42,1.5,Yes,2007,4,0.0,42.56,1135.91
+Joshua Walters,51,8840.51,0,2.7,7,2012-08-28 14:56:00,USS Mcdonald FPO AA 93590,Bennett Ltd,0,,93590,1-3years,45-55,3274.26,2.6,No,2012,3,0.0,18.900000000000002,2389.33
+John Howard,47,14154.26,0,4.73,9,2012-08-19 15:56:00,"PSC 9026, Box 5801 APO AE 43474",Cantu Inc,0,Box,9026,3-5years,45-55,2992.44,1.9,No,2012,3,0.0,42.57000000000001,2470.2
+Deborah Howell,42,10583.76,0,6.51,9,2006-08-18 05:47:00,"9609 Harper Dale New Danieltown, AR 80238-4616",Ortiz Ltd,0,AR,Danieltown,5-10years,35-45,1625.77,1.4,No,2006,3,0.5,58.589999999999996,1409.29
+Terry Diaz,46,11401.63,0,6.13,5,2014-06-30 15:46:00,USNV Rose FPO AP 67907-1654,"Charles, Cruz and Marshall",0,,67907-1654,5-10years,45-55,1859.97,0.8,No,2014,2,0.0,30.65,1599.11
+Roberto Gonzales,41,7495.6,1,6.57,8,2009-11-29 08:47:00,"13697 Hale Burgs Apt. 574 Jamesfort, UT 03958-6187",Davis and Sons,0,UT,Jamesfort,5-10years,35-45,1140.88,1.2,Yes,2009,4,0.5,52.56,990.17
+Jesse Mitchell,36,8878.96,1,4.66,9,2016-06-24 08:32:00,"4563 Rebecca Rest Lisaville, GA 03268","Dunn, Hopkins and Adams",0,GA,Lisaville,3-5years,35-45,1905.36,1.9,Yes,2016,2,0.0,41.94,1568.72
+Linda Allen,37,11111.59,1,6.0,7,2013-11-01 00:22:00,"9111 Harris Throughway Roblesfurt, MA 91589",Butler-Alexander,0,MA,Roblesfurt,5-10years,35-45,1851.93,1.2,Yes,2013,4,0.0,42.0,1587.37
+Heather Hernandez,42,8519.64,0,3.99,8,2006-03-01 07:20:00,"6815 Andrea Isle Lindseyborough, OR 26077-2763","Carr, Esparza and Flores",0,OR,Lindseyborough,3-5years,35-45,2135.25,2.0,No,2006,1,0.0,31.92,1707.34
+Ryan Chapman,44,12361.42,1,3.7,10,2014-11-13 21:11:00,"PSC 3188, Box 1421 APO AA 49368-5290",Williams Ltd,0,Box,3188,3-5years,35-45,3340.92,2.7,Yes,2014,4,0.0,37.0,2630.09
+Anthony Mooney,41,9014.9,1,4.45,7,2010-11-19 04:30:00,"9131 Russell Court Suite 160 South Michellefurt, PW 79597",Knight-Price,0,PW,Michellefurt,3-5years,35-45,2025.82,1.6,Yes,2010,4,0.0,31.150000000000002,1654.11
+Timothy Henry,42,6081.5,0,3.73,8,2011-04-22 16:14:00,"73765 Crystal Terrace Apt. 641 Ramirezfort, GU 82626-0948","Norris, Chavez and Martinez",0,GU,Ramirezfort,3-5years,35-45,1630.43,2.1,No,2011,2,0.0,29.84,1285.73
+Vanessa Hayes,43,10944.65,1,2.62,9,2010-06-24 21:15:00,"820 Kristin Lock Suite 348 Emilyhaven, WI 45502-8866",Casey-Stevens,0,WI,Emilyhaven,1-3years,35-45,4177.35,3.4,Yes,2010,2,0.0,23.580000000000002,3023.38
+Timothy Jacobs,40,11764.35,1,5.54,9,2006-09-16 05:57:00,"835 Potter Field Apt. 413 Port Kristina, IL 58467",Lawson-Jones,0,IL,Kristina,5-10years,35-45,2123.53,1.6,Yes,2006,3,0.0,49.86,1798.83
+Austin Melendez,44,12155.91,1,4.11,5,2009-07-30 18:11:00,"697 Mcdowell Pike Lake Phillip, LA 32009-7853","Carlson, Ramos and Johnson",0,LA,Phillip,3-5years,35-45,2957.64,1.2,Yes,2009,3,0.0,20.55,2378.85
+Brittany Green,41,11971.75,1,5.38,7,2011-02-13 18:26:00,"1241 Wiley Motorway Prattchester, TN 32961-5246","Smith, Stein and Mueller",0,TN,Prattchester,5-10years,35-45,2225.23,1.3,Yes,2011,1,0.0,37.66,1876.45
+Michael Perry,41,14080.95,1,4.61,7,2015-06-09 20:51:00,Unit 2093 Box 1530 DPO AA 53596-7800,Stone PLC,0,,53596-7800,3-5years,35-45,3054.44,1.5,Yes,2015,2,0.0,32.27,2509.97
+Theresa Martinez,41,6204.86,1,6.08,8,2016-05-12 17:50:00,"21267 Nixon Coves Moorestad, NH 93322-8817",Howell-Valdez,0,NH,Moorestad,5-10years,35-45,1020.54,1.3,Yes,2016,2,0.0,48.64,876.39
+Jessica Gutierrez,39,4994.48,0,5.02,8,2016-07-29 12:56:00,"0347 Glenn Springs Kellyview, GU 58381-4038",Moreno-Sharp,0,GU,Kellyview,5-10years,35-45,994.92,1.6,No,2016,3,0.0,40.16,829.65
+James Franklin,36,11047.43,0,5.98,8,2006-04-11 05:00:00,"399 Herbert Key Port Thomas, PR 14265","Wright, Myers and Garcia",0,PR,Thomas,5-10years,35-45,1847.4,1.3,No,2006,2,0.0,47.84,1582.73
+Julie Francis,40,12925.64,0,4.04,7,2013-03-16 06:25:00,"6656 Edward Manors Apt. 704 Flynnshire, GA 70372","Frank, Knox and Robinson",0,GA,Flynnshire,3-5years,35-45,3199.42,1.7,No,2013,1,0.0,28.28,2564.61
+Marissa Nguyen,36,8233.25,1,4.35,7,2013-08-24 22:54:00,"8541 King Spur Suite 184 Aliciafurt, AZ 39457",Mueller LLC,0,AZ,Aliciafurt,3-5years,35-45,1892.7,1.6,Yes,2013,3,0.0,30.449999999999996,1538.93
+Marie Bauer,39,9282.33,0,4.52,11,2009-04-08 21:56:00,"8923 Nunez Cove Apt. 302 New Allisonmouth, MP 01493",Bell-Kelly,0,MP,Allisonmouth,3-5years,35-45,2053.61,2.4,No,2009,2,0.0,49.72,1681.58
+Thomas Brown,46,13383.25,1,5.27,9,2010-04-06 23:18:00,"5098 Daniel Village Apt. 434 North Josephmouth, NJ 26103-2939",Brown-Estrada,0,NJ,Josephmouth,5-10years,45-55,2539.52,1.7,Yes,2010,2,0.0,47.42999999999999,2134.49
+Julie Moore,40,8911.91,0,6.99,10,2014-11-20 15:27:00,"67368 Karen Ford Suite 722 Gonzalezfort, MH 57379-8391",Huynh Inc,0,MH,Gonzalezfort,5-10years,35-45,1274.95,1.4,No,2014,4,0.0,69.9,1115.38
+Nicole Jacobson,41,8783.13,1,6.2,7,2009-10-08 16:00:00,"029 Bill Alley Apt. 087 West Kenneth, UT 32896","Hoffman, Leach and Smith",0,UT,Kenneth,5-10years,35-45,1416.63,1.1,Yes,2009,4,0.0,43.4,1219.88
+John Davis,35,12654.35,0,1.66,7,2011-11-01 14:43:00,"88854 Sarah Lake Suite 435 Lake Steven, MD 39080",Gordon-Pruitt,0,MD,Steven,1-3years,35-45,7623.1,4.2,No,2011,4,0.0,11.62,4757.27
+Crystal Mccullough,40,6773.23,1,4.29,11,2006-10-17 12:23:00,"323 Adams Circles Andersonmouth, VI 05122-6749",Hall-Branch,0,VI,Andersonmouth,3-5years,35-45,1578.84,2.6,Yes,2006,4,0.0,47.19,1280.38
+Michael Patterson,31,9574.89,0,7.34,8,2009-01-27 11:02:00,"8392 Heather Camp Mackenziefurt, NE 44919-3028","Anderson, Brown and Montes",0,NE,Mackenziefurt,5-10years,25-35,1304.48,1.1,No,2009,1,0.0,58.72,1148.07
+Brianna White,45,9722.92,1,3.35,8,2006-01-07 19:04:00,"087 Kimberly Ridges Thomasbury, MA 73601",Alexander LLC,0,MA,Thomasbury,3-5years,45-55,2902.36,2.4,Yes,2006,1,0.0,26.8,2235.15
+Austin Hays,41,9516.87,0,4.94,7,2008-06-15 03:31:00,"55004 Schmidt Fort Apt. 448 North Samanthaland, AR 63822",Austin Ltd,0,AR,Samanthaland,3-5years,35-45,1926.49,1.4,No,2008,2,0.0,34.580000000000005,1602.17
+Tammy Kelley,38,6638.87,1,5.61,8,2014-07-20 09:42:00,"41822 Wright Loop Apt. 718 West Kendrabury, CO 10948-4798",Smith and Sons,0,CO,Kendrabury,5-10years,35-45,1183.4,1.4,Yes,2014,3,0.0,44.88,1004.37
+Monique Delgado,30,10960.52,1,5.96,9,2007-03-04 02:41:00,"781 Cassie Flat Austinville, AS 10515-8328",Silva-Guerra,0,AS,Austinville,5-10years,25-35,1839.01,1.5,Yes,2007,1,0.0,53.64,1574.79
+Timothy Mcdonald,52,11093.87,0,4.38,5,2016-09-30 14:28:00,"6685 Marie Unions Suite 385 West Kevinfort, MS 77092-9463",Smith-Hawkins,0,MS,Kevinfort,3-5years,45-55,2532.85,1.1,No,2016,3,0.0,21.9,2062.06
+Donald Barrett,51,10323.07,1,7.03,9,2014-01-14 10:48:00,"107 Melissa Manors Suite 419 East Teresashire, ME 40421-3419",Zhang-Brown,0,ME,Teresashire,5-10years,45-55,1468.43,1.3,Yes,2014,1,0.0,63.27,1285.56
+Darin Alexander,43,15858.91,1,4.51,8,2008-08-11 02:19:00,"82216 Garrison Coves Apt. 482 Heathertown, MS 60762",Anderson Group,0,MS,Heathertown,3-5years,35-45,3516.39,1.8,Yes,2008,3,0.0,36.08,2878.21
+Joseph Taylor,40,11309.18,0,4.91,7,2008-08-07 15:34:00,"170 Kenneth Flats South James, AL 78065",Robertson-Nelson,0,AL,James,3-5years,35-45,2303.3,1.4,No,2008,3,0.0,34.370000000000005,1913.57
+Catherine Martin,32,12142.99,0,5.01,7,2013-07-04 23:28:00,"75224 Powell Point Apt. 653 Lake Norma, AZ 05753",Lee Inc,0,AZ,Norma,5-10years,25-35,2423.75,1.4,No,2013,3,0.0,35.07,2020.46
+Amber Carr,44,10965.95,1,4.11,8,2012-07-03 18:49:00,"95266 Mary Fort West Kennethmouth, WV 43523","Davis, Mccormick and Carson",0,WV,Kennethmouth,3-5years,35-45,2668.11,1.9,Yes,2012,3,0.0,32.88,2145.98
+Brenda Walls,51,10877.81,1,8.35,8,2006-05-10 04:40:00,"078 Nunez Haven Suite 032 East Bradley, SC 36621-1197","Jones, Black and Schneider",0,SC,Bradley,5-10years,45-55,1302.73,1.0,Yes,2006,2,0.0,66.8,1163.4
+Carol Young,38,7491.55,0,5.66,12,2015-07-28 21:21:00,"31037 Gregory Creek Brooksmouth, FL 10099",Dunn LLC,0,FL,Brooksmouth,5-10years,35-45,1323.6,2.1,No,2015,3,0.0,67.92,1124.86
+James Shah,47,9324.49,1,4.91,6,2007-11-28 21:26:00,"66256 Danielle Ford New Maureen, MS 47550","Wilson, Collins and Lee",0,MS,Maureen,3-5years,45-55,1899.08,1.2,Yes,2007,4,0.0,29.46,1577.75
+Julie Mitchell,45,9034.21,0,6.89,9,2011-06-20 01:07:00,"8195 Alan Junctions Lake Angela, SC 48151-1612",Jenkins-Johnson,0,SC,Angela,5-10years,45-55,1311.21,1.3,No,2011,2,0.0,62.01,1145.02
+Martha Green,54,11856.28,0,6.19,8,2014-03-14 17:28:00,USCGC Patrick FPO AP 72386,"Anderson, Webb and Gordon",0,,72386,5-10years,45-55,1915.39,1.3,No,2014,1,0.0,49.52,1649.0
+John Long,41,9191.02,1,5.89,9,2013-06-10 16:50:00,"3142 Michael Shores Apt. 648 Port Kyleview, MA 08135-5259","Hernandez, Peck and Martin",0,MA,Kyleview,5-10years,35-45,1560.44,1.5,Yes,2013,2,0.0,53.01,1333.97
+Ricky Stewart,41,10617.16,0,6.26,8,2006-04-28 11:11:00,"927 Joseph Lights Lake Anthonyborough, ID 34724","Sutton, Black and Tate",0,ID,Anthonyborough,5-10years,35-45,1696.03,1.3,No,2006,2,0.0,50.08,1462.42
+Cassandra Proctor,49,11321.2,0,4.89,10,2006-03-07 00:11:00,"1780 Sherry Circle Ruizbury, WI 73815-9062","Smith, Moran and Gonzales",0,WI,Ruizbury,3-5years,45-55,2315.17,2.0,No,2006,1,0.0,48.9,1922.11
+Kenneth James,41,15516.52,0,3.53,10,2016-01-07 07:31:00,Unit 7222 Box 4339 DPO AP 13281,Wright Group,0,,13281,3-5years,35-45,4395.61,2.8,No,2016,1,0.0,35.3,3425.28
+Shawn Hughes,52,5647.92,0,5.08,8,2009-03-16 00:10:00,"89503 Hurley Wells Suite 603 Port Garrettmouth, MI 00879",Powell-Medina,0,MI,Garrettmouth,5-10years,45-55,1111.8,1.6,No,2009,1,0.0,40.64,928.93
+Kim Adams,30,8677.28,1,7.31,7,2006-10-13 13:08:00,"766 Vanessa Villages West Michelle, VA 51730","Wiley, Macdonald and Lewis",0,VA,Michelle,5-10years,25-35,1187.04,1.0,Yes,2006,4,0.0,51.169999999999995,1044.2
+Katie Wagner,43,15423.03,1,2.41,7,2007-05-26 03:19:00,"4331 Tyler Fall Williamfurt, NC 10542-4839","Galloway, Thornton and Diaz",0,NC,Williamfurt,1-3years,35-45,6399.6,2.9,Yes,2007,2,0.0,16.87,4522.88
+Joshua Cole,38,8097.01,0,4.32,7,2011-12-15 07:22:00,"65431 Elizabeth Rest Apt. 912 Lake Stephanie, SD 65477-1657",Miller LLC,0,SD,Stephanie,3-5years,35-45,1874.31,1.6,No,2011,4,0.0,30.240000000000002,1521.99
+Tony Mathews,47,9148.74,1,6.38,8,2012-03-26 06:23:00,"8471 Jason Spur Jasminemouth, AL 19070","Navarro, Williams and Escobar",0,AL,Jasminemouth,5-10years,45-55,1433.97,1.3,Yes,2012,1,0.0,51.04,1239.67
+Andrew Kent,45,12374.97,0,4.66,7,2011-12-24 17:00:00,"79904 Jacobson Wells Apt. 852 Josephfort, NV 94414","Briggs, Cross and Norris",0,NV,Josephfort,3-5years,45-55,2655.57,1.5,No,2011,4,0.0,32.620000000000005,2186.39
+Nancy Riley,36,8646.72,0,6.33,8,2007-04-23 20:03:00,"65795 Shepard Flats New Sheila, NJ 22914-4957","Thompson, Mendez and Morales",0,NJ,Sheila,5-10years,35-45,1365.99,1.3,No,2007,2,0.0,50.64,1179.63
+Dr. Tina Le,53,10338.09,1,5.07,7,2007-04-07 09:21:00,"94016 Hill Village Suite 984 New Kristyfort, TN 68508-8351",Steele LLC,0,TN,Kristyfort,5-10years,45-55,2039.07,1.4,Yes,2007,2,0.0,35.49,1703.14
+Jonathan Brown,38,13019.89,1,6.65,8,2011-01-24 12:28:00,"073 Ryan Haven Suite 323 New Jonathan, DC 25812-0853",Munoz-Pearson,0,DC,Jonathan,5-10years,35-45,1957.88,1.2,Yes,2011,1,0.0,53.2,1701.95
+Amy Baldwin,41,13743.42,0,3.92,9,2009-11-01 10:37:00,"596 Erica Route Apt. 258 New Janice, IN 57273",Morgan-Garcia,0,IN,Janice,3-5years,35-45,3505.97,2.3,No,2009,4,0.0,35.28,2793.38
+Gary Bryant,39,8646.2,0,2.94,9,2010-07-21 16:56:00,"636 John Road Suite 304 Morrisonshire, MN 04090-3035",Newman-Phillips,0,MN,Morrisonshire,1-3years,35-45,2940.88,3.1,No,2010,3,0.0,26.46,2194.47
+Jeffrey Thompson,42,6523.74,0,2.71,8,2013-06-06 03:51:00,"7280 Douglas River Apt. 701 Suzanneport, KS 56534","Peters, Rodriguez and Smith",0,KS,Suzanneport,1-3years,35-45,2407.28,3.0,No,2013,2,0.0,21.68,1758.42
+Johnny Watts,56,8626.48,1,5.07,7,2011-06-13 05:25:00,"62761 Edwin Overpass Joshuabury, PA 98754-4095","Jacobs, Martinez and Bond",0,PA,Joshuabury,5-10years,55-65,1701.48,1.4,Yes,2011,2,0.0,35.49,1421.17
+Stephanie Juarez,41,5191.08,0,6.29,7,2016-12-07 02:57:00,"026 Brown Springs Suite 306 Lindsayville, MD 06840","Gonzalez, Willis and Moody",0,MD,Lindsayville,5-10years,35-45,825.29,1.1,No,2016,4,0.0,44.03,712.08
+James Velazquez,38,7097.52,1,4.68,6,2009-08-11 09:43:00,"91449 Warren Land Hallberg, SD 39520-2416","Williams, Wilcox and Mitchell",0,SD,Hallberg,3-5years,35-45,1516.56,1.3,Yes,2009,3,0.0,28.08,1249.56
+Erin Hall,41,13277.82,0,4.84,9,2009-02-21 05:30:00,"43775 Michael Curve Apt. 937 South Patricia, MN 13454-1801",Lawson-Carter,0,MN,Patricia,3-5years,35-45,2743.35,1.9,No,2009,1,0.0,43.56,2273.6
+Justin Campos,53,3263.0,1,2.77,9,2013-11-11 22:49:00,"3483 Davis Viaduct Guzmanmouth, RI 60858",Hall-Butler,0,RI,Guzmanmouth,1-3years,45-55,1177.98,3.2,Yes,2013,4,0.0,24.93,865.52
+Jessica Flores,52,14669.61,0,6.28,9,2012-08-30 14:53:00,"38975 Jennifer Harbor Apt. 491 West Cody, WA 38692-1960",Wright Ltd,0,WA,Cody,5-10years,45-55,2335.93,1.4,No,2012,3,0.0,56.52,2015.06
+Richard Bell,47,13359.2,1,4.55,8,2016-07-29 08:39:00,"007 Davis Squares Flynnchester, SC 79849",Anderson Group,0,SC,Flynnchester,3-5years,45-55,2936.09,1.8,Yes,2016,3,0.0,36.4,2407.06
+Betty Bowers,43,12078.39,1,6.06,6,2014-10-31 16:00:00,"79062 Henson Expressway Williamsview, PR 54326-7935",Davis Ltd,0,PR,Williamsview,5-10years,35-45,1993.13,1.0,Yes,2014,4,0.0,36.36,1710.82
+Rebekah Burns,48,8513.75,1,8.24,10,2009-11-19 11:01:00,"81006 Armstrong Falls Suite 944 New Kellyborough, SD 34820-7157","Bruce, Craig and Fletcher",0,SD,Kellyborough,5-10years,45-55,1033.22,1.2,Yes,2009,4,0.0,82.4,921.4
+James Rivas,38,9557.2,0,4.47,8,2007-01-10 07:29:00,"90866 Harmon Radial North Jennifermouth, MI 55389","Allen, Hernandez and Bryant",0,MI,Jennifermouth,3-5years,35-45,2138.08,1.8,No,2007,1,0.0,35.76,1747.2
+Robert Terry,44,6517.22,0,4.55,12,2010-04-23 00:50:00,"3480 Joseph Hollow South Stanley, ME 17014-2360",Cole-Hartman,0,ME,Stanley,3-5years,35-45,1432.36,2.6,No,2010,2,0.0,54.599999999999994,1174.27
+Christian Mann,40,4762.81,1,5.12,10,2008-03-10 01:30:00,"53545 Susan Views Suite 594 New Pamela, OK 73980-0288",Gallagher-Foster,0,OK,Pamela,5-10years,35-45,930.24,2.0,Yes,2008,1,0.0,51.2,778.24
+Christopher Yates,45,6452.83,1,4.41,6,2012-08-20 15:56:00,"PSC 7127, Box 3035 APO AP 88800-1111","Hernandez, Middleton and Brewer",0,Box,7127,3-5years,45-55,1463.23,1.4,Yes,2012,3,0.0,26.46,1192.76
+Cynthia Daniels,31,8688.21,0,3.58,7,2007-09-06 18:15:00,"496 Klein Ports Quinnstad, NE 67656",Jackson-Terry,0,NE,Quinnstad,3-5years,25-35,2426.87,2.0,No,2007,3,0.0,25.060000000000002,1896.99
+Kellie Ryan,32,12254.75,1,5.32,9,2014-05-26 11:13:00,"275 Patricia Hills Ronnieborough, AK 71437-9508","Reeves, Flores and Bauer",0,AK,Ronnieborough,5-10years,25-35,2303.52,1.7,Yes,2014,2,0.0,47.88,1939.04
+David Payne,39,5914.3,1,2.3,9,2008-03-30 06:50:00,"882 Schneider Inlet Paigeburgh, NJ 33304",Aguirre LLC,0,NJ,Paigeburgh,1-3years,35-45,2571.43,3.9,Yes,2008,1,0.0,20.7,1792.21
+Henry Cook,45,11486.53,1,5.5,7,2009-12-08 00:18:00,"071 Michelle Green New Jasonview, AL 90525-9261","Newton, Shepard and Berg",0,AL,Jasonview,5-10years,45-55,2088.46,1.3,Yes,2009,4,0.0,38.5,1767.16
+Jamie Moore,51,6114.85,1,4.7,9,2013-11-10 01:54:00,"435 Hernandez Inlet Apt. 727 Josephfort, RI 51403",Herrera-Dodson,0,RI,Josephfort,3-5years,45-55,1301.03,1.9,Yes,2013,4,0.0,42.300000000000004,1072.78
+Kimberly Lewis,52,11828.78,0,5.95,10,2013-09-17 17:17:00,Unit 6752 Box 0928 DPO AA 53116-2490,Fischer-Garrison,0,,53116-2490,5-10years,45-55,1988.03,1.7,No,2013,3,0.0,59.5,1701.98
+Darren Chavez,35,10166.67,0,4.65,10,2009-11-17 17:45:00,"PSC 5667, Box 8312 APO AP 00654","Hatfield, Lane and Solomon",0,Box,5667,3-5years,35-45,2186.38,2.2,No,2009,4,0.0,46.5,1799.41
+Andrea George,43,12691.45,0,4.45,11,2014-09-19 08:46:00,"9089 Jennifer Brooks Suite 571 New Lisa, WA 53342-5359","Johnson, Fields and Anderson",0,WA,Lisa,3-5years,35-45,2852.01,2.5,No,2014,3,0.0,48.95,2328.71
+Luis Evans,45,9903.78,1,5.31,9,2009-05-19 07:17:00,"9273 Scott Springs Suite 665 Mcintyreland, DC 54306","Coffey, Lopez and Taylor",0,DC,Mcintyreland,5-10years,45-55,1865.12,1.7,Yes,2009,2,0.0,47.79,1569.54
+Jonathan Collier,46,10363.63,0,5.84,10,2016-08-10 20:11:00,Unit 2672 Box 5909 DPO AE 56165-8636,"Turner, Hodges and Turner",0,,56165-8636,5-10years,45-55,1774.59,1.7,No,2016,3,0.0,58.4,1515.15
+James Adkins,35,8475.8,0,3.37,11,2013-09-10 12:56:00,"2311 Henderson Centers Conniehaven, MP 16886-3947","Taylor, Reynolds and Hoffman",0,MP,Conniehaven,3-5years,35-45,2515.07,3.3,No,2013,3,0.0,37.07,1939.54
+Tamara Keith,39,13091.92,1,4.74,9,2014-01-13 13:54:00,"82367 Austin Square Suite 115 New Cheyenne, UT 08356-0301",Mueller Ltd,0,UT,Cheyenne,3-5years,35-45,2762.01,1.9,Yes,2014,1,0.0,42.660000000000004,2280.82
+Teresa Thompson,37,13036.52,1,3.83,6,2009-02-26 12:56:00,"762 Donald Field Suite 361 South Ronald, ME 08806","Snow, Martin and Fowler",0,ME,Ronald,3-5years,35-45,3403.79,1.6,Yes,2009,1,0.0,22.98,2699.07
+Andrea Ortiz,40,9521.35,0,5.8,9,2009-01-12 14:37:00,"7645 Huff Lights Suite 209 Stephenmouth, GA 01888","Barron, Tapia and Black",0,GA,Stephenmouth,5-10years,35-45,1641.61,1.6,No,2009,1,0.0,52.199999999999996,1400.2
+Stefanie Miranda,37,5039.46,0,4.08,8,2007-09-12 16:27:00,"002 Gutierrez Mountains Hayesburgh, GU 73502-4691",Morrison-Pennington,0,GU,Hayesburgh,3-5years,35-45,1235.16,2.0,No,2007,3,0.0,32.64,992.02
+Becky Cardenas,51,13762.79,0,7.52,9,2006-09-11 04:55:00,"9103 David Drives Wilsonport, PA 79287",Lewis LLC,0,PA,Wilsonport,5-10years,45-55,1830.16,1.2,No,2006,3,0.0,67.67999999999999,1615.35
+Maria Stanley,46,8941.92,1,5.43,9,2010-01-15 17:22:00,"17836 Julie Drives North Thomas, MI 27198","Conner, Munoz and Wilson",0,MI,Thomas,5-10years,45-55,1646.76,1.7,Yes,2010,1,0.0,48.87,1390.66
+Judy Montes,32,12479.72,0,4.67,8,2015-03-20 02:09:00,"405 Amanda Junctions West Dustinshire, MH 84757-2573",Fischer PLC,0,MH,Dustinshire,3-5years,25-35,2672.32,1.7,No,2015,1,0.0,37.36,2201.01
+Nicole Williams,41,9139.73,1,5.15,10,2011-08-21 01:38:00,"05077 Richard Lane Apt. 002 New Tracy, FM 56599-7849","Bautista, Strong and Campbell",0,FM,Tracy,5-10years,35-45,1774.7,1.9,Yes,2011,3,0.0,51.5,1486.13
+Dalton Sexton,46,10406.58,0,7.24,11,2015-10-24 15:49:00,"91864 Tommy Manor Suite 933 East Tyrone, MN 86821","Hall, Taylor and Charles",0,MN,Tyrone,5-10years,45-55,1437.37,1.5,No,2015,4,0.0,79.64,1262.93
+Michael Payne,44,11768.65,0,5.54,7,2006-03-06 00:42:00,"59672 Nash Cove Apt. 855 Jeremyshire, GU 93725",Campbell-Davenport,0,GU,Jeremyshire,5-10years,35-45,2124.31,1.3,No,2006,1,0.0,38.78,1799.49
+Keith Bowman,46,14664.0,0,6.54,8,2012-09-30 02:34:00,"36569 Richard Run Jacksonmouth, MN 02512",Garrett-Turner,0,MN,Jacksonmouth,5-10years,45-55,2242.2,1.2,No,2012,3,0.0,52.32,1944.83
+Jason Phillips,46,8418.81,1,7.19,6,2014-09-29 00:31:00,"8928 Benjamin Summit Suite 264 North Samanthabury, AR 01364-7776",Davis-Bass,0,AR,Samanthabury,5-10years,45-55,1170.91,0.8,Yes,2014,3,0.0,43.14,1027.94
+Christopher Daniels,34,6461.86,1,4.61,8,2008-10-15 13:31:00,"88563 Jeffery Manor North Mathew, OK 19970-2973",Schultz-Newman,0,OK,Mathew,3-5years,25-35,1401.7,1.7,Yes,2008,4,0.0,36.88,1151.85
+Lindsey Moreno,39,14317.2,0,5.03,7,2014-12-02 15:56:00,"38769 Zachary Road Apt. 706 Port Michaelview, MA 73304-2019",Davies-Braun,0,MA,Michaelview,5-10years,35-45,2846.36,1.4,No,2014,4,0.0,35.21,2374.33
+James Evans,42,4492.44,1,6.43,9,2013-01-16 16:29:00,"17140 Andrea Motorway Apt. 798 Amychester, WV 88972-7283",Hughes Ltd,0,WV,Amychester,5-10years,35-45,698.67,1.4,Yes,2013,1,0.0,57.87,604.64
+Kristine Moreno,29,13240.01,1,4.58,6,2012-08-09 16:07:00,"541 Mills Rest Lake Cynthia, PR 71752",Garcia Ltd,0,PR,Cynthia,3-5years,25-35,2890.83,1.3,Yes,2012,3,0.0,27.48,2372.76
+Stefanie Whitaker,35,7814.68,1,5.99,9,2013-08-27 00:56:00,"7967 Waters Way Suite 678 New Ericport, HI 48528",King-Frye,0,HI,Ericport,5-10years,35-45,1304.62,1.5,Yes,2013,3,0.0,53.910000000000004,1117.98
+Monica Todd,35,11255.38,0,6.28,4,2007-04-04 08:32:00,"104 Ruben Rapid Apt. 107 New Andrea, FM 58602",Peterson PLC,0,FM,Andrea,5-10years,35-45,1792.26,0.6,No,2007,2,0.0,25.12,1546.07
+Matthew Beck,49,13165.68,0,5.49,9,2010-02-10 17:43:00,"29322 Linda Via Martinside, IA 14495",Taylor-Cain,0,IA,Martinside,5-10years,45-55,2398.12,1.6,No,2010,1,0.0,49.410000000000004,2028.61
+Donna Good,37,12713.9,0,9.15,8,2009-11-23 17:54:00,USNV Hill FPO AE 43418,"Alexander, Goodwin and Johnson",0,,43418,5-10years,35-45,1389.5,0.9,No,2009,4,0.0,73.2,1252.6
+Sarah Flores,40,11527.08,1,5.04,8,2007-11-17 09:06:00,USNV Morgan FPO AE 62096-4614,"Cervantes, Rice and Strickland",0,,62096-4614,5-10years,35-45,2287.12,1.6,Yes,2007,4,0.0,40.32,1908.46
+Joshua Kirby,54,8375.73,1,4.42,7,2007-10-24 03:45:00,"5079 Cole Circle New Patriciaton, CT 49306-7555",Moore-Johnson,0,CT,Patriciaton,3-5years,45-55,1894.96,1.6,Yes,2007,4,0.0,30.939999999999998,1545.34
+Keith Robertson,41,11968.78,0,5.08,6,2010-11-21 12:52:00,"52601 Burns Lane West Courtney, TN 00410-3545",Spencer Group,0,TN,Courtney,5-10years,35-45,2356.06,1.2,No,2010,4,0.0,30.48,1968.55
+Dustin Dodson,48,7761.2,0,7.02,9,2011-01-12 13:52:00,USNV Villanueva FPO AE 89160-6979,"Serrano, Moss and Bass",0,,89160-6979,5-10years,45-55,1105.58,1.3,No,2011,1,0.0,63.17999999999999,967.73
+Frances Jenkins,32,6367.22,1,2.84,10,2015-01-03 18:57:00,"80428 Harris Islands Ethanfurt, CT 42032-8161",Boyd-King,0,CT,Ethanfurt,1-3years,25-35,2241.98,3.5,Yes,2015,1,0.0,28.4,1658.13
+Deborah Meyer,44,7599.36,1,6.41,6,2008-01-10 11:48:00,"47051 Luna Mission North Susanchester, MH 55279-4332",Smith Group,0,MH,Susanchester,5-10years,35-45,1185.55,0.9,Yes,2008,1,0.0,38.46,1025.55
+Latasha Schwartz,40,7642.2,0,5.04,9,2007-11-11 17:05:00,"90098 Lloyd Drive North Johnside, AR 39045-5361",Chambers-Wyatt,0,AR,Johnside,5-10years,35-45,1516.31,1.8,No,2007,4,0.0,45.36,1265.26
+Ashley Jacobs,38,11621.67,1,6.11,9,2013-07-06 19:20:00,"018 Mark Centers Suite 973 Mckinneyland, VT 26361-8406",Williamson-Walker,0,VT,Mckinneyland,5-10years,35-45,1902.07,1.5,Yes,2013,3,0.0,54.99,1634.55
+Michael Brown,47,9365.92,1,4.37,5,2013-06-10 21:51:00,"4972 Michael Village Suite 788 West Rachelstad, NH 04946-6243","Smith, Diaz and Warren",0,NH,Rachelstad,3-5years,45-55,2143.23,1.1,Yes,2013,2,0.0,21.85,1744.12
+Darlene Cain,29,12711.15,0,5.74,7,2011-08-10 21:19:00,"33852 Susan Pine Apt. 606 Lake Spencer, KY 80977",Velasquez PLC,0,KY,Spencer,5-10years,25-35,2214.49,1.2,No,2011,3,0.0,40.18,1885.93
+Abigail Gonzalez,55,8243.28,0,3.54,6,2014-01-09 19:52:00,"325 Lawrence Crossing Suite 269 South Josephhaven, OK 53193-5178",Nelson PLC,0,OK,Josephhaven,3-5years,55-65,2328.61,1.7,No,2014,1,0.0,21.240000000000002,1815.7
+Christina Martin,51,10269.97,1,4.85,8,2007-08-09 12:55:00,"43807 Barnes Bridge Lake Richardport, AR 10206-6207","Carroll, Green and Jones",0,AR,Richardport,3-5years,45-55,2117.52,1.6,Yes,2007,3,0.0,38.8,1755.55
+Robert Adams,38,13366.66,1,5.64,7,2008-06-10 21:06:00,"675 David Bypass Suite 331 West Andrea, VA 63193",Powers Ltd,0,VA,Andrea,5-10years,35-45,2369.98,1.2,Yes,2008,2,0.0,39.48,2013.05
+Megan Avila,40,12401.58,1,5.75,9,2013-11-18 16:25:00,Unit 6546 Box 3116 DPO AE 29548,"Roberts, Edwards and Young",0,,29548,5-10years,35-45,2156.8,1.6,Yes,2013,4,0.0,51.75,1837.27
+Ann White,43,8950.33,0,6.76,9,2008-06-25 00:45:00,"91968 Pena Stream Apt. 094 New Justin, GU 24101",Hancock LLC,0,GU,Justin,5-10years,35-45,1324.01,1.3,No,2008,2,0.0,60.839999999999996,1153.39
+Dr. Lauren Brown,41,10806.13,1,4.0,6,2010-01-27 13:34:00,"964 Long Road Suite 539 New Sharonmouth, ID 56171-3878",Morales PLC,0,ID,Sharonmouth,3-5years,35-45,2701.53,1.5,Yes,2010,1,0.0,24.0,2161.23
+Shane Jones,38,7713.12,1,5.41,9,2016-02-15 15:45:00,"PSC 2239, Box 8378 APO AA 67843",Wise Inc,0,Box,2239,5-10years,35-45,1425.72,1.7,Yes,2016,1,0.0,48.69,1203.29
+Amanda Moore,40,12455.75,1,6.64,9,2010-01-03 06:33:00,"356 Vickie Vista North Michaelstad, WA 26856","Green, Jackson and Green",0,WA,Michaelstad,5-10years,35-45,1875.87,1.4,Yes,2010,1,0.0,59.76,1630.33
+Daniel Thompson,33,7492.9,0,6.71,7,2009-10-13 17:35:00,"243 Laura Gateway Mitchellport, FL 53705-6256",Maldonado-Goodwin,0,FL,Mitchellport,5-10years,25-35,1116.68,1.0,No,2009,4,0.0,46.97,971.84
+Andrew Moreno,43,12068.39,1,3.59,7,2008-03-28 21:32:00,"60669 Rivera Lights Suite 982 Michaelside, AK 96751",Williams Group,0,AK,Michaelside,3-5years,35-45,3361.67,1.9,Yes,2008,1,0.0,25.13,2629.28
+Catherine Lucas,40,7837.67,1,5.66,11,2009-05-18 15:10:00,"979 Joel Run Suite 561 Darlenetown, WA 27272",Andrade-Cook,0,WA,Darlenetown,5-10years,35-45,1384.75,1.9,Yes,2009,2,0.0,62.260000000000005,1176.83
+Natalie Williams,45,9721.59,0,3.43,9,2006-07-24 16:11:00,"5605 Dunn Union Suite 923 Shanefort, IL 28178-4110",Nguyen Ltd,0,IL,Shanefort,3-5years,45-55,2834.28,2.6,No,2006,3,0.0,30.87,2194.49
+Mark Gordon,41,10028.23,1,5.52,9,2007-11-25 17:41:00,"56171 Hunt Fall Herreratown, OR 59549",Cole-Johnson,0,OR,Herreratown,5-10years,35-45,1816.71,1.6,Yes,2007,4,0.0,49.67999999999999,1538.07
+Mrs. Ashley Guerra,34,10466.56,0,5.34,7,2016-11-07 08:01:00,"3314 Lisa Row Suite 484 Port Stephanieview, KY 15941-8359",Garza PLC,0,KY,Stephanieview,5-10years,25-35,1960.03,1.3,No,2016,4,0.0,37.379999999999995,1650.88
+Emily Roberson,36,12879.7,0,4.7,9,2013-07-08 19:24:00,"41199 Welch Stravenue Apt. 518 South Crystalshire, IA 58998-2407",Clements-Summers,0,IA,Crystalshire,3-5years,35-45,2740.36,1.9,No,2013,3,0.0,42.300000000000004,2259.6
+Matthew Lane,49,13078.28,1,4.06,8,2008-02-22 10:20:00,"59446 Kaufman Trace East Josephburgh, HI 36514","Carter, Brown and Richards",0,HI,Josephburgh,3-5years,45-55,3221.25,2.0,Yes,2008,1,0.0,32.48,2584.64
+Darren Brown,49,11584.59,1,4.84,6,2010-05-28 21:29:00,"080 Amber Village Apt. 472 Schroederbury, AZ 32357",Hall PLC,0,AZ,Schroederbury,3-5years,45-55,2393.51,1.2,Yes,2010,2,0.0,29.04,1983.66
+Alyssa Harper DDS,45,9874.69,1,2.41,9,2006-09-04 07:20:00,"63593 Hector Mission South Williambury, IA 79862-2416",Garza-Alexander,0,IA,Williambury,1-3years,45-55,4097.38,3.7,Yes,2006,3,0.0,21.69,2895.8
+Jennifer Wood,48,11585.16,0,4.61,9,2012-03-13 03:24:00,Unit 5568 Box 1967 DPO AE 15638,"Gray, Campbell and Chandler",0,,15638,3-5years,45-55,2513.05,2.0,No,2012,1,0.0,41.49,2065.09
+Taylor Grant,39,10643.67,0,5.54,10,2015-05-16 14:20:00,Unit 2836 Box 5288 DPO AP 28958-4427,Barnett-Herrera,0,,28958-4427,5-10years,35-45,1921.24,1.8,No,2015,2,0.0,55.4,1627.47
+Ryan Brown,34,12397.49,0,4.93,9,2016-01-24 10:04:00,"91641 Wright Views Stephenstad, MT 83238-3650","Gutierrez, Garcia and Miller",0,MT,Stephenstad,3-5years,25-35,2514.7,1.8,No,2016,1,0.0,44.37,2090.64
+Peggy Allison,40,10780.71,1,5.33,9,2016-03-12 23:44:00,"913 David Mall Hooperburgh, MT 76387",Nelson-Murray,0,MT,Hooperburgh,5-10years,35-45,2022.65,1.7,Yes,2016,1,0.0,47.97,1703.11
+Douglas Acosta,40,8801.13,0,7.52,6,2016-05-26 20:27:00,"81459 Sarah Brook Suite 370 Lake Michael, MA 20035-7310","Clayton, Ferrell and Gaines",0,MA,Michael,5-10years,35-45,1170.36,0.8,No,2016,2,0.0,45.12,1033.0
+Victoria Hughes,45,7325.93,1,6.0,6,2009-05-16 11:03:00,"0918 Taylor Trail Apt. 385 West Caleb, ND 20637-7455","Douglas, Briggs and Sawyer",0,ND,Caleb,5-10years,45-55,1220.99,1.0,Yes,2009,2,0.0,36.0,1046.56
+Michael Knox,36,7342.14,0,5.51,8,2015-10-08 18:55:00,"0115 Carter Camp Suite 403 New Andreashire, OK 92778",Scott and Sons,0,OK,Andreashire,5-10years,35-45,1332.51,1.5,No,2015,4,0.0,44.08,1127.82
+Laura Wright,37,12154.25,1,5.15,6,2015-06-17 23:25:00,"9534 Dodson Streets North James, TX 66878","Cunningham, Jackson and Schultz",0,TX,James,5-10years,35-45,2360.05,1.2,Yes,2015,2,0.0,30.900000000000002,1976.3
+Alexandra Phillips,32,9472.72,1,1.0,10,2009-03-26 05:25:00,"078 Ortega Vista Lake Gabriella, OK 18890-5973","Smith, Harris and Black",0,OK,Gabriella,1-3years,25-35,9472.72,10.0,Yes,2009,1,0.0,10.0,4736.36
+Lori Medina,39,3676.68,1,3.52,9,2008-07-16 11:36:00,"PSC 1874, Box 9238 APO AP 68299","Garcia, Hansen and Austin",0,Box,1874,3-5years,35-45,1044.51,2.6,Yes,2008,3,0.0,31.68,813.42
+Kristin Davis,50,6857.29,0,4.69,6,2014-07-08 19:50:00,"090 Sara Track Apt. 195 Mooremouth, MP 50670","Gonzalez, Castro and Martinez",0,MP,Mooremouth,3-5years,45-55,1462.11,1.3,No,2014,3,0.0,28.14,1205.15
+John Richardson,52,10133.36,0,4.6,7,2014-02-24 17:27:00,"77435 Christopher Union Apt. 871 New Christophermouth, MA 95513-2675",Martinez Inc,0,MA,Christophermouth,3-5years,45-55,2202.9,1.5,No,2014,1,0.0,32.199999999999996,1809.53
+Daniel Brown,51,4992.6,0,3.85,8,2016-02-12 22:38:00,"701 Alan Corners Port George, KY 15579-3799",Mosley Ltd,0,KY,George,3-5years,45-55,1296.78,2.1,No,2016,1,0.0,30.8,1029.4
+Eugene Rowe,50,12941.12,1,5.51,11,2015-06-23 09:54:00,"45548 Henderson Islands Bakerside, WV 92882-7688",Powell-Parker,0,WV,Bakerside,5-10years,45-55,2348.66,2.0,Yes,2015,2,0.0,60.61,1987.88
+Cody Middleton,36,11040.16,0,4.52,8,2010-04-14 22:03:00,"86871 Jimenez Crest Suite 849 East Bruce, MO 68426-6342",Lawrence and Sons,0,MO,Bruce,3-5years,35-45,2442.51,1.8,No,2010,2,0.0,36.16,2000.03
+Kevin Chapman,35,8058.73,0,6.88,9,2016-02-29 18:23:00,"40094 Manning Pass Travisburgh, MT 80542",Ortega Group,0,MT,Travisburgh,5-10years,35-45,1171.33,1.3,No,2016,1,0.0,61.92,1022.68
+Margaret Moore,44,10638.65,0,5.54,6,2010-06-04 03:04:00,"2556 Grant Points New Christopherton, CA 76121-6565",Wright PLC,0,CA,Christopherton,5-10years,35-45,1920.33,1.1,No,2010,2,0.0,33.24,1626.7
+Edwin Young,49,10226.43,0,6.02,8,2014-02-27 10:46:00,"6467 Brett Dam Houstonchester, DE 13162","Graham, Jones and Gonzalez",0,DE,Houstonchester,5-10years,45-55,1698.74,1.3,No,2014,1,0.0,48.16,1456.76
+Teresa Bean,38,12020.62,0,4.41,8,2007-02-14 00:56:00,"4962 Christian Squares North Belinda, OK 98156-7957",Garza LLC,0,OK,Belinda,3-5years,35-45,2725.76,1.8,No,2007,1,0.0,35.28,2221.93
+Justin Moore,51,12780.22,0,6.06,7,2015-04-04 11:06:00,"7790 Paul Street Sandraside, AR 55085","Callahan, Miller and Wallace",0,AR,Sandraside,5-10years,45-55,2108.95,1.2,No,2015,2,0.0,42.419999999999995,1810.23
+Sarah Morgan,51,6662.59,1,5.27,9,2009-10-03 09:42:00,"2458 Tyler Flats Suite 696 Rebeccaburgh, VA 79274",Braun-Cook,0,VA,Rebeccaburgh,5-10years,45-55,1264.25,1.7,Yes,2009,4,0.0,47.42999999999999,1062.61
+Amanda Hernandez,38,10298.29,1,5.07,9,2015-05-31 21:15:00,"4792 Amy Wall Apt. 296 Olsenchester, VA 69141-5857","Barry, Brown and Smith",0,VA,Olsenchester,5-10years,35-45,2031.22,1.8,Yes,2015,2,0.0,45.63,1696.59
+Tammy Williams,52,9065.28,0,3.99,5,2009-12-13 18:17:00,"6720 Barbara Square Christopherchester, UT 54226",Lawrence-Johnson,0,UT,Christopherchester,3-5years,45-55,2272.0,1.3,No,2009,4,0.0,19.950000000000003,1816.69
+Lawrence Gordon,44,8817.22,1,6.53,10,2009-09-23 09:35:00,"4041 Wise River Suite 828 West Todd, AR 08725-4767","Austin, Roberts and Cox",0,AR,Todd,5-10years,35-45,1350.26,1.5,Yes,2009,3,0.0,65.3,1170.95
+Jodi Thompson,35,11391.46,1,7.59,10,2011-12-28 11:02:00,"4379 Sandoval Stravenue Suite 998 New Ryanberg, NM 05443-2529",Soto PLC,0,NM,Ryanberg,5-10years,35-45,1500.85,1.3,Yes,2011,4,0.0,75.9,1326.13
+Michelle Roberts,43,12531.39,0,3.97,6,2013-04-28 05:02:00,"5351 Ford Pike Apt. 399 Ericshire, IA 72849-0011",Marshall-Ho,0,IA,Ericshire,3-5years,35-45,3156.52,1.5,No,2013,2,0.0,23.82,2521.41
+Colton Foster,43,9200.69,1,2.6,11,2012-12-25 06:18:00,"01690 Andrews Park Wrightville, IN 00886","Jennings, Stout and Spencer",0,IN,Wrightville,1-3years,35-45,3538.73,4.2,Yes,2012,4,0.0,28.6,2555.75
+John Gardner,52,13368.21,1,4.09,9,2006-12-23 18:35:00,"16214 Henry Mission Pearsonside, PR 88434","Sherman, Lopez and Moran",0,PR,Pearsonside,3-5years,45-55,3268.51,2.2,Yes,2006,4,0.0,36.81,2626.37
+Holly Flores,47,15878.11,1,2.05,8,2012-05-21 12:56:00,"37362 Anthony Corner Suite 462 Port Saraton, ND 49109-1547",Reyes-Crawford,0,ND,Saraton,1-3years,45-55,7745.42,3.9,Yes,2012,2,0.0,16.4,5205.94
+William Branch,33,7720.61,1,4.97,10,2012-04-16 07:05:00,"90937 Andres Springs Apt. 164 Lindaland, TX 51026-5011",Mullen and Sons,0,TX,Lindaland,3-5years,25-35,1553.44,2.0,Yes,2012,2,0.0,49.699999999999996,1293.23
+Patricia Mckinney,34,9270.9,0,6.19,7,2007-04-29 18:47:00,"04146 Ronnie Mission Suite 310 Nicoleshire, CT 39413-3387","Lewis, Green and Garcia",0,CT,Nicoleshire,5-10years,25-35,1497.72,1.1,No,2007,2,0.0,43.330000000000005,1289.42
+Brandon Compton,44,8274.32,0,5.7,8,2016-07-21 02:39:00,"202 Richard Extensions Apt. 994 Pamelachester, IL 73985-9604",Sanchez-Cardenas,0,IL,Pamelachester,5-10years,35-45,1451.64,1.4,No,2016,3,0.0,45.6,1234.97
+Monica Hernandez,38,9347.47,0,8.47,8,2006-01-23 16:23:00,"8151 Ross Gardens Apt. 699 Randallton, NM 53386-6929",Finley-Moore,0,NM,Randallton,5-10years,35-45,1103.6,0.9,No,2006,1,0.0,67.76,987.06
+Kathryn Petersen,40,12453.72,1,4.83,9,2006-10-03 09:45:00,"4030 Sullivan Viaduct Apt. 877 Lake Anthony, VT 89429",Nguyen-Wright,0,VT,Anthony,3-5years,35-45,2578.41,1.9,Yes,2006,4,0.0,43.47,2136.14
+Shelia Phillips,39,8644.07,1,4.48,8,2016-05-14 14:37:00,"451 David Vista Apt. 799 Danielsview, ND 69312",Norman-Holloway,0,ND,Danielsview,3-5years,35-45,1929.48,1.8,Yes,2016,2,0.0,35.84,1577.39
+Sally Smith,45,11575.84,0,5.51,9,2012-08-02 09:18:00,"75262 Robert Centers Apt. 728 Vanessaside, TX 96244-2416",Webb PLC,0,TX,Vanessaside,5-10years,45-55,2100.88,1.6,No,2012,3,0.0,49.589999999999996,1778.16
+Joshua Huff,49,8268.74,1,5.21,8,2009-01-19 04:53:00,"064 Laurie Manor Suite 944 East Jimmy, IN 53776","Rivera, Perkins and Brown",0,IN,Jimmy,5-10years,45-55,1587.09,1.5,Yes,2009,1,0.0,41.68,1331.52
+Daniel Washington,54,12147.83,1,4.17,8,2013-05-14 16:58:00,"1537 Mccullough Canyon Rodriguezview, AZ 74625-8762",Reeves-Scott,0,AZ,Rodriguezview,3-5years,45-55,2913.15,1.9,Yes,2013,2,0.0,33.36,2349.68
+Joseph Anderson,48,8093.03,1,4.26,8,2016-10-12 23:20:00,"1317 Mcdaniel Plaza Suite 219 Colleenview, TX 81040-7425",Ingram LLC,0,TX,Colleenview,3-5years,45-55,1899.77,1.9,Yes,2016,4,0.0,34.08,1538.6
+Kylie Reynolds,28,9090.43,1,5.74,10,2014-06-18 00:45:00,"118 Natalie Islands Apt. 040 Lake Elizabeth, CO 60710",Cruz and Sons,0,CO,Elizabeth,5-10years,25-35,1583.7,1.7,Yes,2014,2,0.0,57.400000000000006,1348.73
+Chelsea Marsh,41,9552.57,0,3.81,8,2015-02-05 06:36:00,"854 James Ranch Smithfort, WA 12954",Wright-Olson,0,WA,Smithfort,3-5years,35-45,2507.24,2.1,No,2015,1,0.0,30.48,1985.98
+Carlos Miller,47,9004.44,0,3.79,8,2015-03-08 08:03:00,"506 Arnold Greens Apt. 335 South Kyleton, DC 78683",Weaver Inc,0,DC,Kyleton,3-5years,45-55,2375.84,2.1,No,2015,1,0.0,30.32,1879.84
+Lindsey Adams,46,14361.38,0,4.52,8,2008-07-20 08:40:00,"283 Mccarthy Fork Hubbardfort, PW 58105-7552",Morris-Williams,0,PW,Hubbardfort,3-5years,45-55,3177.3,1.8,No,2008,3,0.0,36.16,2601.7
+Jerry Nguyen,36,8972.54,0,5.23,8,2009-06-16 04:20:00,"059 Angela Manor Latashaburgh, ID 26923-6555",Glenn-Nguyen,0,ID,Latashaburgh,5-10years,35-45,1715.59,1.5,No,2009,2,0.0,41.84,1440.22
+Mark Ingram,44,11611.28,0,5.8,11,2007-12-01 21:35:00,"5035 Donald Points Suite 375 West Shirleyhaven, TN 41021",Smith-Lewis,0,TN,Shirleyhaven,5-10years,35-45,2001.94,1.9,No,2007,4,0.0,63.8,1707.54
+Casey Hess,43,9399.92,1,4.98,8,2014-08-07 07:57:00,"132 Angela Station Suite 770 Hillfort, LA 66223-8625",David-Woods,0,LA,Hillfort,3-5years,35-45,1887.53,1.6,Yes,2014,3,0.0,39.84,1571.89
+Gary Odom,37,7982.38,1,4.29,8,2009-01-15 17:39:00,"0349 Kimberly Ridges Michaelburgh, AK 08955",Moran Inc,0,AK,Michaelburgh,3-5years,35-45,1860.69,1.9,Yes,2009,1,0.0,34.32,1508.96
+John Snyder,36,6930.95,0,5.19,7,2013-06-01 17:31:00,"271 Rachel Village Westport, MT 33566-5694",Hardin Group,0,MT,Westport,5-10years,35-45,1335.44,1.3,No,2013,2,0.0,36.330000000000005,1119.7
+Karen Wade,38,11667.01,0,3.8,8,2015-10-21 23:30:00,"726 Jackson Lakes Apt. 693 Kennethshire, NM 58470-9850",Mitchell-Clark,0,NM,Kennethshire,3-5years,35-45,3070.27,2.1,No,2015,4,0.0,30.4,2430.63
+Kathleen Salazar,31,5387.75,0,6.83,9,2008-02-07 09:54:00,"226 Zimmerman Haven Suite 223 Lake Jennifer, IN 39817",Morales-Miles,0,IN,Jennifer,5-10years,25-35,788.84,1.3,No,2008,1,0.0,61.47,688.09
+Mary Frank,33,10709.39,1,5.22,6,2006-02-02 12:29:00,"11007 Tara Plains Apt. 842 South Amy, AK 31218","Ellison, Pace and Vaughan",0,AK,Amy,5-10years,25-35,2051.61,1.1,Yes,2006,1,0.0,31.32,1721.77
+Lisa Reid,41,11623.42,1,4.18,9,2009-12-29 17:39:00,"499 Joshua Ramp Blankenshipmouth, AL 61436",Acosta PLC,0,AL,Blankenshipmouth,3-5years,35-45,2780.72,2.2,Yes,2009,4,0.0,37.62,2243.9
+Nathan Hammond,53,9683.85,0,5.89,8,2006-09-07 18:40:00,"731 Danielle Roads Suite 482 Lisaburgh, ME 92139","Smith, Burke and Gonzales",0,ME,Lisaburgh,5-10years,45-55,1644.12,1.4,No,2006,3,0.0,47.12,1405.49
+Theresa Terry,44,8819.13,1,4.38,10,2010-05-21 04:43:00,"2927 Butler Keys Suite 851 West Christophermouth, MS 35752-5027","Campbell, Moore and Garrett",0,MS,Christophermouth,3-5years,35-45,2013.5,2.3,Yes,2010,2,0.0,43.8,1639.24
+John Jones,44,7736.13,1,4.48,8,2013-06-06 09:25:00,"2297 Jackson Island Robertsfort, NH 79212-4023",Day LLC,0,NH,Robertsfort,3-5years,35-45,1726.81,1.8,Yes,2013,2,0.0,35.84,1411.7
+Teresa Smith,45,7158.66,1,6.25,7,2006-07-24 22:52:00,USCGC Fleming FPO AA 06534-5672,Villarreal-Ellis,0,,06534-5672,5-10years,45-55,1145.39,1.1,Yes,2006,3,0.0,43.75,987.4
+Heather Thompson,50,9248.87,0,4.56,9,2014-01-30 10:39:00,"896 Lewis Wells Martinezstad, MO 12686","Jacobs, Arnold and Schwartz",0,MO,Martinezstad,3-5years,45-55,2028.26,2.0,No,2014,1,0.0,41.04,1663.47
+Melanie Cain,40,11916.26,0,4.51,7,2015-01-10 00:21:00,"3046 Harrison Plains Montgomeryberg, ID 86180",Sims and Sons,0,ID,Montgomeryberg,3-5years,35-45,2642.19,1.6,No,2015,1,0.0,31.57,2162.66
+Kenneth Graham,50,9641.61,0,3.09,5,2010-06-09 21:23:00,"43996 Parks Spring Hooperland, TX 05090-6018",King-Atkinson,0,TX,Hooperland,3-5years,45-55,3120.26,1.6,No,2010,2,0.0,15.45,2357.36
+Abigail Jennings,36,12309.23,1,4.76,9,2012-03-11 17:10:00,USS Mcgrath FPO AP 33786-7308,"Simpson, Byrd and Miller",0,,33786-7308,3-5years,35-45,2585.97,1.9,Yes,2012,1,0.0,42.839999999999996,2137.02
+Andrea Ford,40,11362.95,0,4.37,11,2010-10-08 22:11:00,"2519 Martin Ports Suite 635 Martinport, AL 55438",Patton Group,0,AL,Martinport,3-5years,35-45,2600.22,2.5,No,2010,4,0.0,48.07,2116.01
+Johnathan Gonzalez,56,10074.4,1,5.17,7,2009-10-30 02:30:00,Unit 2030 Box 0281 DPO AE 67952-0118,Dixon PLC,0,,67952-0118,5-10years,55-65,1948.63,1.4,Yes,2009,4,0.0,36.19,1632.8
+Katie Khan,40,10762.29,0,5.02,7,2015-02-08 22:43:00,"05418 Smith Brooks Richardfurt, DE 40166-1384","Gutierrez, Jones and Winters",0,DE,Richardfurt,5-10years,35-45,2143.88,1.4,No,2015,1,0.0,35.14,1787.76
+Michelle Johnson,30,8874.83,0,5.56,9,2006-10-11 07:09:00,"844 Charles Circles Suite 483 Davisborough, MH 73164-8781","Anderson, Miller and Wilson",0,MH,Davisborough,5-10years,25-35,1596.19,1.6,No,2006,4,0.0,50.04,1352.87
+Hannah Best,51,5830.99,0,6.93,6,2011-09-21 20:54:00,"PSC 5882, Box 7573 APO AA 41758-4009",Cantrell-Paul,0,Box,5882,5-10years,45-55,841.41,0.9,No,2011,3,0.0,41.58,735.31
+David Morrison,35,8297.87,0,5.42,8,2009-11-30 06:01:00,"7000 Jack Lights Suite 115 Owensfurt, TN 18961-6571","Carpenter, Johnson and Krueger",0,TN,Owensfurt,5-10years,35-45,1530.97,1.5,No,2009,4,0.0,43.36,1292.5
+Cindy Olson,33,5738.82,0,7.66,7,2014-08-02 09:05:00,"423 Victoria Plain Suite 444 Brennanland, AL 79485-6882",Mann Ltd,0,AL,Brennanland,5-10years,25-35,749.19,0.9,No,2014,3,0.0,53.620000000000005,662.68
+John Jackson,41,11655.82,1,7.92,9,2007-08-30 11:59:00,"5026 Susan Extension Apt. 261 South Thomas, UT 52610","Clark, Reid and Gardner",0,UT,Thomas,5-10years,35-45,1471.69,1.1,Yes,2007,3,0.0,71.28,1306.71
+Christine Livingston,47,7362.18,0,6.57,7,2012-09-20 08:19:00,"2871 Campbell Ports Davenportmouth, MN 38485","Sellers, Hendrix and Gonzales",0,MN,Davenportmouth,5-10years,45-55,1120.58,1.1,No,2012,3,0.0,45.99,972.55
+Mrs. Brittany Lopez,43,10938.11,0,3.21,8,2006-01-26 03:15:00,"2493 Robert Road South Denise, IA 86444",Brown-Weaver,0,IA,Denise,3-5years,35-45,3407.51,2.5,No,2006,1,0.0,25.68,2598.13
+Paula Willis,36,8514.8,1,4.01,11,2010-08-14 10:50:00,"8191 Lopez Prairie Apt. 038 Cookefurt, DE 64637-6065",Flores-Ochoa,0,DE,Cookefurt,3-5years,35-45,2123.39,2.7,Yes,2010,3,0.0,44.11,1699.56
+Ryan Martin,34,8772.26,0,5.78,9,2014-02-14 14:40:00,"930 Carrie Harbor Suite 044 New Adamtown, MP 74903",Jones Inc,0,MP,Adamtown,5-10years,25-35,1517.69,1.6,No,2014,1,0.0,52.02,1293.84
+Roy Case,40,7656.02,1,5.62,9,2012-01-17 14:47:00,"PSC 1326, Box 7408 APO AA 41399-9709","Jennings, Gates and Villarreal",0,Box,1326,5-10years,35-45,1362.28,1.6,Yes,2012,1,0.0,50.58,1156.5
+Henry Krueger,41,10375.39,0,5.54,8,2007-08-30 15:27:00,USNS Conway FPO AE 45887,Berg PLC,0,,45887,5-10years,35-45,1872.81,1.4,No,2007,3,0.0,44.32,1586.45
+Jaime Padilla,46,7684.02,1,6.24,8,2011-04-26 19:04:00,"48403 Anderson Fields Apt. 103 New Jasonshire, NM 49852-3578",Richardson LLC,0,NM,Jasonshire,5-10years,45-55,1231.41,1.3,Yes,2011,2,0.0,49.92,1061.33
+Barry Gallagher,52,6805.48,1,6.05,9,2010-06-04 12:28:00,"35333 Carla Keys Robinsonchester, CA 02095",Butler PLC,0,CA,Robinsonchester,5-10years,45-55,1124.87,1.5,Yes,2010,2,0.0,54.449999999999996,965.32
+Andrew Young,30,6744.87,0,5.14,9,2014-04-10 03:33:00,"30316 Melissa Hills Apt. 368 Cynthiaborough, MN 06736",Morris LLC,0,MN,Cynthiaborough,5-10years,25-35,1312.23,1.8,No,2014,2,0.0,46.26,1098.51
+Amy Henderson,31,10058.87,1,6.54,7,2011-02-07 17:54:00,"85837 Thomas Dam Nicholasview, MT 98793-4972",Knox-Davis,0,MT,Nicholasview,5-10years,25-35,1538.05,1.1,Yes,2011,1,0.0,45.78,1334.07
+Theresa Ford,40,9133.36,0,4.21,7,2015-01-19 23:48:00,"9885 Mills Dale Suite 830 West Wendyton, WA 46448",Thornton Inc,0,WA,Wendyton,3-5years,35-45,2169.44,1.7,No,2015,1,0.0,29.47,1753.04
+Donald Flores,46,11580.56,1,3.43,9,2014-05-09 04:48:00,"30890 Gloria Oval Friedmanshire, OK 78837-9606",Harris-Pratt,0,OK,Friedmanshire,3-5years,45-55,3376.26,2.6,Yes,2014,2,0.0,30.87,2614.12
+Sarah Schmidt,41,10631.84,1,3.47,9,2008-04-12 10:56:00,"461 Alexandria Station Kennethton, WY 83953","Thomas, Powers and Price",0,WY,Kennethton,3-5years,35-45,3063.93,2.6,Yes,2008,2,0.0,31.23,2378.49
+Melissa Hall,32,10716.75,0,5.12,8,2006-09-27 19:54:00,"550 Lindsay Bypass Suite 011 South Jamietown, MH 27730-3707","Bates, Montgomery and Rodriguez",0,MH,Jamietown,5-10years,25-35,2093.12,1.6,No,2006,3,0.0,40.96,1751.1
+Annette Taylor,41,10919.81,0,4.63,8,2013-04-07 23:27:00,"27767 Amy Curve Lake Daniel, NM 73021-5259",Zimmerman Group,0,NM,Daniel,3-5years,35-45,2358.49,1.7,No,2013,2,0.0,37.04,1939.58
+Robert Allen,48,10241.32,1,7.25,7,2014-10-29 10:48:00,"510 Nicholas Island Suite 493 Buckchester, MO 58572-4430",Williams Ltd,0,MO,Buckchester,5-10years,45-55,1412.6,1.0,Yes,2014,4,0.0,50.75,1241.37
+Jessica Howard,46,9171.56,1,5.02,8,2011-11-07 15:05:00,"8486 Brandon Fall Apt. 024 Matthewberg, SC 32892-2661",Mullins Ltd,0,SC,Matthewberg,5-10years,45-55,1827.0,1.6,Yes,2011,4,0.0,40.16,1523.51
+Michael Lam,40,7675.52,1,4.31,11,2012-05-27 00:16:00,"63714 Sawyer Glens New Tonimouth, FL 73286-2490",Olson-Davis,0,FL,Tonimouth,3-5years,35-45,1780.86,2.6,Yes,2012,2,0.0,47.41,1445.48
+Nancy Thompson,36,13308.01,0,5.07,8,2009-01-20 00:52:00,"847 Holly Loaf Apt. 839 East Nancyberg, DC 64194-2557",Garcia-Mckinney,0,DC,Nancyberg,5-10years,35-45,2624.85,1.6,No,2009,1,0.0,40.56,2192.42
+Steve Lewis,37,7961.21,0,2.91,9,2014-06-12 12:47:00,"865 Mitchell Causeway Suite 183 Meredithshire, AR 80502-3040",Clarke-Gonzalez,0,AR,Meredithshire,1-3years,35-45,2735.81,3.1,No,2014,2,0.0,26.19,2036.12
+Amanda Brown,32,12403.6,0,4.99,7,2008-05-30 03:35:00,"48681 Jensen Vista South Kevin, ND 80285",Hoffman Ltd,0,ND,Kevin,3-5years,25-35,2485.69,1.4,No,2008,2,0.0,34.93,2070.72
+Danielle Morris,46,10814.59,0,4.91,8,2010-05-09 12:25:00,"773 Brenda Vista Jensenshire, CO 78345","Cooper, Cohen and Knight",0,CO,Jensenshire,3-5years,45-55,2202.56,1.6,No,2010,2,0.0,39.28,1829.88
+Jessica Hernandez,31,8829.83,1,4.52,8,2006-02-02 21:26:00,"6113 Jerome Locks North Trevormouth, GA 25773",Hunt-Whitaker,0,GA,Trevormouth,3-5years,25-35,1953.5,1.8,Yes,2006,1,0.0,36.16,1599.61
+Nicole Richards,52,7170.66,1,4.53,7,2014-05-11 16:14:00,"0667 Bennett Forge Ingramchester, VI 46819-7446",Fisher-Hamilton,0,VI,Ingramchester,3-5years,45-55,1582.93,1.5,Yes,2014,2,0.0,31.71,1296.68
+Lauren Johnson,47,10332.16,1,4.89,9,2016-08-06 00:18:00,"2959 Amanda Plain Suite 180 Webbside, NY 47046","Davenport, Miller and Murphy",0,NY,Webbside,3-5years,45-55,2112.92,1.8,Yes,2016,3,0.0,44.01,1754.19
+Wendy Moore,41,14722.35,0,6.98,6,2011-05-28 08:09:00,"8202 Jade Unions Suite 557 South Wesley, MS 12025",Walker-Harris,0,MS,Wesley,5-10years,35-45,2109.22,0.9,No,2011,2,0.0,41.88,1844.91
+Destiny Steele,39,13532.85,1,5.63,9,2010-11-13 11:16:00,"0784 Arnold Mountains Apt. 356 Thompsonview, IL 54999-9574",Hall LLC,0,IL,Thompsonview,5-10years,35-45,2403.7,1.6,Yes,2010,4,0.0,50.67,2041.15
+Dakota Porter,41,7683.97,1,6.17,7,2007-08-23 19:38:00,"1005 Butler Manors Richardland, KS 45645-6252",Nguyen PLC,0,KS,Richardland,5-10years,35-45,1245.38,1.1,Yes,2007,3,0.0,43.19,1071.68
+Sara Campbell,47,6398.91,1,5.0,8,2013-02-16 16:40:00,"931 Soto Bridge Apt. 205 Michelleland, NM 64707-3332",Conner LLC,0,NM,Michelleland,5-10years,45-55,1279.78,1.6,Yes,2013,1,0.0,40.0,1066.48
+Manuel Hill,37,14595.51,1,3.83,12,2007-01-02 22:09:00,"7589 Munoz Mountain Port Gina, VI 08937-6155","Hill, Abbott and Wu",0,VI,Gina,3-5years,35-45,3810.84,3.1,Yes,2007,1,0.0,45.96,3021.84
+Douglas Lee,48,6783.99,1,3.89,8,2012-03-29 02:43:00,"088 Ayala Crossroad Lindafurt, MI 82946-5835","Jensen, Morton and Edwards",0,MI,Lindafurt,3-5years,45-55,1743.96,2.1,Yes,2012,1,0.0,31.12,1387.32
+Charles Doyle,35,8190.27,0,6.28,7,2012-03-07 17:36:00,Unit 1897 Box 1607 DPO AE 86804,Smith-Carroll,0,,86804,5-10years,35-45,1304.18,1.1,No,2012,1,0.0,43.96,1125.04
+Rebecca Hamilton,45,9317.12,1,6.93,6,2013-12-16 07:56:00,"75047 Jones Ports Apt. 238 Port Zacharymouth, HI 02693",Lee-Roman,0,HI,Zacharymouth,5-10years,45-55,1344.46,0.9,Yes,2013,4,0.0,41.58,1174.92
+Dominique Kemp,40,10370.72,1,4.35,5,2016-03-28 02:06:00,"478 James Spurs North Thomas, MT 77158-1870",Richardson Inc,0,MT,Thomas,3-5years,35-45,2384.07,1.1,Yes,2016,1,0.0,21.75,1938.45
+Thomas Parker,42,12277.9,1,5.1,8,2009-01-20 07:54:00,"10575 Jacob Manors Apt. 623 Port Jonathanview, WV 63831-0620",Cook LLC,0,WV,Jonathanview,5-10years,35-45,2407.43,1.6,Yes,2009,1,0.0,40.8,2012.77
+Aaron West,55,10056.55,0,4.98,8,2006-09-01 06:11:00,"071 Schmidt Locks Apt. 070 West Jessica, OK 60879-6593","Cruz, Russell and Boyd",0,OK,Jessica,3-5years,55-65,2019.39,1.6,No,2006,3,0.0,39.84,1681.7
+Samantha Clark,35,12398.62,1,5.6,9,2016-11-17 09:21:00,"0385 Smith Spring West Douglasmouth, CA 33773-7684",Grimes Inc,0,CA,Douglasmouth,5-10years,35-45,2214.04,1.6,Yes,2016,4,0.0,50.4,1878.58
+Patrick Campos,40,10290.14,0,4.6,10,2013-10-23 01:16:00,"53895 Michael Ways Port Michael, FM 10805","Fernandez, Rodgers and Miller",0,FM,Michael,3-5years,35-45,2236.99,2.2,No,2013,4,0.0,46.0,1837.52
+Kevin Hicks DDS,49,9957.26,0,4.76,7,2009-09-01 11:37:00,"096 Dunn Street Jasonshire, NC 06461-2275","Cooper, Mcguire and Nguyen",0,NC,Jasonshire,3-5years,45-55,2091.86,1.5,No,2009,3,0.0,33.32,1728.69
+Joseph Hall,35,13480.91,1,4.41,7,2008-06-19 23:34:00,"6926 Martin Ramp Thomastown, AZ 58814",Anderson PLC,0,AZ,Thomastown,3-5years,35-45,3056.9,1.6,Yes,2008,2,0.0,30.87,2491.85
+Samantha Flores,39,11670.73,0,6.45,8,2006-06-24 00:46:00,"793 Powell Fort Amandaview, GA 95747-4560",Williams PLC,0,GA,Amandaview,5-10years,35-45,1809.42,1.2,No,2006,2,0.0,51.6,1566.54
+John Castillo,31,7073.61,0,5.73,9,2010-12-10 11:20:00,"9831 Amy Square Holmesberg, RI 14826-3752","Richmond, Daniels and Lee",0,RI,Holmesberg,5-10years,25-35,1234.49,1.6,No,2010,4,0.0,51.57000000000001,1051.06
+Christy Hamilton,45,9852.25,1,4.55,8,2009-08-14 22:27:00,"41390 Vazquez Mall Billystad, VI 57475-0791","Richard, Flores and Walsh",0,VI,Billystad,3-5years,45-55,2165.33,1.8,Yes,2009,3,0.0,36.4,1775.18
+Jay Mosley,40,6402.3,0,4.28,7,2015-05-05 10:00:00,"885 Samantha Estates Apt. 694 Michaelland, NC 35223","Martinez, Gonzales and Williams",0,NC,Michaelland,3-5years,35-45,1495.86,1.6,No,2015,2,0.0,29.96,1212.56
+Sonya Lewis,48,9282.99,0,4.32,6,2015-09-19 12:58:00,"191 Timothy Villages Suite 755 New Jamestown, NY 42120-2598","Bowman, White and Shepherd",0,NY,Jamestown,3-5years,45-55,2148.84,1.4,No,2015,3,0.0,25.92,1744.92
+Pamela Bell,37,8884.39,0,6.16,7,2016-02-27 17:13:00,"9249 Bradford Parkways Suite 173 Amandaside, AK 12919-8330",Jacobson PLC,0,AK,Amandaside,5-10years,35-45,1442.27,1.1,No,2016,1,0.0,43.120000000000005,1240.84
+Evan Davis,46,13296.89,1,4.81,6,2011-09-14 19:09:00,"63845 Bell Mission Browninghaven, VA 72168",Willis-Bradshaw,0,VA,Browninghaven,3-5years,45-55,2764.43,1.2,Yes,2011,3,0.0,28.86,2288.62
+Jonathan Jones,35,7361.92,1,4.97,9,2014-03-11 15:01:00,USNS Ward FPO AP 80938,French and Sons,0,,80938,3-5years,35-45,1481.27,1.8,Yes,2014,1,0.0,44.73,1233.15
+Richard Rojas,54,8092.55,1,4.55,10,2013-04-30 05:34:00,"01175 Soto Place Lake Brittany, KY 33704-2728",Dominguez-Fischer,0,KY,Brittany,3-5years,45-55,1778.58,2.2,Yes,2013,2,0.0,45.5,1458.12
+Jerome Pitts,39,9528.99,0,5.97,8,2010-01-02 19:57:00,"4909 Mcdonald Mews Johnsonmouth, CT 20707",Brock-Lee,0,CT,Johnsonmouth,5-10years,35-45,1596.15,1.3,No,2010,1,0.0,47.76,1367.14
+Yolanda Jackson,53,8122.34,0,3.51,9,2009-07-30 07:28:00,"7248 Wheeler Forks South Wendyport, KY 21877-0885",Smith Group,0,KY,Wendyport,3-5years,45-55,2314.06,2.6,No,2009,3,0.0,31.589999999999996,1800.96
+Jessica Wells,41,14738.09,1,6.5,8,2008-06-08 01:08:00,"57837 Tammy Bridge Apt. 904 Lake Lindsey, NM 53078-4180",Sullivan-Ramsey,0,NM,Lindsey,5-10years,35-45,2267.4,1.2,Yes,2008,2,0.0,52.0,1965.08
+Mark Choi,34,11687.29,0,4.54,7,2013-12-09 01:38:00,"688 Tiffany Fork Wallacemouth, ND 74929-3917",Estrada-Golden,0,ND,Wallacemouth,3-5years,25-35,2574.29,1.5,No,2013,4,0.0,31.78,2109.62
+Megan Wilson,43,7948.18,0,3.88,7,2006-03-29 00:55:00,"871 Campbell Fall Allenville, NY 42045-5154",Montgomery-Edwards,0,NY,Allenville,3-5years,35-45,2048.5,1.8,No,2006,1,0.0,27.16,1628.73
+Kathleen Reid,42,7915.44,1,6.17,8,2013-07-15 10:20:00,Unit 7599 Box 9818 DPO AP 02154,Williams PLC,0,,02154,5-10years,35-45,1282.89,1.3,Yes,2013,3,0.0,49.36,1103.97
+Walter Bates,40,10180.59,1,6.5,10,2012-08-10 09:19:00,"58605 Wiley Manor Apt. 796 Atkinstown, TX 41691",Jones LLC,0,TX,Atkinstown,5-10years,35-45,1566.24,1.5,Yes,2012,3,0.5,65.0,1357.41
+Rita Young,44,8748.36,1,6.32,10,2015-10-06 18:31:00,"4331 Quinn Fords Suite 546 Traceyfort, CO 47194-7606","Butler, Riggs and Brown",0,CO,Traceyfort,5-10years,35-45,1384.23,1.6,Yes,2015,4,0.0,63.2,1195.13
+David Sanders,41,8021.05,1,3.16,9,2016-10-05 16:14:00,Unit 6283 Box 6735 DPO AP 09454-8286,Wilson PLC,0,,09454-8286,3-5years,35-45,2538.31,2.8,Yes,2016,4,0.33,28.44,1928.14
+Thomas Richardson,44,10445.76,0,7.02,8,2014-10-11 14:08:00,"8204 Leach Point Suite 900 Port Melissafort, TN 80024",Schmidt-Schroeder,0,TN,Melissafort,5-10years,35-45,1488.0,1.1,No,2014,4,0.0,56.16,1302.46
+Victoria Shaffer,34,9919.38,0,4.43,8,2015-08-06 02:01:00,"2776 Maxwell Falls Lake Brian, MP 68585-6704",Green LLC,0,MP,Brian,3-5years,25-35,2239.14,1.8,No,2015,3,0.0,35.44,1826.77
+Dwayne Ryan,39,10741.9,0,5.48,8,2013-03-09 00:30:00,"676 Carlos Port Apt. 925 Anitamouth, VA 05134-0836",Williams and Sons,0,VA,Anitamouth,5-10years,35-45,1960.2,1.5,No,2013,1,0.0,43.84,1657.7
+David Moore,40,7380.48,1,6.45,7,2007-09-04 21:22:00,Unit 8071 Box 5003 DPO AE 63421-4620,"Harris, Carter and Brown",0,,63421-4620,5-10years,35-45,1144.26,1.1,Yes,2007,3,0.0,45.15,990.67
+Matthew Huffman,45,9649.26,1,3.77,9,2016-05-09 00:40:00,"1651 Amber Court Lake Robert, ND 52826","Johnson, Brown and Frazier",0,ND,Robert,3-5years,45-55,2559.49,2.4,Yes,2016,2,0.0,33.93,2022.91
+Mary Kent,42,9349.99,1,4.38,7,2011-12-09 19:21:00,Unit 0590 Box 7532 DPO AE 12062-5301,Houston-Cuevas,0,,12062-5301,3-5years,35-45,2134.7,1.6,Yes,2011,4,0.0,30.66,1737.92
+Molly Young,46,12849.1,0,4.97,8,2014-08-03 18:34:00,"54656 Grant Junctions Suite 070 New Toni, NM 42346","Silva, Wolfe and Ross",0,NM,Toni,3-5years,45-55,2585.33,1.6,No,2014,3,0.0,39.76,2152.28
+Eric Castro,38,10770.82,0,4.99,10,2016-06-19 01:23:00,"80338 Scott Trail New Sandraview, WV 30882",Campbell-Willis,0,WV,Sandraview,3-5years,35-45,2158.48,2.0,No,2016,2,0.0,49.900000000000006,1798.13
+Tammy Johnson,35,8828.59,0,6.77,9,2008-07-23 06:09:00,"653 Smith Avenue South David, GA 19037","Carr, Mills and Wilson",0,GA,David,5-10years,35-45,1304.08,1.3,No,2008,3,0.0,60.92999999999999,1136.24
+Mallory Powell,48,9921.89,0,3.73,9,2013-09-15 19:40:00,"6312 Stuart Stravenue Port Wesleychester, MN 71667-5670",Carter-Novak,0,MN,Wesleychester,3-5years,45-55,2660.02,2.4,No,2013,3,0.0,33.57,2097.65
+Michael Nichols,45,6977.56,0,6.94,11,2007-02-24 23:32:00,"13664 Brandon Trail Robertshire, AK 53957",Rogers-Davis,0,AK,Robertshire,5-10years,45-55,1005.41,1.6,No,2007,1,0.0,76.34,878.79
+Jason Stevenson,44,8580.85,0,5.52,10,2011-07-25 18:58:00,"605 Stephen Glens Lake Juan, SD 28552","Cruz, Moore and Olsen",0,SD,Juan,5-10years,35-45,1554.5,1.8,No,2011,3,0.0,55.199999999999996,1316.08
+Andrea Warner,46,10469.5,0,6.54,10,2011-03-24 17:01:00,"753 Hernandez Pines Apt. 505 North Manuelstad, MI 14141-9782",Bailey LLC,0,MI,Manuelstad,5-10years,45-55,1600.84,1.5,No,2011,1,0.0,65.4,1388.53
+Susan Casey,55,8907.17,1,7.6,11,2016-01-07 23:17:00,"8392 Jose Islands Apt. 208 Davisbury, MA 60135-6097",Jenkins and Sons,0,MA,Davisbury,5-10years,55-65,1172.0,1.4,Yes,2016,1,0.0,83.6,1035.72
+Billy Garner,46,10050.61,0,4.99,7,2009-11-06 13:24:00,"68569 Sharon Centers Apt. 331 West Ryanport, FM 66389-2936",Brooks Inc,0,FM,Ryanport,3-5years,45-55,2014.15,1.4,No,2009,4,0.0,34.93,1677.9
+Matthew Dixon,38,10522.6,1,5.46,10,2007-12-27 12:11:00,"498 Oliver Station Suite 474 Lake Traceyberg, NV 37689-1762",Mata LLC,0,NV,Traceyberg,5-10years,35-45,1927.22,1.8,Yes,2007,4,0.0,54.6,1628.89
+Jessica Sharp,34,9265.59,0,5.77,8,2013-06-24 06:57:00,"597 Jones Passage Apt. 958 Fischerbury, AK 60046",Pittman Inc,0,AK,Fischerbury,5-10years,25-35,1605.82,1.4,No,2013,2,0.0,46.16,1368.62
+Elizabeth Drake,40,10930.16,1,6.63,7,2014-05-28 16:08:00,"540 Benjamin Villages East Ashley, TN 27044-8930",Francis-Powers,0,TN,Ashley,5-10years,35-45,1648.59,1.1,Yes,2014,2,0.0,46.41,1432.52
+Tina Schmidt,45,10668.91,0,7.21,8,2011-09-21 05:53:00,"253 Megan Drive Apt. 447 Berryport, AL 03400-5942",Hall Ltd,0,AL,Berryport,5-10years,45-55,1479.74,1.1,No,2011,3,0.0,57.68,1299.5
+Elizabeth Kennedy,47,11335.97,0,6.84,6,2014-06-26 02:50:00,"07770 Henry Ways Suite 523 Larsonchester, NE 05818","Davis, Curry and Wallace",0,NE,Larsonchester,5-10years,45-55,1657.31,0.9,No,2014,2,0.0,41.04,1445.91
+Brandy Martinez,41,12247.91,0,5.08,9,2006-06-30 11:15:00,USNV Mcgee FPO AA 17726-1322,Smith Ltd,0,,17726-1322,5-10years,35-45,2411.01,1.8,No,2006,2,0.0,45.72,2014.46
+Trevor Henderson,47,9303.43,0,5.5,8,2010-04-14 20:39:00,USCGC Bailey FPO AA 06202-5064,Johnson-Rodriguez,0,,06202-5064,5-10years,45-55,1691.53,1.5,No,2010,2,0.0,44.0,1431.3
+Brandi Bryan,38,9826.29,0,4.93,8,2010-01-09 08:46:00,"502 Kenneth Trace Apt. 355 Huntshire, HI 51078","Graham, Wilson and Rios",0,HI,Huntshire,3-5years,35-45,1993.16,1.6,No,2010,1,0.0,39.44,1657.05
+Curtis Robinson,37,10565.59,0,4.76,10,2006-01-28 01:22:00,"59027 Andrea Neck Apt. 438 North Makaylaside, OR 67470-1233",Pearson-Gonzales,0,OR,Makaylaside,3-5years,35-45,2219.66,2.1,No,2006,1,0.0,47.599999999999994,1834.3
+Daniel Barton,44,9855.18,0,6.94,7,2011-06-10 20:04:00,"551 Davis Crescent New Aliciaport, TX 94552-1600",Davidson Group,0,TX,Aliciaport,5-10years,35-45,1420.05,1.0,No,2011,2,0.0,48.580000000000005,1241.21
+Carolyn Cabrera,51,7810.06,0,5.99,9,2012-08-09 19:53:00,"728 Sanders Centers Suite 047 Codyview, VI 66568",Friedman-Smith,0,VI,Codyview,5-10years,45-55,1303.85,1.5,No,2012,3,0.0,53.910000000000004,1117.32
+Mary Marshall,39,11144.51,0,4.25,9,2008-03-07 11:04:00,"57559 Kelli Stream Apt. 332 Dunlapburgh, CA 43743-8629",Chavez-Patterson,0,CA,Dunlapburgh,3-5years,35-45,2622.24,2.1,No,2008,1,0.0,38.25,2122.76
+Thomas Campbell,36,8931.09,1,7.55,7,2006-09-13 04:18:00,"PSC 9216, Box 6338 APO AP 73140",Williams LLC,0,Box,9216,5-10years,35-45,1182.93,0.9,Yes,2006,3,0.0,52.85,1044.57
+Christopher Clark,50,8929.88,0,5.63,7,2012-04-22 17:32:00,"69666 Christian Forges Lake Noah, IL 14397",Thompson-Mcdonald,0,IL,Noah,5-10years,45-55,1586.12,1.2,No,2012,2,0.0,39.41,1346.89
+Rose White,35,9435.2,1,6.23,7,2006-03-29 18:27:00,"715 Ellis Squares New Kathleenland, NY 05913",Vang-Stewart,0,NY,Kathleenland,5-10years,35-45,1514.48,1.1,Yes,2006,1,0.0,43.61,1305.01
+Derek Martinez,40,11553.65,1,4.43,6,2011-08-29 06:35:00,"3004 Nash Freeway North Craigville, CT 24488",Kramer PLC,0,CT,Craigville,3-5years,35-45,2608.05,1.4,Yes,2011,3,0.0,26.58,2127.74
+Wendy Key,60,9621.04,1,7.65,8,2013-03-06 07:43:00,"98190 Gonzalez Drives Apt. 592 Lake Oliviachester, VT 54602-1656","Taylor, Johnson and George",0,VT,Oliviachester,5-10years,55-65,1257.65,1.0,Yes,2013,1,0.0,61.2,1112.26
+Lisa Fisher,43,11401.42,0,3.63,10,2014-08-23 17:03:00,"7234 Amy Forge Suite 123 East Sarah, DC 50257-3728",Davis Inc,0,DC,Sarah,3-5years,35-45,3140.89,2.8,No,2014,3,0.0,36.3,2462.51
+Kyle Hinton,43,10491.4,1,4.23,8,2014-09-14 06:55:00,"7029 Fowler Pike Heathermouth, OK 59658-7247","Woods, Herrera and Fritz",0,OK,Heathermouth,3-5years,35-45,2480.24,1.9,Yes,2014,3,0.0,33.84,2006.0
+Travis Howell,44,10585.86,0,5.54,8,2006-03-23 14:01:00,"946 Glass Cliffs Suite 105 Ashleemouth, GU 89701-5653",Schroeder-Phillips,0,GU,Ashleemouth,5-10years,35-45,1910.81,1.4,No,2006,1,0.0,44.32,1618.63
+Vanessa Donaldson,52,10697.72,0,8.35,8,2013-05-14 23:24:00,"08605 Scott Stream Apt. 968 New Andrea, DC 08316-2838",Davis Group,0,DC,Andrea,5-10years,45-55,1281.16,1.0,No,2013,2,0.0,66.8,1144.14
+Kathy Robertson,37,11430.75,0,5.99,10,2015-01-02 20:11:00,"7260 Boyd Shoal Thomasshire, MI 49243",Graham LLC,0,MI,Thomasshire,5-10years,35-45,1908.31,1.7,No,2015,1,0.0,59.900000000000006,1635.3
+Katie Nichols,48,8465.53,1,4.98,9,2008-09-06 15:15:00,"PSC 5066, Box 5675 APO AP 96072-8914",Murray Inc,0,Box,5066,3-5years,45-55,1699.91,1.8,Yes,2008,3,0.0,44.82000000000001,1415.64
+Shannon Miller,35,7759.15,1,6.06,10,2013-07-18 22:25:00,"826 Ross Causeway Wardshire, ME 25891",Nelson LLC,0,ME,Wardshire,5-10years,35-45,1280.39,1.7,Yes,2013,3,0.5,60.599999999999994,1099.03
+Stacy Marshall,42,13081.64,0,4.66,9,2012-05-12 13:03:00,"896 Kevin Orchard Apt. 755 West Rogerchester, KY 62941",Daniels LLC,0,KY,Rogerchester,3-5years,35-45,2807.22,1.9,No,2012,2,0.0,41.94,2311.24
+Heather Little,33,4711.89,0,4.97,7,2009-09-24 01:06:00,"158 Aaron Station Apt. 788 Millsport, VA 88018",Vaughan Group,0,VA,Millsport,3-5years,25-35,948.07,1.4,No,2009,3,0.0,34.79,789.26
+Jose Rowland,36,12252.57,0,5.13,8,2014-02-11 19:43:00,"186 Macdonald Causeway Woodstown, KY 52059-9294","Ross, Martinez and Dawson",0,KY,Woodstown,5-10years,35-45,2388.42,1.6,No,2014,1,0.0,41.04,1998.79
+Brittany Martinez,39,13029.61,1,4.83,8,2015-11-09 02:41:00,"4019 James Street Apt. 731 North Carmen, OK 01929","Ryan, Mcdonald and Garcia",0,OK,Carmen,3-5years,35-45,2697.64,1.7,Yes,2015,4,0.0,38.64,2234.92
+Charles Ellison,43,10746.69,0,8.62,9,2011-08-30 12:50:00,"7082 Paul Divide Suite 132 New Nicolas, WI 35732",Mills Group,0,WI,Nicolas,5-10years,35-45,1246.72,1.0,No,2011,3,0.0,77.58,1117.12
+Dr. Kathleen Wiley,45,8665.79,0,5.09,9,2008-08-31 05:40:00,"1615 Angela Valley Henryfurt, ID 45145-3704",Clark Group,0,ID,Henryfurt,5-10years,45-55,1702.51,1.8,No,2008,3,0.0,45.81,1422.95
+Justin Roman PhD,34,5447.16,1,4.13,9,2014-01-13 16:11:00,"489 Daniel Way Suite 895 West Yeseniamouth, ME 71475","Horton, Byrd and Hernandez",0,ME,Yeseniamouth,3-5years,25-35,1318.92,2.2,Yes,2014,1,0.0,37.17,1061.82
+Daniel Todd,37,9772.95,1,3.81,8,2013-06-19 11:25:00,"7960 Ryan Circles Wilcoxhaven, ME 98912",Vega-Moss,0,ME,Wilcoxhaven,3-5years,35-45,2565.08,2.1,Yes,2013,2,0.0,30.48,2031.8
+Eugene Robertson,41,7464.08,0,3.74,8,2008-03-10 00:42:00,"87999 Knight Pine Apt. 281 Morenoland, ID 20602-9996",Miller-Wagner,0,ID,Morenoland,3-5years,35-45,1995.74,2.1,No,2008,1,0.0,29.92,1574.7
+Frank Chase,39,6168.66,1,4.71,8,2006-01-05 11:26:00,USNS Potts FPO AA 56275,"Harvey, Thompson and Moss",0,,56275,3-5years,35-45,1309.69,1.7,Yes,2006,1,0.0,37.68,1080.33
+Nancy Martin,34,12567.53,0,3.36,11,2009-04-02 10:00:00,"512 Wesley Stream West Scottborough, ND 44332-3438",Diaz-Osborne,0,ND,Scottborough,3-5years,25-35,3740.34,3.3,No,2009,2,0.0,36.96,2882.46
+Duane Mcdonald,55,8280.03,0,6.33,5,2013-07-31 03:51:00,USNV Nielsen FPO AA 31326,Armstrong-Hicks,0,,31326,5-10years,55-65,1308.06,0.8,No,2013,3,0.0,31.65,1129.61
+Heather Daniel,36,11274.98,0,4.12,10,2015-03-24 15:09:00,"25793 Phillips Cliff Travisview, WV 48402-6882","Martin, Dickerson and Roberson",0,WV,Travisview,3-5years,35-45,2736.65,2.4,No,2015,1,0.0,41.2,2202.14
+Michelle Berry,42,9635.87,1,2.43,9,2013-12-10 16:06:00,"091 Mark Drive Suite 656 East Mirandaton, LA 67137-0061",Clark and Sons,0,LA,Mirandaton,1-3years,35-45,3965.38,3.7,Yes,2013,4,0.0,21.87,2809.29
+Claire Rivera,48,13743.12,1,4.83,7,2016-05-24 04:02:00,"35166 Roberta Skyway Coreyfort, MO 59637-8470","Wade, Rowland and Jenkins",0,MO,Coreyfort,3-5years,45-55,2845.37,1.4,Yes,2016,2,0.0,33.81,2357.31
+Benjamin Huff,45,8871.53,0,3.76,8,2007-03-06 12:55:00,"205 Hall Mission Apt. 211 South Matthew, HI 81737-8521","Hurley, Moody and Gomez",0,HI,Matthew,3-5years,45-55,2359.45,2.1,No,2007,1,0.0,30.08,1863.77
+Bradley Chambers,37,8818.03,1,2.89,9,2014-05-04 18:26:00,"PSC 6159, Box 4526 APO AA 00585",Wilson LLC,0,Box,6159,1-3years,35-45,3051.22,3.1,Yes,2014,2,0.0,26.01,2266.85
+Terry Kelley,37,9788.78,0,5.24,7,2013-02-25 23:36:00,USCGC Lee FPO AE 62096-3283,Long-Williams,0,,62096-3283,5-10years,35-45,1868.09,1.3,No,2013,1,0.0,36.68,1568.71
+Kenneth Fuller,34,6131.92,0,4.17,9,2013-02-13 03:34:00,"12801 Mcdowell Meadows Suite 614 Port Susanshire, OH 89980","Campbell, Williams and Mccarty",0,OH,Susanshire,3-5years,25-35,1470.48,2.2,No,2013,1,0.0,37.53,1186.06
+Stephen Reed,40,12043.27,1,5.04,7,2013-02-14 03:05:00,"486 Washington Fields Josephhaven, VI 31007",Todd LLC,0,VI,Josephhaven,5-10years,35-45,2389.54,1.4,Yes,2013,1,0.0,35.28,1993.92
+Angela Holloway,40,12919.92,0,4.23,11,2009-10-29 16:25:00,"7488 Dana Mountain Suite 133 Lake Desireeport, MD 40139-0534",Ray-Rodriguez,0,MD,Desireeport,3-5years,35-45,3054.35,2.6,No,2009,4,0.0,46.53,2470.35
+David Carter,38,10367.14,0,5.92,9,2014-02-11 20:45:00,"478 Wilson Gateway Apt. 606 New Tanyafort, WA 18702",White Group,0,WA,Tanyafort,5-10years,35-45,1751.21,1.5,No,2014,1,0.0,53.28,1498.14
+Nancy Bartlett,44,9063.16,1,4.76,8,2012-12-17 04:57:00,"862 Parks Center Apt. 794 Barrfort, NV 83967-0913",Porter-Dunn,0,NV,Barrfort,3-5years,35-45,1904.03,1.7,Yes,2012,4,0.0,38.08,1573.47
+Jason Hebert,40,10606.97,1,4.11,10,2013-03-19 10:44:00,"26996 Nicole Ridge Suite 342 Lake Robertside, OK 04293",Hawkins-Escobar,0,OK,Robertside,3-5years,35-45,2580.77,2.4,Yes,2013,1,0.0,41.1,2075.73
+Gerald Mullins,42,8558.52,0,5.36,7,2009-06-04 17:54:00,"10282 Megan Island Port Carla, FM 85303-6406",Hamilton PLC,0,FM,Carla,5-10years,35-45,1596.74,1.3,No,2009,2,0.0,37.52,1345.68
+James Smith,43,11375.25,1,5.09,9,2013-04-29 23:11:00,"6510 Debra Estates Port Lucasberg, NY 90239-6448","Cooper, Martin and Reid",0,NY,Lucasberg,5-10years,35-45,2234.82,1.8,Yes,2013,2,0.0,45.81,1867.86
+Samantha Munoz,48,8514.24,0,4.61,9,2007-09-21 20:21:00,"68861 Clarke Trail Apt. 668 Bakerchester, OK 24227",Garza Inc,0,OK,Bakerchester,3-5years,45-55,1846.91,2.0,No,2007,3,0.0,41.49,1517.69
+Megan Smith,39,12019.93,0,4.87,10,2010-09-26 03:46:00,"733 Sophia Springs Suite 169 East Shawn, MO 90668-3810",Stanley and Sons,0,MO,Shawn,3-5years,35-45,2468.16,2.1,No,2010,3,0.0,48.7,2047.69
+Gregory Chandler,38,9419.66,1,5.24,9,2006-03-26 00:38:00,"863 Marquez Brooks West Tommychester, MT 16982-2044",Gomez-Petersen,0,MT,Tommychester,5-10years,35-45,1797.65,1.7,Yes,2006,1,0.0,47.160000000000004,1509.56
+Crystal Smith,33,10309.71,1,2.96,7,2014-01-28 07:38:00,"893 Carla Trace Suite 132 Lake Aliciaport, AR 87567","Chan, Patterson and Smith",0,AR,Aliciaport,1-3years,25-35,3483.01,2.4,Yes,2014,1,0.0,20.72,2603.46
+Juan Simmons PhD,47,10313.06,0,5.44,8,2010-11-08 02:42:00,"496 Watts Roads East Alejandro, NC 70921-5585",Martinez PLC,0,NC,Alejandro,5-10years,45-55,1895.78,1.5,No,2010,4,0.0,43.52,1601.41
+Monica Downs,34,13460.92,1,3.67,7,2007-05-25 08:54:00,"53283 Collins Walk Suite 363 South Shawnfort, MS 76289",Green PLC,0,MS,Shawnfort,3-5years,25-35,3667.83,1.9,Yes,2007,2,0.0,25.689999999999998,2882.42
+Paul Wilson,54,10216.59,0,2.77,7,2008-01-17 16:01:00,"8764 Wilson Plaza New Sharonview, MT 83968","Williams, Mcintyre and Burns",0,MT,Sharonview,1-3years,45-55,3688.3,2.5,No,2008,1,0.0,19.39,2709.97
+Sandra Hogan,37,12766.24,0,3.72,9,2010-06-14 20:59:00,"12928 Heather Island Apt. 889 East Michelle, KY 96712-4016",Yu-Murillo,0,KY,Michelle,3-5years,35-45,3431.78,2.4,No,2010,2,0.0,33.480000000000004,2704.71
+Anna Wood,38,11360.99,0,4.5,7,2008-08-06 05:26:00,"33021 Cody Falls Apt. 693 Bellfort, NM 76335-9037",Miranda-Sloan,0,NM,Bellfort,3-5years,35-45,2524.66,1.6,No,2008,3,0.0,31.5,2065.63
+Patrick Edwards,47,9166.22,0,3.51,9,2015-03-19 05:04:00,"215 Gardner Islands Apt. 747 East Jonathanmouth, AL 62844-5315",Pierce and Sons,0,AL,Jonathanmouth,3-5years,45-55,2611.46,2.6,No,2015,1,0.0,31.589999999999996,2032.42
+Matthew Clayton,41,8996.04,1,6.19,9,2011-04-20 06:33:00,"866 Huffman Ports Suite 795 South Stacyport, KS 32492",Morgan and Sons,0,KS,Stacyport,5-10years,35-45,1453.32,1.5,Yes,2011,2,0.0,55.71,1251.19
+Mark Marquez,55,9743.57,0,5.89,8,2009-07-11 05:41:00,"631 Christopher Mount South Abigailport, LA 19480",Martin-Cobb,0,LA,Abigailport,5-10years,55-65,1654.26,1.4,No,2009,3,0.0,47.12,1414.16
+Alexis Allen,43,7686.13,1,7.17,8,2016-09-27 07:00:00,"7448 Jason Ridges Heatherfort, GU 92916-6774",Jones and Sons,0,GU,Heatherfort,5-10years,35-45,1071.98,1.1,Yes,2016,3,0.0,57.36,940.77
+Melissa Coleman,29,13255.05,1,4.89,8,2016-02-21 14:20:00,"9334 Colleen Passage Apt. 344 Michelleberg, MD 31481","Gonzalez, Abbott and Lane",0,MD,Michelleberg,3-5years,25-35,2710.64,1.6,Yes,2016,1,0.0,39.12,2250.43
+Terry Curtis MD,48,8403.02,0,3.61,11,2016-03-13 07:22:00,"080 Jamie Way Cartermouth, MA 05582",Blackburn-Bush,0,MA,Cartermouth,3-5years,45-55,2327.71,3.0,No,2016,1,0.0,39.71,1822.78
+Jessica Campbell,43,7277.27,1,5.98,8,2014-09-20 03:34:00,"510 Armstrong Square Davisshire, SC 57672-9166",Bates and Sons,0,SC,Davisshire,5-10years,35-45,1216.93,1.3,Yes,2014,3,0.0,47.84,1042.59
+Brandon Wilson,32,8575.71,0,4.26,9,2006-11-15 14:58:00,Unit 6545 Box 5723 DPO AP 79461,"Parker, Hoffman and Pugh",0,,79461,3-5years,25-35,2013.08,2.1,No,2006,4,0.0,38.339999999999996,1630.36
+Meghan Jackson,46,9844.79,0,3.57,11,2010-01-03 10:44:00,"6574 Travis Extensions New Casey, RI 40982",Phillips-Peters,0,RI,Casey,3-5years,45-55,2757.64,3.1,No,2010,1,0.0,39.269999999999996,2154.22
+Jeffrey Simpson,42,7529.23,1,5.86,7,2006-02-15 12:09:00,"913 Thomas Dale Harristown, OR 05449-4141","Thompson, Vaughan and House",0,OR,Harristown,5-10years,35-45,1284.85,1.2,Yes,2006,1,0.0,41.02,1097.56
+Cheryl Hernandez,46,4111.4,0,3.93,8,2010-02-18 18:40:00,"7772 Elizabeth Ridge North Chloe, AL 79941",Beltran Group,0,AL,Chloe,3-5years,45-55,1046.16,2.0,No,2010,1,0.0,31.44,833.96
+Amy Riddle,45,8389.84,1,6.81,5,2009-08-19 08:06:00,"4964 Page Estate East Richardmouth, OK 43652",Parker PLC,0,OK,Richardmouth,5-10years,45-55,1231.99,0.7,Yes,2009,3,0.0,34.05,1074.24
+Linda Moore,40,7864.63,0,4.56,9,2008-09-11 19:53:00,"2736 Sharon Spring South Joshuafort, FM 69643",Wilson PLC,0,FM,Joshuafort,3-5years,35-45,1724.7,2.0,No,2008,3,0.33,41.04,1414.5
+Carol Bush,39,8677.62,0,5.2,7,2007-02-26 18:24:00,"210 Ray Estates East Debbie, SD 40157-2687",Miller-Morgan,0,SD,Debbie,5-10years,35-45,1668.77,1.3,No,2007,1,0.0,36.4,1399.62
+Gail Lopez,25,9672.03,0,5.49,8,2006-01-02 04:16:00,Unit 8122 Box 5528 DPO AP 49927,"Chapman, Howard and Campos",0,,49927,5-10years,25-35,1761.75,1.5,No,2006,1,0.0,43.92,1490.3
+Joseph Bauer,33,11370.28,1,4.4,6,2010-03-08 19:38:00,"580 Beasley Junctions Apt. 927 Woodston, AZ 17941",Patterson LLC,0,AZ,Woodston,3-5years,25-35,2584.15,1.4,Yes,2010,1,0.0,26.400000000000002,2105.61
+Kayla Foley,44,13915.9,0,4.61,9,2008-04-04 04:04:00,"636 Dana Spurs Apt. 334 West Amytown, NC 29641","Campbell, Velasquez and Porter",0,NC,Amytown,3-5years,35-45,3018.63,2.0,No,2008,2,0.0,41.49,2480.55
+Teresa Reyes,35,10999.05,0,4.76,10,2009-02-08 13:41:00,"831 Heidi Stream Apt. 991 West Taylorstad, ID 48825-5453","Mendez, Harris and Gordon",0,ID,Taylorstad,3-5years,35-45,2310.72,2.1,No,2009,1,0.0,47.599999999999994,1909.56
+Shannon Potter,39,7636.98,0,5.56,9,2013-02-20 07:41:00,"741 Nicole Via Apt. 202 Lake Darrellberg, WI 22772","Riddle, Baldwin and Brown",0,WI,Darrellberg,5-10years,35-45,1373.56,1.6,No,2013,1,0.0,50.04,1164.17
+Barbara Singleton,38,9461.83,0,4.9,10,2012-08-02 14:55:00,"176 Cheryl Plains Suite 253 Harrisonmouth, PW 17373-8223",Kennedy and Sons,0,PW,Harrisonmouth,3-5years,35-45,1930.99,2.0,No,2012,3,0.0,49.0,1603.7
+Kayla Reeves,38,100.0,0,5.27,5,2006-10-03 09:01:00,"1511 Porter Drive Amberberg, NC 44608",Stewart-Lopez,0,NC,Amberberg,5-10years,35-45,18.98,0.9,No,2006,4,0.0,26.349999999999998,15.95
+Tami Smith,53,9655.25,0,4.44,10,2006-10-19 01:12:00,"30920 Bell Passage Suite 036 Annafort, PR 57518-0173",Neal and Sons,0,PR,Annafort,3-5years,45-55,2174.61,2.3,No,2006,4,0.0,44.400000000000006,1774.86
+Brandon Hunter,45,15188.65,0,6.17,8,2010-07-07 22:11:00,"285 Rhonda Harbors Trevinochester, TX 18888-5407",Ramos PLC,0,TX,Trevinochester,5-10years,45-55,2461.69,1.3,No,2010,3,0.0,49.36,2118.36
+Lisa Rodriguez,49,14124.0,1,3.02,10,2014-12-17 02:27:00,"567 Ian Loop Lambertberg, MA 68810-6480","Rocha, Wagner and Chandler",0,MA,Lambertberg,3-5years,45-55,4676.82,3.3,Yes,2014,4,0.0,30.2,3513.43
+Eric Martin,44,14155.97,1,6.99,8,2006-05-31 09:24:00,"162 Paul Freeway Apt. 301 New Jessicaton, SC 29138",Warner-Welch,0,SC,Jessicaton,5-10years,35-45,2025.17,1.1,Yes,2006,2,0.0,55.92,1771.71
+Sharon Hull,37,11294.26,0,4.95,10,2007-11-09 16:04:00,USCGC Collier FPO AE 40469-8677,Bradley-White,0,,40469-8677,3-5years,35-45,2281.67,2.0,No,2007,4,0.0,49.5,1898.19
+Allison Clark DDS,43,14241.75,0,3.73,12,2006-07-11 11:32:00,"PSC 9202, Box 1991 APO AA 75619",Robinson-Perez,0,Box,9202,3-5years,35-45,3818.16,3.2,No,2006,3,0.0,44.76,3010.94
+Nicholas Williams,43,11334.3,0,3.47,9,2014-01-21 22:14:00,"600 Rachel Manor Port Mary, SD 03631-0936",Haley Inc,0,SD,Mary,3-5years,35-45,3266.37,2.6,No,2014,1,0.0,31.23,2535.64
+Wanda Hess,34,7818.13,0,6.11,8,2006-03-02 01:45:00,"3334 Alvarez Streets Apt. 358 Joyceton, MH 42340-8249",Mccarty-Stevens,0,MH,Joyceton,5-10years,25-35,1279.56,1.3,No,2006,1,0.0,48.88,1099.6
+Fernando Ramsey,47,11520.18,1,5.07,9,2014-12-04 09:09:00,"73285 Norman Ramp Apt. 829 Tommyport, ID 38974-8331",Anderson-Palmer,0,ID,Tommyport,5-10years,45-55,2272.22,1.8,Yes,2014,4,0.0,45.63,1897.89
+Sylvia Crawford,47,7996.78,1,5.45,8,2009-07-23 06:05:00,"032 Craig Lane Robertstown, AK 35233",Nguyen-Grant,0,AK,Robertstown,5-10years,45-55,1467.3,1.5,Yes,2009,3,0.0,43.6,1239.81
+Trevor Burns,27,8628.8,1,5.3,7,2016-04-11 08:58:00,"2786 Collins Loaf Susanchester, CT 84620-3615",King LLC,0,CT,Susanchester,5-10years,25-35,1628.08,1.3,Yes,2016,2,0.0,37.1,1369.65
+Kristen Terry,39,10292.19,0,4.99,8,2015-11-12 03:06:00,"2091 Antonio Tunnel Apt. 841 Gibsonburgh, GU 98706",Rodriguez Group,0,GU,Gibsonburgh,3-5years,35-45,2062.56,1.6,No,2015,4,0.0,39.92,1718.23
+Mr. Joseph Garcia,32,11540.86,0,3.0,7,2008-12-30 08:28:00,"3028 Robles Road South Megan, CT 13834-0339","Zuniga, Clark and Shaffer",0,CT,Megan,3-5years,25-35,3846.95,2.3,No,2008,4,0.0,21.0,2885.22
+Lauren Nelson,40,7490.92,0,4.75,5,2013-08-05 20:26:00,"341 Benjamin Knolls Robertview, ND 28469-9018",Hall Inc,0,ND,Robertview,3-5years,35-45,1577.04,1.1,No,2013,3,0.0,23.75,1302.77
+Frank Coleman,39,4316.73,1,4.79,9,2006-06-16 14:31:00,"686 Bonnie Locks Suite 704 Hayesburgh, SD 23695-5265",Pollard-Lambert,0,SD,Hayesburgh,3-5years,35-45,901.2,1.9,Yes,2006,2,0.0,43.11,745.55
+Faith Sanchez,41,11738.88,0,7.27,9,2009-06-26 18:06:00,"390 Johnson Glen Apt. 475 East Dawnbury, ME 42067",Frazier and Sons,0,ME,Dawnbury,5-10years,35-45,1614.7,1.2,No,2009,2,0.0,65.42999999999999,1419.45
+Catherine Johnston,38,15509.97,0,4.65,8,2006-07-06 02:38:00,"590 Ware Mission East Markhaven, PR 46489","Thomas, Marks and Hurst",0,PR,Markhaven,3-5years,35-45,3335.48,1.7,No,2006,3,0.0,37.2,2745.13
+Anthony Green,52,12010.74,0,5.09,8,2010-02-26 16:33:00,"824 Ryan Orchard Rebeccabury, FL 02869","Miller, Gardner and Harris",0,FL,Rebeccabury,5-10years,45-55,2359.67,1.6,No,2010,1,0.0,40.72,1972.21
+Justin Brady,43,5907.07,0,5.89,8,2011-02-12 01:22:00,"9462 Samuel Place Lake Jamie, WV 34853",Hunter LLC,0,WV,Jamie,5-10years,35-45,1002.9,1.4,No,2011,1,0.0,47.12,857.34
+Hector Anderson,39,10510.95,0,2.87,9,2009-06-28 11:42:00,"321 Perez Village Ericaview, GU 17997",Rodriguez Inc,0,GU,Ericaview,1-3years,35-45,3662.35,3.1,No,2009,2,0.0,25.830000000000002,2716.01
+Jessica Hudson,43,8914.46,0,6.49,7,2008-04-21 23:26:00,"7255 Weber Port Davischester, ND 95345-7872","Smith, Marshall and Conway",0,ND,Davischester,5-10years,35-45,1373.57,1.1,No,2008,2,0.0,45.43,1190.18
+Brittney Nichols,38,5353.97,0,6.25,9,2012-01-17 00:39:00,"85040 Denise Mills West Lynn, TN 21871","Johnson, Mills and Murphy",0,TN,Lynn,5-10years,35-45,856.64,1.4,No,2012,1,0.0,56.25,738.48
+Mary Davis,36,12495.15,0,4.86,9,2016-06-08 11:44:00,"5304 Richards Run Apt. 960 Lake Emilyville, VA 21428","Jordan, Guerrero and Hoffman",0,VA,Emilyville,3-5years,35-45,2571.02,1.9,No,2016,2,0.0,43.74,2132.28
+Paula Rivera,45,13118.56,0,4.89,7,2010-05-16 09:00:00,"2518 Vargas Highway Suite 437 Port Briannaburgh, PA 26077","Rodriguez, Mcguire and Johnson",0,PA,Briannaburgh,3-5years,45-55,2682.73,1.4,No,2010,2,0.0,34.23,2227.26
+Lisa Munoz,39,5846.65,1,6.65,9,2007-03-27 15:23:00,"504 Knight Lodge Apt. 985 Annastad, NV 86484",Anderson Group,0,NV,Annastad,5-10years,35-45,879.2,1.4,Yes,2007,1,0.0,59.85,764.27
+Kimberly Carrillo,37,7239.49,1,5.01,9,2013-04-18 06:03:00,"513 Bullock Alley New Diane, NM 39999",Rodriguez PLC,0,NM,Diane,5-10years,35-45,1445.01,1.8,Yes,2013,2,0.0,45.089999999999996,1204.57
+Charles Thompson,36,14003.88,1,3.54,6,2007-03-25 22:58:00,"066 Jenkins Walks Barbaramouth, LA 76409",Sawyer and Sons,0,LA,Barbaramouth,3-5years,35-45,3955.9,1.7,Yes,2007,1,0.0,21.240000000000002,3084.56
+Jasmin Sullivan,43,9891.3,0,5.75,11,2015-03-29 18:43:00,"22500 Paul Port Apt. 531 Nolanmouth, LA 85060-3073",Bailey-Rose,0,LA,Nolanmouth,5-10years,35-45,1720.23,1.9,No,2015,1,0.0,63.25,1465.38
+Christopher Martin,39,9655.42,1,5.5,8,2011-09-01 16:47:00,"2910 Deborah Haven Apt. 221 Gomezstad, PW 18580-1005","Wise, Nichols and Allen",0,PW,Gomezstad,5-10years,35-45,1755.53,1.5,Yes,2011,3,0.0,44.0,1485.45
+Richard Gonzalez,49,7904.67,0,5.58,6,2008-11-05 06:32:00,"PSC 2039, Box 7808 APO AP 35117",Lee and Sons,0,Box,2039,5-10years,45-55,1416.61,1.1,No,2008,4,0.0,33.480000000000004,1201.32
+Christopher Price,43,10598.35,1,6.72,8,2006-01-14 22:09:00,"PSC 8020, Box 7594 APO AE 50638",Porter-Johnson,0,Box,8020,5-10years,35-45,1577.14,1.2,Yes,2006,1,0.0,53.76,1372.84
+Jeremy Garcia,31,10182.6,1,3.77,8,2012-10-19 02:30:00,"0414 Ellis Creek Apt. 971 Gailberg, WV 99255-4310",King LLC,0,WV,Gailberg,3-5years,25-35,2700.95,2.1,Yes,2012,4,0.0,30.16,2134.72
+Kevin Hebert,41,11316.69,0,6.23,10,2007-04-14 21:21:00,"281 Phyllis Port West Jessica, VT 75528-7229",Castro-Kline,0,VT,Jessica,5-10years,35-45,1816.48,1.6,No,2007,2,0.0,62.300000000000004,1565.24
+Jessica Morris,43,6065.64,1,4.86,7,2011-01-26 13:35:00,"69465 Murphy Harbor Bishopchester, MP 09567",Hernandez Ltd,0,MP,Bishopchester,3-5years,35-45,1248.07,1.4,Yes,2011,1,0.0,34.02,1035.09
+Wendy Wells,41,8907.76,0,6.99,7,2016-09-09 03:56:00,"81421 Joseph Canyon Apt. 100 Josephton, MT 11927-8464","Sanchez, Ferguson and Ramos",0,MT,Josephton,5-10years,35-45,1274.36,1.0,No,2016,3,0.0,48.93,1114.86
+Amanda Barnett,45,9773.22,1,3.79,10,2009-06-04 09:14:00,"205 Campbell Highway Port Wyatt, AK 84887-4000",Lee Ltd,0,AK,Wyatt,3-5years,45-55,2578.69,2.6,Yes,2009,2,0.0,37.9,2040.34
+Willie George II,32,9036.27,0,7.14,11,2010-06-29 07:19:00,Unit 5118 Box 3795 DPO AA 27599,"Murphy, Davis and Zimmerman",0,,27599,5-10years,25-35,1265.58,1.5,No,2010,2,0.0,78.53999999999999,1110.11
+Troy Burke,50,8193.77,0,5.13,8,2011-09-30 21:43:00,"2819 Wright Summit Nicholasmouth, CT 05051-3807",Austin LLC,0,CT,Nicholasmouth,5-10years,45-55,1597.23,1.6,No,2011,3,0.0,41.04,1336.67
+Kyle Mcguire,30,10183.98,1,5.14,9,2009-02-13 23:12:00,"1005 Kevin Mews Bennettmouth, VI 93240-6963","Smith, Salazar and Ward",0,VI,Bennettmouth,5-10years,25-35,1981.32,1.8,Yes,2009,1,0.0,46.26,1658.63
+Adam Harris,44,9815.03,1,4.9,9,2016-05-29 06:00:00,"40488 Michael Forge Lake Heatherbury, OK 21867","Smith, Oconnor and Brown",0,OK,Heatherbury,3-5years,35-45,2003.07,1.8,Yes,2016,2,0.0,44.1,1663.56
+Roy Marshall,43,6098.15,0,3.74,8,2014-02-19 04:42:00,"55334 William Square Kaylaland, TN 06847-1171","Harrison, Cox and Russell",0,TN,Kaylaland,3-5years,35-45,1630.52,2.1,No,2014,1,0.0,29.92,1286.53
+Lisa Lee,45,13100.75,1,7.79,10,2010-05-08 01:45:00,"04983 Johnson Park Elizabethfurt, MT 88532",Clark-Dawson,0,MT,Elizabethfurt,5-10years,45-55,1681.74,1.3,Yes,2010,2,0.0,77.9,1490.42
+Marc Price,40,10638.66,0,4.35,10,2008-07-26 11:52:00,"9411 Robinson Corners Apt. 595 North Samuelborough, GA 97735",Hayes-Hill,0,GA,Samuelborough,3-5years,35-45,2445.67,2.3,No,2008,3,0.0,43.5,1988.53
+James Griffin,52,9519.64,0,5.61,8,2015-12-05 19:35:00,Unit 5498 Box 5539 DPO AP 33602,Walker Ltd,0,,33602,5-10years,45-55,1696.91,1.4,No,2015,4,0.0,44.88,1440.19
+Leslie Lopez,50,10358.08,0,5.41,8,2014-07-31 11:31:00,"7364 Jessica Way New Jeremyside, ND 50029",Copeland Inc,0,ND,Jeremyside,5-10years,45-55,1914.62,1.5,No,2014,3,0.0,43.28,1615.93
+Richard Jackson,46,7638.13,1,4.91,9,2007-03-15 05:45:00,"8169 Catherine Dam Grantville, MN 89963",Riley Group,0,MN,Grantville,3-5years,45-55,1555.63,1.8,Yes,2007,1,0.0,44.19,1292.41
+Kevin Gordon MD,42,10807.46,1,6.74,7,2007-10-10 17:28:00,"66383 Williams Brooks Lake Richardside, NJ 36694","Dougherty, Guzman and Martin",0,NJ,Richardside,5-10years,35-45,1603.48,1.0,Yes,2007,4,0.0,47.18,1396.31
+Dean Spears,37,11945.5,1,5.37,8,2008-03-07 06:37:00,"25364 Snyder Bridge Cookton, WI 66968",Watkins-Gill,0,WI,Cookton,5-10years,35-45,2224.49,1.5,Yes,2008,1,0.0,42.96,1875.27
+Kara Barnett,48,13597.5,0,6.45,8,2013-05-02 22:34:00,"5248 Cameron Ridges Suite 289 East Jeffreyport, MP 00728",Roberson Group,0,MP,Jeffreyport,5-10years,45-55,2108.14,1.2,No,2013,2,0.0,51.6,1825.17
+Kelly White,47,7364.12,1,3.65,9,2012-01-05 20:06:00,"77842 Jeffrey Common North Johnnytown, ND 76045",Allen LLC,0,ND,Johnnytown,3-5years,45-55,2017.57,2.5,Yes,2012,1,0.0,32.85,1583.68
+Laura Turner,42,8934.99,1,6.21,8,2010-10-26 19:01:00,"46278 Austin Views Apt. 675 Port Paulfurt, KS 08809-6244","Johnson, Myers and Martinez",0,KS,Paulfurt,5-10years,35-45,1438.81,1.3,Yes,2010,4,0.0,49.68,1239.25
+Hannah Mack,34,13672.54,0,6.05,6,2016-03-05 13:19:00,"412 Martin Village Apt. 913 Debbieside, NH 82863","Phillips, Shepherd and Davis",0,NH,Debbieside,5-10years,25-35,2259.92,1.0,No,2016,1,0.0,36.3,1939.37
+Christina Farmer,44,9446.84,0,4.59,10,2008-11-26 23:15:00,"95806 Fuller Crossroad Suite 269 Lake Denise, VA 86649",Gutierrez-Doyle,0,VA,Denise,3-5years,35-45,2058.14,2.2,No,2008,4,0.0,45.9,1689.95
+Patricia Deleon,36,11082.13,0,4.84,9,2012-04-05 16:54:00,"6857 Sean Heights New Caitlin, OR 57302",Cannon-Blevins,0,OR,Caitlin,3-5years,35-45,2289.7,1.9,No,2012,2,0.0,43.56,1897.62
+Peggy Rodriguez,38,10005.91,1,5.44,9,2009-03-31 19:37:00,"21549 Williams Ways Suite 186 East Crystalville, NV 65321",Brown LLC,0,NV,Crystalville,5-10years,35-45,1839.32,1.7,Yes,2009,1,0.0,48.96,1553.71
+Steven Price,38,11227.39,1,5.71,9,2011-04-05 07:23:00,"586 Gregory Gateway Suite 935 Port Deborah, OK 46332",Tran-Morris,0,OK,Deborah,5-10years,35-45,1966.27,1.6,Yes,2011,2,0.0,51.39,1673.23
+Linda Mason,34,13574.25,0,5.2,9,2010-01-30 19:50:00,Unit 7583 Box 3011 DPO AP 05481,"Ballard, Underwood and Brown",0,,05481,5-10years,25-35,2610.43,1.7,No,2010,1,0.0,46.800000000000004,2189.4
+Edward Rhodes,46,7876.84,1,6.41,10,2015-02-08 10:45:00,"56573 Emily Falls Apt. 917 Simpsontown, VA 11466-4489",Walker and Sons,0,VA,Simpsontown,5-10years,45-55,1228.84,1.6,Yes,2015,1,0.0,64.1,1063.0
+Martin Williams MD,39,10413.93,0,3.75,11,2009-09-17 13:18:00,"9373 Carpenter Spur Michellebury, UT 07973",Valdez Group,0,UT,Michellebury,3-5years,35-45,2777.05,2.9,No,2009,3,0.0,41.25,2192.41
+Molly Perez,36,11079.61,1,4.12,9,2011-09-16 01:39:00,"236 Smith Lake Suite 670 West Charles, OK 98173",Allen PLC,0,OK,Charles,3-5years,35-45,2689.23,2.2,Yes,2011,3,0.0,37.08,2163.99
+David Hernandez,36,12192.94,1,6.46,9,2015-03-02 20:54:00,"719 Kenneth Port Suite 911 New Micheal, GU 32134",Lane and Sons,0,GU,Micheal,5-10years,35-45,1887.45,1.4,Yes,2015,1,0.0,58.14,1634.44
+Brendan Garcia,47,9101.71,0,4.11,6,2013-07-20 00:18:00,USS Reed FPO AE 89292-3816,"Arnold, Skinner and Strickland",0,,89292-3816,3-5years,45-55,2214.53,1.5,No,2013,3,0.0,24.660000000000004,1781.16
+Curtis Phillips,38,12978.81,0,7.94,7,2011-07-21 16:04:00,Unit 6530 Box 3626 DPO AA 16636-7105,Sweeney-Hall,0,,16636-7105,5-10years,35-45,1634.61,0.9,No,2011,3,0.0,55.580000000000005,1451.77
+Frank Mann MD,43,8007.18,1,5.45,8,2009-04-13 22:54:00,"40205 Sellers Ville Apt. 983 Melanieview, DC 06529","Carter, Johnson and Franklin",0,DC,Melanieview,5-10years,35-45,1469.21,1.5,Yes,2009,2,0.0,43.6,1241.42
+Wayne Clark,43,6471.68,0,4.93,9,2008-06-19 01:29:00,"72663 John Turnpike West Ryan, NY 72119-1924",Brown-Coleman,0,NY,Ryan,3-5years,35-45,1312.71,1.8,No,2008,2,0.0,44.37,1091.35
+Carol Johnston,33,14160.05,1,4.61,7,2015-11-19 09:40:00,"303 Brittany Landing Suite 749 Meghanmouth, TX 27021-4399",Lewis-Wilson,0,TX,Meghanmouth,3-5years,25-35,3071.59,1.5,Yes,2015,4,0.0,32.27,2524.07
+Cameron Brown,39,11490.75,0,4.93,8,2014-12-23 02:56:00,"783 Reyes Extension Suite 224 North Angela, IA 45864",Shaw-Jackson,0,IA,Angela,3-5years,35-45,2330.78,1.6,No,2014,4,0.0,39.44,1937.73
+Jacob Gutierrez,40,11338.94,0,6.23,7,2007-08-17 09:17:00,"8489 Christopher Circles Apt. 542 Sarahmouth, AL 61019-4480",Parrish LLC,0,AL,Sarahmouth,5-10years,35-45,1820.05,1.1,No,2007,3,0.0,43.61,1568.32
+Caitlin Johnston,28,11245.38,0,6.72,8,2016-12-09 09:29:00,"42425 John Estates Lake Jonathanshire, NJ 46554",Yang Ltd,0,NJ,Jonathanshire,5-10years,25-35,1673.42,1.2,No,2016,4,0.0,53.76,1456.66
+Monica Graham,40,13987.59,1,5.58,7,2016-02-29 07:42:00,"3077 George Views Suite 883 Vangmouth, WI 86289",Anderson Group,0,WI,Vangmouth,5-10years,35-45,2506.74,1.3,Yes,2016,1,0.0,39.06,2125.77
+Andrew Gates,48,12810.16,0,2.21,10,2015-03-27 04:57:00,"779 Jeremy Road Port Ryan, CO 89095-3953","Conner, Brown and Johnson",0,CO,Ryan,1-3years,45-55,5796.45,4.5,No,2015,1,0.0,22.1,3990.7
+Alyssa Pitts,45,10976.03,0,4.5,10,2014-07-13 21:28:00,"881 Neal Mill Apt. 098 West Alexandra, RI 98586-9878","Smith, Anderson and Reyes",0,RI,Alexandra,3-5years,45-55,2439.12,2.2,No,2014,3,0.0,45.0,1995.64
+Robert Rowe,48,7737.57,1,4.19,9,2009-05-29 14:47:00,"16913 Robyn Overpass Apt. 119 Roweberg, MO 99456",Woods-Durham,0,MO,Roweberg,3-5years,45-55,1846.68,2.1,Yes,2009,2,0.0,37.71,1490.86
+Keith Perez,45,7748.34,0,4.2,8,2008-10-29 16:46:00,"467 Shannon Islands Apt. 468 Higginsville, GU 54051",Jensen-Smith,0,GU,Higginsville,3-5years,45-55,1844.84,1.9,No,2008,4,0.0,33.6,1490.07
+Benjamin Davenport,55,8270.52,1,5.15,8,2014-02-27 17:24:00,"7834 Day Garden Petersonburgh, ME 76865-5379",Morris Group,0,ME,Petersonburgh,5-10years,55-65,1605.93,1.6,Yes,2014,1,0.0,41.2,1344.8
+Joshua Turner,32,11715.72,0,4.73,9,2010-01-11 04:57:00,"8092 Travis Forge Suite 409 New Glenn, NH 92763",Neal Inc,0,NH,Glenn,3-5years,25-35,2476.9,1.9,No,2010,1,0.0,42.57000000000001,2044.63
+Mathew Rivera,48,9219.4,1,5.91,6,2011-08-04 02:52:00,"05272 Angela Unions Suite 032 Lewischester, WV 61156-3281",Zamora-Cherry,0,WV,Lewischester,5-10years,45-55,1559.97,1.0,Yes,2011,3,0.0,35.46,1334.21
+Richard Underwood,45,5347.74,1,5.62,10,2014-07-27 23:34:00,"366 Jeremy Bypass North Kristin, NE 62364-9040",Gamble Ltd,0,NE,Kristin,5-10years,45-55,951.56,1.8,Yes,2014,3,0.0,56.2,807.82
+Cathy Carney,42,9261.41,0,3.92,9,2009-06-27 05:38:00,"7816 Cynthia Unions Apt. 858 Elizabethhaven, KY 51905-4106",Carr and Sons,0,KY,Elizabethhaven,3-5years,35-45,2362.6,2.3,No,2009,2,0.0,35.28,1882.4
+John Harris,41,11789.33,0,4.61,9,2006-07-04 11:18:00,"6339 Julie Canyon Apt. 275 Marshallchester, OK 68644",Barrett-Carrillo,0,OK,Marshallchester,3-5years,35-45,2557.34,2.0,No,2006,3,0.0,41.49,2101.48
+John Walter,44,14023.22,1,3.49,10,2015-07-16 05:42:00,"80309 Davis Estate North Kelseyville, SC 01422-4929","Kennedy, Flores and Morris",0,SC,Kelseyville,3-5years,35-45,4018.11,2.9,Yes,2015,3,0.0,34.900000000000006,3123.21
+Michael Lopez,36,9993.5,0,6.6,6,2014-02-25 02:59:00,"6626 Samantha Port Apt. 143 West Jennifermouth, SC 62851","May, King and Murray",0,SC,Jennifermouth,5-10years,35-45,1514.17,0.9,No,2014,1,0.0,39.599999999999994,1314.93
+Erik Martinez,41,6535.91,0,4.83,11,2014-02-17 08:26:00,"9780 Michelle Gateway Apt. 049 Lake Gabriellemouth, OK 06225",Martinez-Roberts,0,OK,Gabriellemouth,3-5years,35-45,1353.19,2.3,No,2014,1,0.0,53.13,1121.08
+Sally Velazquez,44,12835.19,1,5.44,7,2015-05-06 22:58:00,"3227 Lin Port Ambermouth, WI 81808-7704","Patterson, Clark and Garrison",0,WI,Ambermouth,5-10years,35-45,2359.41,1.3,Yes,2015,2,0.0,38.080000000000005,1993.04
+Thomas Spears,42,11654.34,0,5.06,10,2007-04-08 11:12:00,"5651 Ryan Roads Apt. 091 New Jenniferstad, OR 83943-6211","Chandler, Rivera and Fleming",0,OR,Jenniferstad,5-10years,35-45,2303.23,2.0,No,2007,2,0.0,50.599999999999994,1923.16
+Robin Sanchez,45,12200.96,1,4.7,6,2007-04-07 07:12:00,"2464 Cynthia Haven Apt. 333 Cynthiaport, FM 93220","Arellano, Smith and Lang",0,FM,Cynthiaport,3-5years,45-55,2595.95,1.3,Yes,2007,2,0.0,28.200000000000003,2140.52
+Janet Hayden,34,12813.91,0,2.41,7,2006-01-17 22:25:00,"118 Linda Street Suite 025 Hunterberg, WA 50583","Bishop, Edwards and Webb",0,WA,Hunterberg,1-3years,25-35,5316.98,2.9,No,2006,1,0.0,16.87,3757.74
+Francisco Moore,36,10345.19,1,4.84,10,2016-04-22 21:07:00,"7433 Matthew Stream South Susan, NE 04017-0029",Carrillo-Potts,0,NE,Susan,3-5years,35-45,2137.44,2.1,Yes,2016,2,0.0,48.4,1771.44
+Tony Boone,49,8232.11,0,6.84,8,2006-04-18 10:56:00,"1484 Carter Court Stephentown, FL 02705-7717",Lopez-Nelson,0,FL,Stephentown,5-10years,45-55,1203.52,1.2,No,2006,2,0.0,54.72,1050.01
+Phillip Spears,52,14838.84,0,5.12,8,2010-03-20 11:41:00,"30813 Ponce Street Apt. 308 Nashville, MN 56455-2134",Welch-Houston,0,MN,Nashville,5-10years,45-55,2898.21,1.6,No,2010,1,0.0,40.96,2424.65
+Brandon Ballard,43,9541.45,0,6.05,8,2008-09-27 05:35:00,"97254 Ward Stravenue North Melanie, DE 04764",Graham-Allen,0,DE,Melanie,5-10years,35-45,1577.1,1.3,No,2008,3,0.0,48.4,1353.4
+Christopher Johnson,46,7424.11,0,4.83,9,2006-10-26 00:50:00,"2804 Joel Station New Jennifer, DC 36785",Garcia-Moore,0,DC,Jennifer,3-5years,45-55,1537.08,1.9,No,2006,4,0.0,43.47,1273.43
+Brian Torres,37,7062.59,1,4.56,9,2007-12-11 04:16:00,"4475 Stephanie Plaza Apt. 569 West Taylorchester, CT 29697-0584",Johnson Group,0,CT,Taylorchester,3-5years,35-45,1548.81,2.0,Yes,2007,4,0.0,41.04,1270.25
+Cheryl Hayes,51,10776.82,0,5.1,5,2007-01-05 20:48:00,"667 Diaz Row Garnerview, IN 81368-5410","Hill, Roberts and Melendez",0,IN,Garnerview,5-10years,45-55,2113.1,1.0,No,2007,1,0.0,25.5,1766.69
+Steven Mendoza,50,13247.31,0,3.48,6,2010-06-25 21:01:00,"6699 John Burg Suite 410 West Wendyview, PW 56120",Caldwell-Vargas,0,PW,Wendyview,3-5years,45-55,3806.7,1.7,No,2010,2,0.0,20.88,2956.99
+Randy Hill,40,8610.43,1,5.08,7,2014-06-28 01:42:00,"9446 Gregory Mountain New Elizabethberg, AL 36341",Johnston Group,0,AL,Elizabethberg,5-10years,35-45,1694.97,1.4,Yes,2014,2,0.0,35.56,1416.19
+Beth Fitzgerald,48,8863.36,0,6.35,7,2008-03-24 13:32:00,"63692 Lucas Neck Apt. 112 North Kevinshire, NH 24241-9525","Gonzalez, Gilbert and Wall",0,NH,Kevinshire,5-10years,45-55,1395.8,1.1,No,2008,1,0.0,44.449999999999996,1205.9
+Angela Ross,39,13574.53,1,5.69,10,2014-04-23 10:59:00,"1008 Ricky River Port Joshua, GA 42542",Miller-Ramirez,0,GA,Joshua,5-10years,35-45,2385.68,1.8,Yes,2014,2,0.0,56.900000000000006,2029.08
+Teresa Higgins,41,14216.37,1,1.81,8,2013-09-11 11:05:00,"34494 Luke Gateway Apt. 508 East Jason, WV 91110",Martin PLC,0,WV,Jason,1-3years,35-45,7854.35,4.4,Yes,2013,3,0.0,14.48,5059.21
+Andrew Hester,48,11555.21,1,4.45,8,2007-09-18 14:11:00,"614 Wilson Extensions New Richardshire, AK 59247",Woodward-Bruce,0,AK,Richardshire,3-5years,45-55,2596.68,1.8,Yes,2007,3,0.0,35.6,2120.22
+Laura Williams,55,5720.98,1,6.63,8,2013-01-30 01:58:00,"147 Antonio Roads South Sara, KY 70646-6480",Mcneil-Hayes,0,KY,Sara,5-10years,55-65,862.89,1.2,Yes,2013,1,0.0,53.04,749.8
+Vanessa Hodge,38,8370.15,0,8.6,5,2009-01-24 14:58:00,"29252 Powell Brook Suite 931 Port Scottland, MT 15769-3539",Li Ltd,0,MT,Scottland,5-10years,35-45,973.27,0.6,No,2009,1,0.0,43.0,871.89
+Amy Stanley,43,9060.28,1,4.95,6,2010-10-15 11:16:00,"906 Kelly Courts Suite 424 Lake Michaelborough, NV 63970",Johnson-Nelson,0,NV,Michaelborough,3-5years,35-45,1830.36,1.2,Yes,2010,4,0.0,29.700000000000003,1522.74
+Brenda Ruiz,44,7193.84,0,6.22,7,2016-11-07 08:00:00,"34011 Montgomery Terrace Reynoldsmouth, MI 62031-7230",Avery Inc,0,MI,Reynoldsmouth,5-10years,35-45,1156.57,1.1,No,2016,4,0.0,43.54,996.38
+William Krause,42,11225.96,0,5.89,7,2013-05-31 14:29:00,USNV Perry FPO AP 32236-2293,"Hall, Hernandez and Palmer",0,,32236-2293,5-10years,35-45,1905.94,1.2,No,2013,2,0.0,41.23,1629.31
+David Bowers,49,12893.19,0,5.13,7,2009-04-09 00:38:00,"5737 Bowman Throughway Suite 494 Port Austinbury, AK 56390-6671","Anthony, Walter and Moore",0,AK,Austinbury,5-10years,45-55,2513.29,1.4,No,2009,2,0.0,35.91,2103.29
+David Grant,45,13896.99,0,4.26,8,2009-11-11 23:33:00,"2974 Melvin Fords Suite 760 East Jacob, PR 90451-9722","Bryan, Small and Meyer",0,PR,Jacob,3-5years,45-55,3262.2,1.9,No,2009,4,0.0,34.08,2642.01
+Dominique Schneider,43,12378.57,1,4.04,8,2007-08-07 06:00:00,"68378 Jeffrey Locks Apt. 678 Gibbsstad, OR 40474",Ford LLC,0,OR,Gibbsstad,3-5years,35-45,3064.0,2.0,Yes,2007,3,0.0,32.32,2456.07
+Martin Avila,42,11768.71,1,6.24,7,2007-05-31 09:21:00,"652 Yvette Forks Webbmouth, OH 61071-0774",Arnold-Mitchell,0,OH,Webbmouth,5-10years,35-45,1886.01,1.1,Yes,2007,2,0.0,43.68,1625.51
+Dean Beck,32,8011.38,0,5.35,10,2013-12-21 04:31:00,"9161 Carmen Village Ernestfort, RI 88511-5609",Wade-Parker,0,RI,Ernestfort,5-10years,25-35,1497.45,1.9,No,2013,4,0.0,53.5,1261.63
+Kevin Powell,43,16955.76,0,7.04,8,2007-11-14 07:55:00,"33165 Joshua Streets Suite 299 Josephchester, ID 54756",Carroll Ltd,0,ID,Josephchester,5-10years,35-45,2408.49,1.1,No,2007,4,0.0,56.32,2108.93
+John Barber,43,10530.33,1,4.14,7,2014-02-16 04:04:00,"74415 Maxwell Walks Apt. 242 North Brandonland, AR 13900-6164",Taylor-Patel,0,AR,Brandonland,3-5years,35-45,2543.56,1.7,Yes,2014,1,0.0,28.979999999999997,2048.7
+Sylvia Sherman,42,11783.81,1,5.27,7,2010-09-27 05:53:00,"451 Diaz Trafficway Mckinneymouth, AK 73479-7853",Robinson PLC,0,AK,Mckinneymouth,5-10years,35-45,2236.02,1.3,Yes,2010,3,0.0,36.89,1879.4
+Susan Lucero,48,8824.84,1,5.93,7,2014-01-15 02:11:00,"043 Anne Radial Ryanside, MN 70005-6155","Carpenter, Tran and Nelson",0,MN,Ryanside,5-10years,45-55,1488.17,1.2,Yes,2014,1,0.0,41.51,1273.43
+George Parker,46,9737.34,1,5.17,8,2015-03-29 06:41:00,USCGC Walker FPO AA 31720,"Chavez, Ross and Howard",0,,31720,5-10years,45-55,1883.43,1.5,Yes,2015,1,0.0,41.36,1578.18
+Zachary Sanchez,49,8131.64,1,7.1,7,2011-04-27 00:14:00,"39704 Troy Pines Suite 887 South Amber, WI 13510",Dawson-Porter,0,WI,Amber,5-10years,45-55,1145.3,1.0,Yes,2011,2,0.0,49.699999999999996,1003.91
+Tamara Williams,31,12264.68,1,5.88,8,2014-01-14 14:18:00,"524 Taylor Lights Garrettfort, IA 35266",Tucker PLC,0,IA,Garrettfort,5-10years,25-35,2085.83,1.4,Yes,2014,1,0.0,47.04,1782.66
+Kathleen Marquez,35,3825.7,0,4.28,8,2006-05-15 18:02:00,"984 Gallagher Circle Port Gregorytown, MD 59029","Steele, Nguyen and Lewis",0,MD,Gregorytown,3-5years,35-45,893.86,1.9,No,2006,2,0.0,34.24,724.56
+Carrie Williams,44,11597.38,0,3.45,7,2006-07-03 22:29:00,"895 Miller Key Suite 001 Port Craigport, TX 36874",Tucker Inc,0,TX,Craigport,3-5years,35-45,3361.56,2.0,No,2006,3,0.0,24.150000000000002,2606.15
+Joel Johnson,55,5977.46,1,5.02,7,2010-04-03 05:46:00,"79373 Emily Parks Apt. 387 Greerfort, KS 65696-2400",Jenkins Group,0,KS,Greerfort,5-10years,55-65,1190.73,1.4,Yes,2010,2,0.0,35.14,992.93
+Joshua Cooper,41,9608.45,0,5.81,7,2008-10-26 14:34:00,"097 Sherry Stream Apt. 739 North Annebury, ID 33014-7371",Patel-Frederick,0,ID,Annebury,5-10years,35-45,1653.78,1.2,No,2008,4,0.0,40.669999999999995,1410.93
+Amber Evans,37,10348.37,1,7.65,6,2006-04-20 00:24:00,"1753 John Lights Suite 716 New Bradleyberg, TN 82631-5891",Weiss-Kelly,0,TN,Bradleyberg,5-10years,35-45,1352.73,0.8,Yes,2006,2,0.0,45.900000000000006,1196.34
+John Hawkins,41,13135.26,1,5.27,9,2014-05-01 13:07:00,"941 Alan Glens Suite 569 Shannonborough, NM 03091-2099",Smith Ltd,0,NM,Shannonborough,5-10years,35-45,2492.46,1.7,Yes,2014,2,0.0,47.42999999999999,2094.94
+Scott Ingram,34,12760.01,0,3.87,8,2007-02-02 12:44:00,"574 Lee Corners Apt. 841 Russellborough, NV 32119",Carlson-Johnson,0,NV,Russellborough,3-5years,25-35,3297.16,2.1,No,2007,1,0.0,30.96,2620.13
+Steven Blankenship,39,9848.4,1,6.73,10,2011-03-28 01:58:00,"2165 Williams Vista Apt. 849 South Colleen, GU 38418-9285",Baker-Rios,0,GU,Colleen,5-10years,35-45,1463.36,1.5,Yes,2011,1,0.0,67.30000000000001,1274.05
+Bailey Carroll,37,11517.19,1,8.34,11,2009-08-16 05:26:00,"3738 Kiara Rue Suite 215 South Connor, VA 29347",Lutz Inc,0,VA,Connor,5-10years,35-45,1380.96,1.3,Yes,2009,3,0.0,91.74,1233.1
+Barbara Watkins,37,8316.89,0,3.6,8,2014-09-17 10:05:00,"86043 Michael Ridge Lindseyland, SD 36903-4426","Benitez, Durham and Lee",0,SD,Lindseyland,3-5years,35-45,2310.25,2.2,No,2014,3,0.0,28.8,1808.02
+James Wallace,40,7762.73,1,4.66,10,2008-07-26 03:12:00,"0613 Kidd Springs Apt. 467 Nicholasville, VI 42395","Williams, Huffman and Gibson",0,VI,Nicholasville,3-5years,35-45,1665.82,2.1,Yes,2008,3,0.0,46.6,1371.51
+Joshua Brown DVM,49,13510.96,1,6.39,9,2006-09-24 02:31:00,"4708 Walker Underpass Apt. 264 West David, NE 49246-4362","Shaw, Williams and Andrade",0,NE,David,5-10years,45-55,2114.39,1.4,Yes,2006,3,0.0,57.51,1828.28
+Whitney Kennedy,42,10442.37,0,5.58,5,2006-05-04 12:31:00,"6414 Jesus Knoll Apt. 139 Downsshire, VT 78464",Bates-Underwood,0,VT,Downsshire,5-10years,35-45,1871.39,0.9,No,2006,2,0.0,27.9,1586.99
+David Allen,35,10550.87,1,5.72,9,2010-04-21 15:26:00,"2900 Daniel Extension South Theodorefurt, OH 44883",Smith PLC,0,OH,Theodorefurt,5-10years,35-45,1844.56,1.6,Yes,2010,2,0.0,51.48,1570.07
+Joshua Brown,31,5304.6,0,5.29,9,2008-04-13 02:54:00,"0495 Jessica Forge Toddfort, VT 54080-8512",Wang and Sons,0,VT,Toddfort,5-10years,25-35,1002.76,1.7,No,2008,2,0.0,47.61,843.34
+Cristian Sanchez,44,10157.21,0,6.14,7,2006-05-10 17:23:00,"78444 Carla Ports Suite 763 Savagechester, IL 62536",Thornton and Sons,0,IL,Savagechester,5-10years,35-45,1654.27,1.1,No,2006,2,0.0,42.98,1422.58
+Stephanie Martinez,42,12975.35,1,4.47,7,2006-09-19 17:17:00,"533 Smith Hills South Antonioview, WA 32566-3457","Nash, Grant and Chen",0,WA,Antonioview,3-5years,35-45,2902.76,1.6,Yes,2006,3,0.0,31.29,2372.09
+Christine Jenkins,38,6574.25,0,6.18,9,2008-12-15 20:01:00,"3542 Dawn Lane Williamchester, UT 01039","English, King and Green",0,UT,Williamchester,5-10years,35-45,1063.79,1.5,No,2008,4,0.0,55.62,915.63
+Michelle Davis,33,12638.51,1,5.01,8,2006-08-11 06:36:00,"9180 Amanda Prairie Apt. 887 Grayborough, WA 18335",Watts-Kennedy,0,WA,Grayborough,5-10years,25-35,2522.66,1.6,Yes,2006,3,0.0,40.08,2102.91
+Adam Porter,48,10746.37,1,4.22,8,2006-02-18 01:22:00,"92600 Kevin Cape South Sandraberg, NH 47456-5208",Anthony-Wood,0,NH,Sandraberg,3-5years,45-55,2546.53,1.9,Yes,2006,1,0.0,33.76,2058.69
+David Murray,46,12873.63,1,5.73,7,2006-10-19 06:20:00,"8008 Steven Shore North Richard, PW 07747","Lawson, Lee and Robertson",0,PW,Richard,5-10years,45-55,2246.71,1.2,Yes,2006,4,0.0,40.11,1912.87
+Cynthia Wood,49,12681.35,0,3.68,5,2014-05-24 05:29:00,"589 Mary Vista Lake Craig, CO 88641","Washington, Mcdaniel and Lambert",0,CO,Craig,3-5years,45-55,3446.02,1.4,No,2014,2,0.0,18.400000000000002,2709.69
+Kenneth Johns,46,7730.53,1,5.3,8,2008-10-30 12:58:00,"226 Riley Neck Suite 180 Kristopherbury, LA 76071",Campbell-Moore,0,LA,Kristopherbury,5-10years,45-55,1458.59,1.5,Yes,2008,4,0.0,42.4,1227.07
+Jason Dickson,46,8603.6,0,6.44,9,2012-03-19 22:07:00,"645 Jasmine Brook Cesarbury, AZ 68978-8729",Ayers Ltd,0,AZ,Cesarbury,5-10years,45-55,1335.96,1.4,No,2012,1,0.0,57.96,1156.4
+Johnny Jones,42,8218.63,0,5.9,9,2007-12-27 06:36:00,"275 Mitchell Stravenue Barnesmouth, AZ 23615",Taylor Group,0,AZ,Barnesmouth,5-10years,35-45,1392.99,1.5,No,2007,4,0.0,53.1,1191.11
+Rodney Miller,34,9401.99,1,8.25,9,2012-06-30 00:44:00,"10592 Kimberly Fields Suite 700 New Ericchester, GA 52658-8666","Leonard, Martinez and Bush",0,GA,Ericchester,5-10years,25-35,1139.64,1.1,Yes,2012,2,0.0,74.25,1016.43
+Tracy Jones,39,6127.84,0,4.22,9,2011-08-01 01:56:00,"417 Eric Overpass Williamfurt, MT 69664","Thompson, Bailey and Hernandez",0,MT,Williamfurt,3-5years,35-45,1452.09,2.1,No,2011,3,0.0,37.98,1173.92
+Greg Swanson,44,11794.91,0,6.32,6,2013-02-20 19:36:00,"446 Rodney Ridge Suite 282 West Williamside, MA 83236",Jackson-Garcia,0,MA,Williamside,5-10years,35-45,1866.28,0.9,No,2013,1,0.0,37.92,1611.33
+Bradley Bennett,41,8143.38,1,2.64,5,2008-11-11 18:59:00,"04046 Shelby Rapid Blackport, KS 68644","Fisher, Moore and Miles",0,KS,Blackport,1-3years,35-45,3084.61,1.9,Yes,2008,4,0.0,13.200000000000001,2237.19
+Michael Anderson,40,11873.76,1,6.5,8,2011-08-22 14:22:00,"92927 Chavez Fork Brownhaven, WV 20848-9320","Matthews, Burns and Miller",0,WV,Brownhaven,5-10years,35-45,1826.73,1.2,Yes,2011,3,0.0,52.0,1583.17
+Katherine Sandoval,22,11254.38,1,4.96,8,2012-06-23 08:40:00,"3092 Theresa Neck Carrilloport, RI 12639-5926","Monroe, Ferguson and White",0,RI,Carrilloport,3-5years,<25,2269.03,1.6,Yes,2012,2,0.0,39.68,1888.32
+James Hensley,46,8951.42,0,4.13,8,2009-03-06 01:34:00,"62940 Hill Alley Apt. 148 South Laurahaven, OR 94753-3273",Leblanc-Torres,0,OR,Laurahaven,3-5years,45-55,2167.41,1.9,No,2009,1,0.0,33.04,1744.92
+Christopher Beasley,43,8662.18,1,7.31,8,2010-04-17 08:59:00,"3589 Ashley Crest Suite 345 North Jennifer, OH 77938",Harris Inc,0,OH,Jennifer,5-10years,35-45,1184.98,1.1,Yes,2010,2,0.0,58.48,1042.38
+Kayla Lopez,41,8427.12,0,4.37,6,2012-01-15 12:01:00,USNS Mckenzie FPO AA 31440-7156,Castro PLC,0,,31440-7156,3-5years,35-45,1928.4,1.4,No,2012,1,0.0,26.22,1569.3
+Jonathan Ali,55,11555.42,0,4.86,10,2006-10-28 02:07:00,Unit 7484 Box 5607 DPO AP 65812,"Osborne, Bailey and Lam",0,,65812,3-5years,55-65,2377.66,2.1,No,2006,4,0.0,48.6,1971.91
+Kenneth Wilkerson,42,11670.32,0,5.51,7,2014-05-08 21:37:00,Unit 8005 Box 5636 DPO AA 90315-7695,"Aguilar, Kelly and Fuentes",0,,90315-7695,5-10years,35-45,2118.03,1.3,No,2014,2,0.0,38.57,1792.68
+Alex Banks,36,8918.52,0,3.62,8,2016-09-18 16:37:00,"2109 Moore Lights North Heatherberg, NY 99942",Jones-Meyers,0,NY,Heatherberg,3-5years,35-45,2463.68,2.2,No,2016,3,0.0,28.96,1930.42
+Brendan Higgins,34,13976.64,0,5.16,8,2010-12-24 13:44:00,"10155 Alison Tunnel Suite 682 Gonzalesside, GA 06335",Ballard-Allen,0,GA,Gonzalesside,5-10years,25-35,2708.65,1.6,No,2010,4,0.0,41.28,2268.94
+Monique Neal,44,6498.85,0,6.34,9,2008-03-19 07:19:00,"059 Sara Lodge Suite 123 Moorefurt, HI 95162-5163",Moreno-Jacobs,0,HI,Moorefurt,5-10years,35-45,1025.06,1.4,No,2008,1,0.0,57.06,885.4
+Kristen Bishop,39,9303.36,0,4.19,10,2013-01-20 08:27:00,"91214 Samuel Hill Apt. 375 New Josephfurt, PA 94380",Underwood-Alvarado,0,PA,Josephfurt,3-5years,35-45,2220.37,2.4,No,2013,1,0.0,41.900000000000006,1792.55
+Amber Martin,40,8083.76,0,4.76,7,2009-02-24 20:56:00,"5487 Rodriguez Fork Ballberg, MP 65143-5880",Kelly-Greene,0,MP,Ballberg,3-5years,35-45,1698.27,1.5,No,2009,1,0.0,33.32,1403.43
+Eric Terry,42,16371.42,1,3.84,10,2014-12-18 16:51:00,"2384 Lucero Trafficway Suite 201 Campbellchester, SD 24554-7364",White-Thomas,0,SD,Campbellchester,3-5years,35-45,4263.39,2.6,Yes,2014,4,0.0,38.4,3382.52
+Troy Ochoa,32,5756.12,0,5.9,8,2012-05-01 12:42:00,"35985 Strong Islands South Kennethshire, LA 68247-0544",Roberts-Schaefer,0,LA,Kennethshire,5-10years,25-35,975.61,1.4,No,2012,2,0.0,47.2,834.22
+Michael Colon,41,9574.64,1,3.72,7,2016-07-04 20:08:00,"1293 John Tunnel Apt. 730 Lake Tara, NH 26653-6543",Guzman Group,0,NH,Tara,3-5years,35-45,2573.83,1.9,Yes,2016,3,0.0,26.040000000000003,2028.53
+Charles Mcgrath,42,6623.97,0,5.4,8,2015-11-06 23:41:00,"324 Krista Springs South Antoniohaven, ME 39849",Adams-Gibbs,0,ME,Antoniohaven,5-10years,35-45,1226.66,1.5,No,2015,4,0.0,43.2,1035.0
+Zachary Johnson,28,8670.98,0,3.99,6,2006-11-05 12:19:00,"88565 Wright Loop East Kyle, AS 27859",Johnson-Conley,0,AS,Kyle,3-5years,25-35,2173.18,1.5,No,2006,4,0.0,23.94,1737.67
+Jennifer Bradley,48,10399.19,1,5.07,11,2015-03-01 14:16:00,"PSC 4851, Box 1322 APO AP 39599","Huff, Rowland and Taylor",0,Box,4851,5-10years,45-55,2051.12,2.2,Yes,2015,1,0.0,55.77,1713.21
+Kenneth Sanchez,40,12542.76,1,5.03,8,2016-11-21 11:16:00,"832 Rachael Fort Suite 115 Lake Danielville, IL 18568-3278",Kelly Ltd,0,IL,Danielville,5-10years,35-45,2493.59,1.6,Yes,2016,4,0.0,40.24,2080.06
+Colleen Morgan,46,11832.86,1,6.01,8,2007-12-20 04:37:00,"85111 Sims Tunnel New Davidton, NV 81446-6413","Macias, Mcpherson and Rowe",0,NV,Davidton,5-10years,45-55,1968.86,1.3,Yes,2007,4,0.0,48.08,1688.0
+Jay Hunter,33,12249.96,0,2.96,8,2014-08-09 03:31:00,"1294 Greer Run Apt. 108 South Justin, FM 28734",Ayers-White,0,FM,Justin,1-3years,25-35,4138.5,2.7,No,2014,3,0.0,23.68,3093.42
+Joshua Lang,49,11695.04,1,5.64,9,2007-10-12 01:48:00,"126 Mooney Corners Port Anthonyborough, SD 31819",Simmons and Sons,0,SD,Anthonyborough,5-10years,45-55,2073.59,1.6,Yes,2007,4,0.0,50.76,1761.3
+Krista Ashley,41,9000.05,0,5.59,6,2013-10-02 08:18:00,"50771 Miller Mall East Lauraburgh, TX 75798-7004",Evans and Sons,0,TX,Lauraburgh,5-10years,35-45,1610.03,1.1,No,2013,4,0.0,33.54,1365.71
+James Stevens,44,12400.33,1,5.18,3,2007-07-18 07:06:00,USNV Johnson FPO AA 53865-7362,Sims-Cole,0,,53865-7362,5-10years,35-45,2393.89,0.6,Yes,2007,3,0.0,15.54,2006.53
+Megan Edwards,30,13473.35,0,3.84,10,2010-11-05 09:22:00,USNS Hill FPO AA 50331,Sanchez LLC,0,,50331,3-5years,25-35,3508.68,2.6,No,2010,4,0.0,38.4,2783.75
+Vanessa Romero,44,12227.39,0,6.46,7,2009-10-12 23:22:00,"6571 Barbara Junctions Buckleychester, PA 35917-7024","Smith, Wilson and Reeves",0,PA,Buckleychester,5-10years,35-45,1892.78,1.1,No,2009,4,0.0,45.22,1639.06
+Austin Branch,38,10788.67,0,4.98,7,2006-05-08 03:13:00,"29954 Burns Lake Apt. 491 Lake Dana, KY 85990",Daniels PLC,0,KY,Dana,3-5years,35-45,2166.4,1.4,No,2006,2,0.0,34.86,1804.13
+Taylor Brown,37,10076.71,0,6.5,7,2013-01-17 12:39:00,"996 Lopez Place Davidfurt, SD 52712-6329","Villanueva, Woods and Johnson",0,SD,Davidfurt,5-10years,35-45,1550.26,1.1,No,2013,1,0.0,45.5,1343.56
+William Pearson,28,11204.23,0,3.67,11,2012-10-25 20:54:00,"01565 Wilson Shoals Apt. 795 Port Eduardoview, ND 57078",Hernandez-Montgomery,0,ND,Eduardoview,3-5years,25-35,3052.92,3.0,No,2012,4,0.0,40.37,2399.19
+Heidi Butler,39,14425.74,0,5.91,6,2009-05-03 10:23:00,"939 Elizabeth Tunnel Suite 840 Jamestown, MO 38646-5669",Gardner PLC,0,MO,Jamestown,5-10years,35-45,2440.9,1.0,No,2009,2,0.0,35.46,2087.66
+John Williams,46,9988.68,1,5.44,8,2015-01-27 17:01:00,"99930 Ferrell Estate Suite 343 Kempberg, UT 24672-0591","Parker, Salas and Martinez",0,UT,Kempberg,5-10years,45-55,1836.15,1.5,Yes,2015,1,0.0,43.52,1551.04
+Gina Johnson,43,8261.89,0,7.36,9,2008-03-25 15:58:00,"1975 Lawson Ford East Tylerchester, OK 01485",Nguyen-Pratt,0,OK,Tylerchester,5-10years,35-45,1122.54,1.2,No,2008,1,0.0,66.24000000000001,988.26
+Brittany Walker,34,9779.12,0,5.89,9,2009-10-02 13:48:00,"2835 Laura Cape West Sean, PR 08293",Trevino LLC,0,PR,Sean,5-10years,25-35,1660.29,1.5,No,2009,4,0.0,53.01,1419.32
+Lauren Campos,51,10328.42,1,5.12,7,2015-05-14 11:28:00,"123 Corey Divide Suite 626 New Hannahtown, KY 62519",Cannon Inc,0,KY,Hannahtown,5-10years,45-55,2017.27,1.4,Yes,2015,2,0.0,35.84,1687.65
+Jennifer Garcia,38,12913.55,1,4.73,7,2007-11-16 01:02:00,"9071 Erickson Ridges Apt. 133 Glennberg, NE 87693",Williams LLC,0,NE,Glennberg,3-5years,35-45,2730.14,1.5,Yes,2007,4,0.0,33.11,2253.67
+Mary Allen,37,7189.31,0,6.87,10,2016-01-02 20:36:00,"421 Scott Prairie Christinaville, FM 11471-2940","Alvarado, Davis and Johnson",0,FM,Christinaville,5-10years,35-45,1046.48,1.5,No,2016,1,0.0,68.7,913.51
+Ethan Cordova,39,18026.01,1,3.82,9,2016-02-28 07:42:00,"482 Wells Mountain New Jason, AL 66002",Scott PLC,0,AL,Jason,3-5years,35-45,4718.85,2.4,Yes,2016,1,0.0,34.379999999999995,3739.84
+Anthony Molina,26,8939.61,0,4.54,7,2007-09-22 09:46:00,"255 Olson Mountain Maryshire, WA 83173-0377","Brown, Johnson and Fowler",0,WA,Maryshire,3-5years,25-35,1969.08,1.5,No,2007,3,0.0,31.78,1613.65
+David Compton,50,11294.45,1,2.17,10,2013-07-08 17:40:00,"292 John Course Apt. 691 Avilaburgh, ME 94092-4006",Larsen PLC,0,ME,Avilaburgh,1-3years,45-55,5204.82,4.6,Yes,2013,3,0.0,21.7,3562.92
+Garrett Walker,42,8271.02,0,4.24,9,2013-10-09 13:57:00,"561 Michael Alley Robinsonmouth, WA 87560",Hunt-Jarvis,0,WA,Robinsonmouth,3-5years,35-45,1950.71,2.1,No,2013,4,0.0,38.160000000000004,1578.44
+Benjamin Richard,44,5002.58,0,4.57,11,2009-09-24 19:34:00,"341 Horne Parks Apt. 964 Wallermouth, AZ 23035","Johns, Ross and Harris",0,AZ,Wallermouth,3-5years,35-45,1094.66,2.4,No,2009,3,0.0,50.27,898.13
+Timothy Brown,45,11187.93,1,4.95,9,2015-09-27 20:20:00,"7800 Riley Square Apt. 303 Jacquelineberg, HI 08954-7689","Roberts, Delgado and Burch",0,HI,Jacquelineberg,3-5years,45-55,2260.19,1.8,Yes,2015,3,0.0,44.550000000000004,1880.32
+Beth Barnes,51,9764.39,1,6.03,8,2014-06-30 06:15:00,"763 Jillian Vista Suite 240 East Kurt, VI 53651","Allen, Parker and Washington",0,VI,Kurt,5-10years,45-55,1619.3,1.3,Yes,2014,2,0.0,48.24,1388.96
+Patricia Combs,44,8917.57,0,4.28,6,2006-07-19 10:37:00,Unit 1984 Box 6538 DPO AE 54529-1395,Mcintosh LLC,0,,54529-1395,3-5years,35-45,2083.54,1.4,No,2006,3,0.0,25.68,1688.93
+Brian Hill,37,9499.3,1,6.81,8,2015-03-09 18:14:00,"357 Mcfarland Squares Apt. 356 West Elizabethmouth, DE 60392","Lee, Valencia and Wood",0,DE,Elizabethmouth,5-10years,35-45,1394.9,1.2,Yes,2015,1,0.0,54.48,1216.3
+Nathaniel Sanchez,41,8502.52,0,6.0,10,2007-10-18 21:47:00,"58383 Clark Bridge Suite 540 East Jordan, IL 77693","Gutierrez, Gray and Morris",0,IL,Jordan,5-10years,35-45,1417.09,1.7,No,2007,4,0.0,60.0,1214.65
+Tammy Pope,45,9576.07,1,7.01,8,2007-06-07 06:17:00,"9490 Kathryn Tunnel Suite 480 Shaneland, GA 26165-9694","Hays, Henson and Shelton",0,GA,Shaneland,5-10years,45-55,1366.06,1.1,Yes,2007,2,0.0,56.08,1195.51
+Denise Watkins,47,9451.03,0,5.11,10,2006-06-28 17:50:00,"PSC 9819, Box 2842 APO AE 04352-2576",Price-Webb,0,Box,9819,5-10years,45-55,1849.52,2.0,No,2006,2,0.0,51.1,1546.81
+Mrs. Elizabeth Salas,48,9722.23,1,5.98,6,2013-12-21 22:15:00,"393 Underwood Court Apt. 802 East Christopher, FM 75364",Hall-Berger,0,FM,Christopher,5-10years,45-55,1625.79,1.0,Yes,2013,4,0.0,35.88,1392.87
+Jessica Morales,49,11227.48,0,5.1,9,2011-08-16 08:46:00,"1384 Wendy Ferry West Ryanburgh, ID 88650",Barrera-Hamilton,0,ID,Ryanburgh,5-10years,45-55,2201.47,1.8,No,2011,3,0.0,45.9,1840.57
+Mark Murphy,47,10718.97,0,5.74,7,2014-05-24 14:54:00,"64471 Joel Bypass Apt. 162 Lake Alyssabury, WA 71324-8954",Moore-Rios,0,WA,Alyssabury,5-10years,45-55,1867.42,1.2,No,2014,2,0.0,40.18,1590.35
+Deborah Morgan,40,11799.72,0,3.0,8,2016-10-02 23:17:00,"773 Davis Ways Apt. 519 West Jamesbury, AR 35583","Wright, Lambert and Mcknight",0,AR,Jamesbury,3-5years,35-45,3933.24,2.7,No,2016,4,0.0,24.0,2949.93
+Kiara Vasquez,38,13074.81,1,4.67,7,2011-05-07 04:27:00,"79384 York Cliff Suite 810 Lake Kristen, SC 81231-6853","Gonzales, Fuller and Cole",0,SC,Kristen,3-5years,35-45,2799.75,1.5,Yes,2011,2,0.0,32.69,2305.96
+Zachary Howard,49,9000.36,0,4.13,11,2013-03-23 09:19:00,"PSC 9781, Box 0250 APO AP 24732","Peterson, Morgan and Wilson",0,Box,9781,3-5years,45-55,2179.26,2.7,No,2013,1,0.0,45.43,1754.46
+Vanessa Myers,39,13731.45,1,8.15,10,2011-09-27 06:52:00,"1150 Archer Point Suite 946 Marksfurt, MH 51860",Welch-Larsen,0,MH,Marksfurt,5-10years,35-45,1684.84,1.2,Yes,2011,3,0.0,81.5,1500.7
+Beverly Hall,33,8556.73,0,4.21,9,2007-02-23 10:47:00,"145 Kelly Crest Apt. 419 Madelinehaven, OH 55835-0109","Johnson, Ingram and Hart",0,OH,Madelinehaven,3-5years,25-35,2032.48,2.1,No,2007,1,0.0,37.89,1642.37
+Kristin Williams,37,12410.67,0,6.12,6,2014-12-30 04:56:00,"942 Becker Inlet West Cassandramouth, NH 64437-6741",Warner Group,0,NH,Cassandramouth,5-10years,35-45,2027.89,1.0,No,2014,4,0.0,36.72,1743.07
+Mrs. Sherri Zhang,48,11316.41,1,4.74,10,2008-07-19 16:08:00,Unit 8716 Box 6865 DPO AE 33780,"Rodriguez, Acosta and Guerra",0,,33780,3-5years,45-55,2387.43,2.1,Yes,2008,3,0.0,47.400000000000006,1971.5
+Charles Schultz,35,13035.91,1,5.51,6,2015-09-22 23:07:00,"PSC 1774, Box 1074 APO AA 11178-4877",Vargas and Sons,0,Box,1774,5-10years,35-45,2365.86,1.1,Yes,2015,3,0.0,33.06,2002.44
+Manuel Williams,36,5695.21,0,4.1,7,2006-05-06 01:17:00,"880 Teresa Harbors New Deborah, PA 97964-1536",Jackson Ltd,0,PA,Deborah,3-5years,35-45,1389.08,1.7,No,2006,2,0.0,28.699999999999996,1116.71
+Kevin Hardy,43,6411.25,0,2.82,7,2014-08-08 14:46:00,"3070 Matthew Stream Suite 892 Mendozahaven, UT 47622",Rice PLC,0,UT,Mendozahaven,1-3years,35-45,2273.49,2.5,No,2014,3,0.0,19.74,1678.34
+Ann Johnson,42,9091.99,0,5.85,6,2014-03-27 05:11:00,"2091 Sims Ranch Lauraborough, KS 59292-0985",Walker Ltd,0,KS,Lauraborough,5-10years,35-45,1554.19,1.0,No,2014,1,0.0,35.099999999999994,1327.3
+David Anderson,39,11680.91,1,6.35,7,2008-07-04 02:41:00,"63410 Mark Rapids North Christopherbury, NV 91856-5125",Smith LLC,0,NV,Christopherbury,5-10years,35-45,1839.51,1.1,Yes,2008,3,0.0,44.449999999999996,1589.24
+Nicholas Porter,44,8841.3,1,6.08,7,2008-02-04 15:07:00,Unit 8567 Box 8741 DPO AA 63221,Thompson-Savage,0,,63221,5-10years,35-45,1454.16,1.2,Yes,2008,1,0.0,42.56,1248.77
+Jose Gutierrez,51,7985.76,1,3.48,8,2006-07-28 15:47:00,"481 Andrews Freeway Apt. 222 Lake Alyssaburgh, TN 57832-1720","Smith, Phillips and Smith",0,TN,Alyssaburgh,3-5years,45-55,2294.76,2.3,Yes,2006,3,0.0,27.84,1782.54
+Sarah Burns,35,11814.59,0,5.89,6,2013-06-28 13:22:00,"01740 Cynthia Rest Apt. 545 Bassburgh, MN 95437-1761",Frey-Burke,0,MN,Bassburgh,5-10years,35-45,2005.87,1.0,No,2013,2,0.0,35.339999999999996,1714.74
+Dana Bailey,52,7077.34,1,5.6,8,2015-11-08 06:57:00,"61381 Cassandra Cliffs Apt. 605 West Frederickberg, PW 73455-0264","Gibson, Frost and Rivera",0,PW,Frederickberg,5-10years,45-55,1263.81,1.4,Yes,2015,4,0.0,44.8,1072.32
+Diana Jackson,51,9879.37,0,3.55,10,2008-02-11 07:28:00,USNS Burnett FPO AA 61045,Stephens-Chavez,0,,61045,3-5years,45-55,2782.92,2.8,No,2008,1,0.0,35.5,2171.29
+Scott Love,28,11128.95,1,5.12,8,2009-04-13 23:47:00,Unit 7738 Box 0206 DPO AA 88767-0662,Williams-Johnson,0,,88767-0662,5-10years,25-35,2173.62,1.6,Yes,2009,2,0.0,40.96,1818.46
+Doris Zimmerman,40,11575.55,1,5.22,5,2015-03-10 20:16:00,"3536 Rivera Springs Suite 771 New Marcusville, HI 22211-1439",Mitchell-Adams,0,HI,Marcusville,5-10years,35-45,2217.54,1.0,Yes,2015,1,0.0,26.099999999999998,1861.02
+Jeffrey Trevino,37,13268.55,0,3.92,11,2016-03-08 21:48:00,"0295 Mason Vista Suite 110 Ryanbury, IA 14087",Price-Ramirez,0,IA,Ryanbury,3-5years,35-45,3384.83,2.8,No,2016,1,0.0,43.12,2696.86
+Anthony Vega,44,9351.88,1,4.32,6,2011-08-16 19:16:00,"PSC 9086, Box 2290 APO AP 24944-0330",Hall Group,0,Box,9086,3-5years,35-45,2164.79,1.4,Yes,2011,3,0.0,25.92,1757.87
+James Owen,43,9735.41,0,6.12,8,2010-10-27 18:11:00,"802 Jeffrey Valleys Kevinbury, WV 86701-9336","Olson, Ortega and Hester",0,WV,Kevinbury,5-10years,35-45,1590.75,1.3,No,2010,4,0.0,48.96,1367.33
+Aaron Meyer,45,9598.03,0,5.0,7,2010-07-17 03:30:00,"35821 Bailey Skyway Alexisstad, NH 81472","Steele, Bates and Lane",0,NH,Alexisstad,5-10years,45-55,1919.61,1.4,No,2010,3,0.0,35.0,1599.67
+Holly Hill,43,5805.53,0,5.44,5,2014-11-27 17:12:00,"6985 Kevin Flat South Debra, CO 13171",Shaw LLC,0,CO,Debra,5-10years,35-45,1067.19,0.9,No,2014,4,0.0,27.200000000000003,901.48
+Andrew Leonard,41,14099.03,1,4.56,7,2016-03-02 16:50:00,Unit 6154 Box 5113 DPO AP 65306-0703,"Cruz, Carter and Washington",0,,65306-0703,3-5years,35-45,3091.89,1.5,Yes,2016,1,0.0,31.919999999999998,2535.8
+Jessica Leon,49,8523.04,1,4.15,5,2014-09-03 01:12:00,"PSC 3040, Box 9946 APO AP 11064-1547",Williams-Moreno,0,Box,3040,3-5years,45-55,2053.74,1.2,Yes,2014,3,0.0,20.75,1654.96
+Amy Garcia,42,6406.38,0,3.0,9,2007-03-09 23:50:00,"12223 Sean Valley Suite 960 Johnland, IA 33208",Barker Ltd,0,IA,Johnland,3-5years,35-45,2135.46,3.0,No,2007,1,0.0,27.0,1601.6
+John Nixon,48,5622.5,0,6.05,7,2012-07-11 04:58:00,"7186 Justin Locks Apt. 232 Stevenmouth, CT 17609-9525",French-Miller,0,CT,Stevenmouth,5-10years,45-55,929.34,1.2,No,2012,3,0.0,42.35,797.52
+Deanna Henry,47,6670.37,0,2.55,9,2010-03-29 20:16:00,"62894 Summer Village Suite 944 Port Elizabeth, ID 67244-9988","Jones, Collins and Adams",0,ID,Elizabeth,1-3years,45-55,2615.83,3.5,No,2010,1,0.0,22.95,1878.98
+Jeremy Singleton,46,13547.39,0,2.67,8,2012-04-20 23:59:00,"067 Samuel Greens New Prestonchester, DC 50364-5698",Mckinney-Thompson,0,DC,Prestonchester,1-3years,45-55,5073.93,3.0,No,2012,2,0.0,21.36,3691.39
+Kara Anderson,47,9182.81,1,6.45,11,2012-04-14 02:53:00,"19845 Hudson Mission Michaelmouth, GA 90290","Douglas, Fleming and Munoz",0,GA,Michaelmouth,5-10years,45-55,1423.69,1.7,Yes,2012,2,0.0,70.95,1232.59
+Kelly Braun,42,9741.19,1,3.85,9,2009-12-14 05:47:00,"080 Brewer Ports Suite 299 Erinmouth, TX 28755","Mosley, Tate and Blankenship",0,TX,Erinmouth,3-5years,35-45,2530.18,2.3,Yes,2009,4,0.0,34.65,2008.49
+Amanda Wade,39,8880.17,0,4.0,8,2011-03-05 06:46:00,"869 Kathleen Dam Apt. 113 East Robertshire, SC 50012-1080","Jordan, Beasley and Moore",0,SC,Robertshire,3-5years,35-45,2220.04,2.0,No,2011,1,0.0,32.0,1776.03
+Jason West,45,13122.89,0,5.84,6,2016-04-03 12:55:00,"6239 Timothy Overpass Carmenhaven, FM 05708-0772",Santiago-Waller,0,FM,Carmenhaven,5-10years,45-55,2247.07,1.0,No,2016,2,0.0,35.04,1918.55
+Adam Moore,41,12659.88,0,4.55,4,2010-01-22 19:08:00,"339 Jeffrey River Suite 638 Fergusonville, DC 25987","Little, White and Davis",0,DC,Fergusonville,3-5years,35-45,2782.39,0.9,No,2010,1,0.0,18.2,2281.06
+Brandon Ortiz,37,8286.87,1,6.25,8,2007-12-13 12:23:00,"276 Thompson Field Apt. 992 South Victoriaton, SC 12848-8182",Ewing Group,0,SC,Victoriaton,5-10years,35-45,1325.9,1.3,Yes,2007,4,0.0,50.0,1143.02
+Cindy Marshall,37,9229.96,0,3.65,8,2015-12-30 19:11:00,"393 Stephens Field South Michelleside, MI 26930",Gomez-Clarke,0,MI,Michelleside,3-5years,35-45,2528.76,2.2,No,2015,4,0.0,29.2,1984.94
+Matthew Barnes,45,4863.73,1,5.17,8,2011-07-19 18:41:00,"00154 Ashley Course Shannonville, UT 52907",Chavez-Howard,0,UT,Shannonville,5-10years,45-55,940.76,1.5,Yes,2011,3,0.0,41.36,788.29
+Paul Miller,42,12800.82,1,3.62,8,2007-12-01 13:29:00,"9316 Julian Fort Suite 328 North Leslie, ME 43961",Evans-Lucero,0,ME,Leslie,3-5years,35-45,3536.14,2.2,Yes,2007,4,0.0,28.96,2770.74
+Natalie Hodges,52,9893.92,0,6.91,7,2008-12-28 15:23:00,"8419 William Square Apt. 695 Martinville, RI 34133",Perry and Sons,0,RI,Martinville,5-10years,45-55,1431.83,1.0,No,2008,4,0.5,48.370000000000005,1250.81
+Ana Smith,45,12056.18,0,5.46,4,2014-06-20 05:10:00,Unit 8633 Box 8738 DPO AA 14126-5026,Schneider-Smith,0,,14126-5026,5-10years,45-55,2208.09,0.7,No,2014,2,0.0,21.84,1866.28
+Justin Leonard,51,6517.93,1,5.47,10,2012-05-30 00:15:00,"49800 Torres Ways Suite 886 West Bradleybury, LA 05945-2648",Robles-Abbott,0,LA,Bradleybury,5-10years,45-55,1191.58,1.8,Yes,2012,2,0.0,54.699999999999996,1007.41
+Joseph Williams,39,9315.6,1,5.02,10,2010-09-25 12:16:00,"27252 Olivia Burgs Rivasmouth, MN 80121-6348",Davis Group,0,MN,Rivasmouth,5-10years,35-45,1855.7,2.0,Yes,2010,3,0.0,50.199999999999996,1547.44
