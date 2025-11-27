@@ -30,6 +30,7 @@ Detect churn-driving factors
 Make data-backed retention decisions
 
 📊 Workflow
+
 🔹 1. Data Cleaning (Python)
 
 Handled missing values
